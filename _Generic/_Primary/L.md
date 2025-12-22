@@ -80,44 +80,25 @@ A ⊢ B
 denotes a logical consequence ⟨ https://en.wikipedia.org/wiki/Logical_consequence ⟩
 
 # 4. `⊤`
-## 4.1.
+### Syntax 1
+#### Variant 1
 ~~~code
-⊤ B
+⊤⟦Rs⟧ A
 ~~~
-means that `B` is true (is a fact).
-
-## 4.2.
+#### Variant 2
 ~~~code
-⊤⟦Rs⟧ B
+⊤⟦Rs⟧ ⟨ A ⟩
 ~~~
-means:
-```
-(⊤ `B`) AND (`Rs` are the reasons why `B` is true)
-```
-
-## 4.3.
+#### Variant 3
 ~~~code
-A ≔⊤
-```
-B
+⊤⟦Rs⟧ 
+```markdown
+A
 ```
 ~~~
-means:
-```code
-(`A` ≔ `B`) AND (⊤ `B`).
-```
-
-## 4.4.
-~~~code
-A ≔⊤⟦Rs⟧
-```
-B
-```
-~~~
-means:
-```code
-(`A` ≔ `B`) AND (⊤⟦Rs⟧ B).
-```
+### Meaning
+- `A` is true (is a fact).
+- `⟦Rs⟧` — опциональная секция, мотивирующая утверждение о истинности `A`.
 
 # 5. `≔!`
 ## 5.1.

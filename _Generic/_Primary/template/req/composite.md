@@ -1,29 +1,34 @@
-# 1. `B.md`
+# `B.md`
 ~~~~~~markdown
 STUB
 ~~~~~~
 
-# 2. `L.md`
+# `L.md`
 ~~~~~~markdown
 STUB
 ~~~~~~
 
-# 3. `O.md`
+# `O.md`
 ~~~~~~markdown
 STUB
 ~~~~~~
 
-# 4. `T.md`
+# `T.md`
 ~~~~~~markdown
 STUB
 ~~~~~~
 
-# 5. `R.md`
+# `A.md`
 ~~~~~~markdown
 STUB
 ~~~~~~
 
-# 6. `E.md`
+# `R.md`
+~~~~~~markdown
+STUB
+~~~~~~
+
+# `E.md`
 ~~~~~~markdown
 STUB
 ~~~~~~

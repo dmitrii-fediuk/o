@@ -124,10 +124,20 @@ An ontology: a representation, formal naming, and definitions of the categories,
 ``` 
 
 ##
+`ℙ` ≔ 
+```	
+понятие «predicate» в контекстах:
+- ⟨ Ⱳ https://en.wikipedia.org/wiki/Predicate_(logic) ⟩ 
+- ⟨ Ⱳ https://en.wikipedia.org/wiki/First-order_logic ⟩
+- ⟨ Ⱳ https://en.wikipedia.org/wiki/Function_symbol ⟩
+``` 
+
+##
 `𝕊` ≔ ⟨ Ⱳ https://en.wikipedia.org/wiki/Set_(mathematics) ⟩
 
 ##
 `𝕋` ≔ ⟨ понятие «type» в контексте ⟨ Ⱳ https://en.wikipedia.org/wiki/Type_theory ⟩ ⟩
+
 
 # 9. ⠿{I₁, I₂, …, Iₙ} 
 ## Meaning

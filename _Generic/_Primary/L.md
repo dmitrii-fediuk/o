@@ -123,6 +123,10 @@ An ontology: a representation, formal naming, and definitions of the categories,
 ``` 
 
 ##
+`𝕀` ≔ ❮ понятие «interval» в контексте 
+⟨ Ⱳ https://en.wikipedia.org/wiki/Partially_ordered_set#Intervals ⟩ ❯ 
+
+##
 `ℙ` ≔ 
 ```markdown
 понятие «predicate» в контекстах:
@@ -137,6 +141,8 @@ An ontology: a representation, formal naming, and definitions of the categories,
 ##
 `𝕋` ≔ ⟨ понятие «type» в контексте ⟨ Ⱳ https://en.wikipedia.org/wiki/Type_theory ⟩ ⟩
 
+# 9. ⣏…⣹
+
 # 9. ⠿{I₁, I₂, …, Iₙ} 
 ## Meaning
 Такая запись определяет `𝕊` посредством точного (полного) перечисления его элементов. 
@@ -145,6 +151,7 @@ An ontology: a representation, formal naming, and definitions of the categories,
 ⠿{1, 2, 5, 7}
 ~~~
 
+# 10. ⠿ ⟪ M ⟫ ⣏I₁ - Iₙ⣹ 
 # 10. ⠿ ⟪ M ⟫ ⣏I₁ - Iₙ⣹ 
 ## Meaning
 Такая запись определяет `𝕊` посредством точного указания интервала/диапазона значений некоего упорядоченного надмножества `M`.

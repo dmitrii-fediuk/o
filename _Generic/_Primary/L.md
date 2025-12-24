@@ -6,7 +6,7 @@ A ≔ B
 ## Meaning
 `B`: некое понятие.
 `A`: краткое обозначение для `B`.
-Таким образом, `A ≔ B` means that `A` **denotes** `B`.
+Таким образом, `A ≔ B` means that `A` denotes `B`.
 ## Example
 `DOR ≔ Florida Department of Revenue` означает, что `DOR` — краткое обозначение для «Florida Department of Revenue».
 
@@ -16,8 +16,7 @@ A ≔ B
 ⟨ A ⟩
 ~~~
 ## Meaning
-It means just `A`.
-Таким образом, `⟨ A ⟩ ≡ A`.
+`⟨ A ⟩` ≡ `A`
 ## Rationale
 Я использую `⟨ A ⟩` вместо `A` в том случае, когда `A` — длинный однострочный текст, и я хочу яснее показать его границы (в частности, когда `A` внутри себя содержит спецсимволы).
 ## Example

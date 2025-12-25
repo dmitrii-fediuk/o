@@ -441,7 +441,7 @@ A ≔⊥ (B, C)
 A ≔ (B, C ⊢ ⊥)
 ```
 
-# 19. `⌖`
+# 30. ⌖
 ### Syntax
 #### Variant 1
 ```
@@ -457,9 +457,9 @@ T
 ### Meaning
 `T` is a citation from `A`.
 
-# 20. `ꘖ` (attributes / properties)
-## 20.1. Definitions using a global symbol
-### 20.1.1. 
+# 31. ꘖ
+## 31.1. Definitions using a global symbol
+### 31.1.1. 
 #### Syntax
 ~~~code
 ꘖ A ∋ B
@@ -467,7 +467,7 @@ T
 #### Meaning
 `B` is an attribute / property of `A`.
 
-### 20.1.2.
+### 31.1.2.
 #### Syntax
 ~~~code
 ꘖ A ∋ B ≔ ⟪ D ⟫ 
@@ -480,20 +480,20 @@ V
 (ꘖ A ∋ B) AND (B ≔ ⟪ D ⟫ V)
 ~~~
 
-## 20.2. Definitions using local keys
-### 20.2.1. Common rules
+## 31.2. Definitions using local keys
+### 31.2.1. Common rules
 ####
-В §20.1 мы описывали an attribute / property of `A` using глобально доступный затем символ `B`.
+В §31.1 мы описывали an attribute / property of `A` using глобально доступный затем символ `B`.
 ####
-В §20.2 мы описываем attributes / properties of `A` иначе: using local keys.
+В §31.2 мы описываем attributes / properties of `A` иначе: using local keys.
 ####
 Эти local keys имеют уникальное значение только в контексте `A`.
 ####
 Вне контекста `A` эти local keys могут иметь другие значения.
 Поэтому при сссылке на эти local keys надо обязательно указывать их : `A`.
-Конкретный синтаксис для указания контекста описан в §20.2.4. 
+Конкретный синтаксис для указания контекста описан в §31.2.4. 
 
-### 20.2.2.
+### 31.2.2.
 #### Syntax
 ##### Variant 1
 ~~~code
@@ -513,7 +513,7 @@ AND
 	(`D` — это комментарий, поясняющий роль `B` в `A`)	
 ~~~
 
-### 20.2.3.
+### 31.2.3.
 #### Syntax
 ~~~code
 ꘖ A ∋
@@ -532,13 +532,13 @@ AND
 <…>
 ~~~
 
-### 20.2.4.
+### 31.2.4.
 #### Syntax
 ~~~code
 A「B」
 ~~~
 #### Meaning
 #####
-Таким способом мы ссылаемся на local key `B`, определённый ранее в качестве attribute / property of `A` посредством синтаксиса §20.2.2 или §20.2.3.  
+Таким способом мы ссылаемся на local key `B`, определённый ранее в качестве attribute / property of `A` посредством синтаксиса §31.2.2 или §31.2.3.  
 #####
 Требования к `A「B」` распространяются и все подразделы внутри `A「B」` (например, `A「B」「С」`).

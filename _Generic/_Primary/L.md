@@ -45,17 +45,21 @@ Last Line ⟩
 ##### Explanation
 Такая запись эквивалентна стандартному синтаксису Markdown (но при этом короче):
 ###### Backticks
+~~~~code
 ```markdown
 Line 1
 Line 2
-<…>
 ```
+<…>
+~~~~
 ###### Tildas
+~~~~code
 ~~~markdown
 Line 1
 Line 2
 <…>
-~~~ 
+~~~
+~~~~ 
 
 # 3. Metadata: ⟪ … ⟫
 ## Syntax

@@ -18,7 +18,44 @@ A ≔ B
 ## Meaning
 `⟨ A ⟩` ≡ `A`
 ## Rationale
-Я использую `⟨ A ⟩` вместо `A` в том случае, когда `A` — длинный однострочный текст, и я хочу яснее показать его границы (в частности, когда `A` внутри себя содержит спецсимволы).
+Я использую `⟨ A ⟩` вместо `A` с целью яснее показать границы `A`.
+Обычно я делаю это в следующих 3 cases:
+### Case 1
+Когда `A` — длинный текст.
+### Case 2
+Когда `A` внутри себя содержит спецсимволы.
+#### Example
+#####
+`M ≔ ⟨ Marketplace facilitators (Airbnb/VRBO) ⟩`
+#####
+В этом примере обычные скобки `( )` уже являются частью значения, и нестандартными скобками `⟨ ⟩` я яснее показываю границы значения.
+### Case 3
+Когда `A` — многострочный текст.
+В этом случае я могу использовать `⟨ ⟩` для сокращения количества строк, потому что `⟨ ⟩`, в отличие от стандартного синтаксиса Markdown для обозначения границ блоков посредством backticks/tildas, позволяет мне размещать первую и последнюю строки значения на тех же строках, что и маркеры границ: `⟨ ⟩`.
+#### Example
+#####
+⟨ Line 1
+Line 2
+<…>
+Last Line ⟩
+#####
+Такая запись эквивалентна стандартному синтаксису Markdown (но при этом короче):
+######
+```markdown
+Line 1
+Line 2
+<…>
+```
+######
+~~~markdown
+Line 1
+Line 2
+<…>
+~~~ 
+
+, и я для экономии количества строк 
+Обычно я дела
+ (в частности, когда `A` внутри себя содержит спецсимволы).
 ## Example
 `M ≔ ⟨ Marketplace facilitators (Airbnb/VRBO) ⟩` означает, что `M` — краткое обозначение для «Marketplace facilitators (Airbnb/VRBO)».
 ###
@@ -79,15 +116,7 @@ Last Line ❯
 ## Meaning
 Понятие, которому посвящена статья Wikipedia по адресу `URL`.
 ## Example
-`Ⱳ https://en.wikipedia.org/wiki/Ontology_(information_science)` ≡ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities.
-### Code
-~~~code
-
-~~~
-### Meaning
-```text
-
-```
+`Ⱳ https://en.wikipedia.org/wiki/Ontology_(information_science)` ≡ ❮ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities. ❯
 
 # 6. ⊤
 ## Syntax

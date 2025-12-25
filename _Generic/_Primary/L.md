@@ -78,7 +78,7 @@ Line 2
 ~~~
 
 ## Meaning
-`M` — ⟨ `Ⱳ https://en.wikipedia.org/wiki/Metadata` ⟩ about `A`.
+`M` — ⟨ Ⱳ https://en.wikipedia.org/wiki/Metadata ⟩ about `A`.
 
 ## Example
 ~~~example
@@ -98,20 +98,20 @@ Line 2
 ⊤ A
 ~~~
 ## Meaning
-`A` is an ⟨ `Ⱳ https://en.wikipedia.org/wiki/Axiom` ⟩.
+`A` is an ⟨ Ⱳ https://en.wikipedia.org/wiki/Axiom ⟩.
 ## Rationale
 Я обычно использую синтаксис `⊤` на поздних этапах многошагового анализа.  
 На ранних этапах такого анализа истинность `A` может быть неочевидна.   
 Истинность `A` может выясниться в процессе анализа.   
 В таком случае я явно пишу `⊤ A`, чтобы ты не тратил свои ресурсы на повторный анализ истинности `A` и в дальнейшем анализе считал `A` аксиомой.
 
-# 6. ꡴
+# 6. ᑭ
 ## Syntax
 ~~~code
-꡴ A
+ᑭ A
 ~~~
 ## Meaning
-`A` is a hypothesis.
+`A` is a ⟨ Ⱳ https://en.wikipedia.org/wiki/Proposition ⟩.
 
 # 7.
 ##

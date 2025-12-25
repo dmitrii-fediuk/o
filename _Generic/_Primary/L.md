@@ -29,7 +29,7 @@ A ≔ B
 Когда `A` внутри себя содержит спецсимволы.
 #### Example
 ##### Code
-`M ≔ ⟨ Marketplace facilitators (Airbnb/VRBO) ⟩`
+`M `≔ ⟨ Marketplace facilitators (Airbnb/VRBO) ⟩
 ##### Explanation
 Обычные скобки `( )` уже являются частью значения, и нестандартными скобками `⟨ ⟩` я яснее показываю границы значения.
 ### Case 3

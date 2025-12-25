@@ -129,8 +129,8 @@ Line 2
 ``` 
 
 ##
-`𝕀` ≔ ❮ понятие «interval» в контексте 
-⟨ Ⱳ https://en.wikipedia.org/wiki/Partially_ordered_set#Intervals ⟩ ❯ 
+`𝕀` ≔ ⟨ понятие «interval» в контексте 
+⟨ Ⱳ https://en.wikipedia.org/wiki/Partially_ordered_set#Intervals ⟩ ⟩ 
 
 ##
 `ℙ` ≔ 

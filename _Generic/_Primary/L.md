@@ -61,14 +61,24 @@ Line 2
 ~~~
 ~~~~ 
 
-# 3. Metadata: ⟪ … ⟫
+# 3. Ⱳ
+## Syntax
+~~~code
+Ⱳ URL
+~~~
+## Meaning
+Понятие, которому посвящена статья Wikipedia по адресу `URL`.
+## Example
+`Ⱳ https://en.wikipedia.org/wiki/Ontology_(information_science)` ≡ ⟨ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities. ⟩
+
+# 3. ⟪ … ⟫
 ## Syntax
 ~~~code
 ⟪ M ⟫ A
 ~~~
 
 ## Meaning
-`M` — мета-информация об `A`.
+`M` — ⟨ `Ⱳ https://en.wikipedia.org/wiki/Metadata` ⟩ about `A`.
 
 ## Example
 ~~~example
@@ -79,26 +89,16 @@ Line 2
 ~~~
 #### Explanation
 - `<содержание моего ответа>` — это текст моего письма клиенту.
-- «мой ответ клиенту на его письмо `X`» — это мета-информация. 
-- Мета-информация не является частью текста моего письма клиенту: она указывает назначение текста. 
+- «мой ответ клиенту на его письмо `X`» — metadata. 
+- Metadata не является частью текста моего письма клиенту: она указывает назначение текста. 
 
-# 5. Ⱳ
-## Syntax
-~~~code
-Ⱳ URL
-~~~
-## Meaning
-Понятие, которому посвящена статья Wikipedia по адресу `URL`.
-## Example
-`Ⱳ https://en.wikipedia.org/wiki/Ontology_(information_science)` ≡ ⟨ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities. ⟩
-
-# 6. ⊤
+# 4. ⊤
 ## Syntax
 ~~~code
 ⊤ A
 ~~~
 ## Meaning
-`A` is an axiom (`Ⱳ https://en.wikipedia.org/wiki/Axiom`).
+`A` is an ⟨ `Ⱳ https://en.wikipedia.org/wiki/Axiom` ⟩.
 ## Rationale
 Я обычно использую синтаксис `⊤` на поздних этапах многошагового анализа.  
 На ранних этапах такого анализа истинность `A` может быть неочевидна. 

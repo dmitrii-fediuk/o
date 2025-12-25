@@ -23,3 +23,8 @@ https://en.wikipedia.org/wiki/Free_variables_and_bound_variables#Function_defini
 A clear example of a variable-binding operator from mathematics is function definition
 
 In English, personal pronouns such as he, she, they, and their variants (e.g., her, him) can function as free variables
+
+
+https://en.wikipedia.org/wiki/Binding_(linguistics)
+
+https://en.wikipedia.org/wiki/Scope_(formal_semantics)

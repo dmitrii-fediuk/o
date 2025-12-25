@@ -372,7 +372,7 @@ A₂ ≔ B₂
 ~~~
 
 ### Meaning
-`A₁`, `A₂` — это local variables. 
+`A₁`, `A₂` — это local variables.   
 Вне `☷` они могут иметь другие значения вместо `B₁` и `B₂`.
 
 ### Example

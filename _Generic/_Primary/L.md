@@ -9,7 +9,7 @@ A ≔ B
 Таким образом, `A ≔ B` means that `A` denotes `B`.
 ## Example
 ### Code
-`DOR ≔ Florida Department of Revenue` 
+`DOR` ≔ Florida Department of Revenue
 ### Explanation
 `DOR` — краткое обозначение для «Florida Department of Revenue».
 

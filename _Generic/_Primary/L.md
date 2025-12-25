@@ -105,13 +105,16 @@ Line 2
 Истинность `A` может выясниться в процессе анализа.   
 В таком случае я явно пишу `⊤ A`, чтобы ты не тратил свои ресурсы на повторный анализ истинности `A` и в дальнейшем анализе считал `A` аксиомой.
 
-# 6. ᑭ
+# 6. ꖿ
 ## Syntax
 ~~~code
-ᑭ A
+ꖿ A
 ~~~
 ## Meaning
-`A` is a ⟨ Ⱳ https://en.wikipedia.org/wiki/Proposition ⟩.
+`A` is a (or a combination of):
+- ⟨ Ⱳ https://en.wikipedia.org/wiki/Proposition ⟩
+- ⟨ «statement» in the context of ⟨ Ⱳ https://en.wikipedia.org/wiki/Proposition ⟩⟩
+- ⟨ Ⱳ https://en.wikipedia.org/wiki/Claim_(philosophy) ⟩
 
 # 7.
 ##

@@ -90,7 +90,7 @@ Line 2
 ## Meaning
 Понятие, которому посвящена статья Wikipedia по адресу `URL`.
 ## Example
-`Ⱳ https://en.wikipedia.org/wiki/Ontology_(information_science)` ≡ ❮ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities. ❯
+`Ⱳ https://en.wikipedia.org/wiki/Ontology_(information_science)` ≡ ⟨ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities. ⟩
 
 # 6. ⊤
 ## Syntax

@@ -136,9 +136,9 @@ Line 2
 ~~~
 ## Meaning
 `A` is a (or a combination of):
-- ⟨ Ⱳ Proposition ⟩
-- ⟨ Ⱳ Proposition∷statement ⟩
-- ⟨ Ⱳ Claim_(philosophy) ⟩
+- Ⱳ Proposition
+- Ⱳ Proposition∷statement
+- Ⱳ Claim_(philosophy)
 
 # 7.
 ##
@@ -147,27 +147,26 @@ Line 2
 ##
 `ℂ` ≔ 
 ```
-- ⟨ Ⱳ Class_(knowledge_representation) ⟩ 
-- ⟨ Ⱳ Ontology_components#Classes ⟩  
+- Ⱳ Class_(knowledge_representation)
+- Ⱳ Ontology_components#Classes  
 ```
 
 ##
-`𝕀` ≔ Ⱳ Partially_ordered_set∷Intervals  
+`𝕀` ≔ Ⱳ Partially_ordered_set∷interval   
 
 ##
 `ℙ` ≔ 
-```markdown
-понятие «predicate» в контекстах:
-- ⟨ Ⱳ https://en.wikipedia.org/wiki/Predicate_(logic) ⟩ 
-- ⟨ Ⱳ https://en.wikipedia.org/wiki/First-order_logic ⟩
-- ⟨ Ⱳ https://en.wikipedia.org/wiki/Function_symbol ⟩
+```
+- Ⱳ https://en.wikipedia.org/wiki/Predicate_(logic) 
+- Ⱳ https://en.wikipedia.org/wiki/First-order_logic∷predicate 
+- Ⱳ https://en.wikipedia.org/wiki/Function_symbol∷predicate 
 ``` 
 
 ##
-`𝕊` ≔ ⟨ Ⱳ https://en.wikipedia.org/wiki/Set_(mathematics) ⟩
+`𝕊` ≔ Ⱳ Set_(mathematics)
 
 ##
-`𝕋` ≔ ⟨ понятие «type» в контексте ⟨ Ⱳ https://en.wikipedia.org/wiki/Type_theory ⟩ ⟩
+`𝕋` ≔ Ⱳ Type_theory∷type
 
 # 8. ⠿{I₁, I₂, …, Iₙ} 
 ## Meaning

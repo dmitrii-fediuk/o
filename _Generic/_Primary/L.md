@@ -377,7 +377,7 @@ A∷⟨ пункт 3 ⟩
 
 ## Meaning
 Правила `<rules>` действуют временно: только в рамках `☷`.  
-`☷` — это ⟨ Ⱳ https://en.wikipedia.org/wiki/Scope_(computer_programming) ⟩ для `<rules>`.  
+`☷` — это ⟨ Ⱳ Scope_(computer_programming) ⟩ для `<rules>`.  
 Вне `☷` правила `<rules>` не действительны. 
 
 ## Главный Use Case: введение local variables

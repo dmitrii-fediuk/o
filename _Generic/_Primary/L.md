@@ -125,8 +125,8 @@ Line 2
 `ℂ` ≔ 
 ```markdown
 понятие «class» в контекстах:
-- ⟨ Ⱳ https://en.wikipedia.org/wiki/Class_(knowledge_representation) ⟩ 
-- ⟨ Ⱳ https://en.wikipedia.org/wiki/Ontology_components#Classes ⟩
+- ⟨ Ⱳ Class_(knowledge_representation) ⟩ 
+- ⟨ Ⱳ Ontology_components#Classes ⟩
 ``` 
 
 ##

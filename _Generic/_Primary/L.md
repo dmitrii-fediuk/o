@@ -62,17 +62,41 @@ Line 2
 ~~~~ 
 
 # 3. Ⱳ
-## Syntax
+## Syntax 1: `Ⱳ LPS`
 ~~~code
-Ⱳ T
+Ⱳ LPS
 ~~~
-## Meaning
-Понятие, которому посвящена статья Wikipedia (или её раздел, если `T` содержит a Fragment Identifier) по адресу `https://en.wikipedia.org/wiki/<T>`.  
-## Examples
-### `T` is the Last Path Segment
+### Meaning
+Понятие, которому посвящена статья Wikipedia по адресу `https://en.wikipedia.org/wiki/<LPS>`.  
+`LPS` — the Last Path Segment of the article's URL.
+### Example
 ⟨ Ⱳ Ontology_(information_science) ⟩ ≡ ⟨ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities ⟩
-### `T` is the Last Path Segment with a Fragment Identifier
-⟨ Ⱳ Partially_ordered_set#Intervals ⟩ ≡ ⟨ An **interval** in a poset `P` is a subset that can be defined with interval notation <…> ⟩
+
+## Syntax 2: `Ⱳ LPS#FI`
+~~~code
+Ⱳ LPS#FI
+~~~
+### Meaning
+Понятие, которому посвящён раздел статьи Wikipedia по адресу `https://en.wikipedia.org/wiki/<LPS>#<FI>`.  
+### Example
+⟨ Ⱳ Partially_ordered_set#Intervals ⟩ ≡ ⟨ понятие «**interval**» в контексте «an **interval** in a poset `P` is a subset that can be defined with interval notation <…>» ⟩
+### Rationale
+Я использую этот синтаксис, когда для описываемого мной понятия отсутствует a standalone artice in Wikipedia. 
+
+## Syntax 3: `Ⱳ LPS∷T`
+~~~code
+Ⱳ LPS∷T
+~~~
+### Meaning
+Понятие `T` в контексте статьи Wikipedia по адресу `https://en.wikipedia.org/wiki/<LPS>`.  
+### Example
+⟨ Ⱳ Theory_of_categories∷category ⟩ ≡ ⟨ понятие «**category**» в контексте «In ontology, the theory of categories concerns itself with the **categories** of being: the highest genera or kinds of entities. To investigate the categories of being, or simply **categories** <…>» ⟩
+### Rationale
+Я использую этот синтаксис в тех случаях, когда для описываемого мной понятия отсутствует и standalone artice in Wikipedia, и даже standalone section какой-либо статьи  Wikipedia.
+
+https://en.wikipedia.org/wiki/Type_theory#Applications
+ ≡ ⟨The terms "proposition" and "**statement**" are sometimes used as synonyms.
+However, the word "**statement**" is ambiguous since it can also refer to declarative sentences themselves rather than their meanings ⟩
 
 # 4. ⟪ … ⟫
 ## Syntax

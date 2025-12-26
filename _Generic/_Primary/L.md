@@ -113,8 +113,8 @@ Line 2
 ~~~
 ## Meaning
 `A` is a (or a combination of):
-- ⟨ Ⱳ https://en.wikipedia.org/wiki/Proposition ⟩
-- ⟨ «statement» in the context of ⟨ Ⱳ https://en.wikipedia.org/wiki/Proposition ⟩⟩
+- ⟨ Ⱳ Proposition ⟩
+- ⟨ «statement» in the context of ⟨ Ⱳ Proposition ⟩⟩
 - ⟨ Ⱳ https://en.wikipedia.org/wiki/Claim_(philosophy) ⟩
 
 # 7.

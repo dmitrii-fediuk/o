@@ -70,7 +70,7 @@ Line 2
 Понятие, которому посвящена статья Wikipedia по адресу `https://en.wikipedia.org/wiki/<LPS>`.  
 `LPS` — the last path segment of the Wikipedia article's URL.
 ## Example
-⟨ Ⱳ Ontology_(information_science) ⟩ ≡ ⟨ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities. ⟩
+⟨ Ⱳ Ontology_(information_science) ⟩ ≡ ⟨ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities ⟩
 
 # 4. ⟪ … ⟫
 ## Syntax

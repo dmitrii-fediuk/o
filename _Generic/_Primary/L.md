@@ -145,10 +145,11 @@ Line 2
 `𝒞` ≔ ⟨ понятие «category» в контексте ⟨ Ⱳ https://en.wikipedia.org/wiki/Theory_of_categories ⟩ ⟩ 
 
 ##
-`ℂ` ≔ ⟨
+`ℂ` ≔ 
+```
 - ⟨ Ⱳ Class_(knowledge_representation) ⟩ 
 - ⟨ Ⱳ Ontology_components#Classes ⟩  
-⟩
+```
 
 ##
 `𝕀` ≔ ⟨ понятие «interval» в контексте 

@@ -943,6 +943,6 @@ https://en.wikipedia.org/wiki/Finitary_relation
 https://en.wikipedia.org/wiki/Tuple_relational_calculus
 https://en.wikipedia.org/wiki/Model_theory
 https://en.wikipedia.org/wiki/Type_(model_theory)
-
+https://en.wikipedia.org/wiki/Logic
 
 

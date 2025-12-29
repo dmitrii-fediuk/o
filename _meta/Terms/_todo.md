@@ -52,7 +52,7 @@ https://en.wikipedia.org/wiki/JavaScript
 https://en.wikipedia.org/wiki/Defunctionalization
 https://en.wikipedia.org/wiki/Higher_order_message
 https://en.wikipedia.org/wiki/Reflection_(computer_science)
-
+https://en.wikipedia.org/wiki/Dependency_injection
 
 
 

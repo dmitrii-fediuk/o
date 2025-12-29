@@ -746,7 +746,7 @@ https://en.wikipedia.org/wiki/Rethinking
 https://en.wikipedia.org/wiki/Conceptual_framework
 https://en.wikipedia.org/wiki/TRIZ
 https://en.wikipedia.org/wiki/Cyc
-
+https://en.wikipedia.org/wiki/Executive_functions
 
 
 

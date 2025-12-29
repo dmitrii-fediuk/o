@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 https://en.wikipedia.org/wiki/A3_problem_solving
 https://en.wikipedia.org/wiki/AMA_Manual_of_Style
 https://en.wikipedia.org/wiki/APA_style

@@ -790,7 +790,7 @@ https://en.wikipedia.org/wiki/Outline_of_thought
 https://en.wikipedia.org/wiki/Debriefing
 https://en.wikipedia.org/wiki/Scenario_planning
 https://en.wikipedia.org/wiki/Storytelling
-
+https://en.wikipedia.org/wiki/Incomplete_contracts
 
 
 

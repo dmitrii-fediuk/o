@@ -266,7 +266,7 @@ https://en.wikipedia.org/wiki/Type_inference
 https://en.wikipedia.org/wiki/Typing_rule
 https://en.wikipedia.org/wiki/Nominal_type_system
 https://en.wikipedia.org/wiki/Structural_type_system
-
+https://en.wikipedia.org/wiki/Ad_hoc_polymorphism
 
 
 

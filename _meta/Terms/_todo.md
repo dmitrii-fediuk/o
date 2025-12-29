@@ -420,7 +420,7 @@ https://en.wikipedia.org/wiki/Choiceless_awareness
 https://en.wikipedia.org/wiki/Consciousness_raising
 https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth
 https://en.wikipedia.org/wiki/List_of_awareness_ribbons
-
+https://en.wikipedia.org/wiki/Situation_awareness
 
 
 

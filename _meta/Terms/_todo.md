@@ -301,7 +301,7 @@ https://en.wikipedia.org/wiki/First-class_function
 https://en.wikipedia.org/wiki/Lookup_table
 https://en.wikipedia.org/wiki/Nesting_(computing)
 https://en.wikipedia.org/wiki/Funarg_problem
-
+https://en.wikipedia.org/wiki/Law_of_Demeter
 
 
 

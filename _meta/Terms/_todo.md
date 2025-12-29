@@ -6,3 +6,4 @@ https://en.wikipedia.org/wiki/Inductive_reasoning
 https://en.wikipedia.org/wiki/Power_projection
 https://en.wikipedia.org/wiki/Display_behavior
 https://en.wikipedia.org/wiki/Concrete_(philosophy)
+https://en.wikipedia.org/wiki/Individual

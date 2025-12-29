@@ -464,7 +464,7 @@ https://en.wikipedia.org/wiki/Philosophical_skepticism
 https://en.wikipedia.org/wiki/Definitions_of_knowledge
 https://en.wikipedia.org/wiki/Feeling
 https://en.wikipedia.org/wiki/Fideism
-
+https://en.wikipedia.org/wiki/Subjective_logic
 
 
 

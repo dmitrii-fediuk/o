@@ -547,7 +547,7 @@ https://en.wikipedia.org/wiki/Taxonomy
 https://en.wikipedia.org/wiki/Concept_map
 https://en.wikipedia.org/wiki/Domain_knowledge
 https://en.wikipedia.org/wiki/Domain_(software_engineering)
-
+https://en.wikipedia.org/wiki/Logical_schema
 
 
 

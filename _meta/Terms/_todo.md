@@ -883,6 +883,7 @@ https://en.wikipedia.org/wiki/Intension
 https://en.wikipedia.org/wiki/Proper_name_(philosophy)
 https://en.wikipedia.org/wiki/Name
 https://en.wikipedia.org/wiki/Equals_sign
+https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols
 
 
 

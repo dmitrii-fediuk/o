@@ -162,7 +162,7 @@ https://en.wikipedia.org/wiki/Writing_system
 https://en.wikipedia.org/wiki/Modal_logic
 https://en.wikipedia.org/wiki/Meta_(prefix)
 https://en.wikipedia.org/wiki/Modal_operator
-
+https://en.wikipedia.org/wiki/Duality_(mathematics)
 
 
 

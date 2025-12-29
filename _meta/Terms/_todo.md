@@ -317,7 +317,7 @@ https://en.wikipedia.org/wiki/Flavors_(programming_language)
 https://en.wikipedia.org/wiki/Mixin
 https://en.wikipedia.org/wiki/Index_of_object-oriented_programming_articles
 https://en.wikipedia.org/wiki/Prototype-based_programming
-
+https://en.wikipedia.org/wiki/Trait_(computer_programming)
 
 
 

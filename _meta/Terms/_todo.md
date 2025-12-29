@@ -400,7 +400,7 @@ https://en.wikipedia.org/wiki/Metaobject
 https://en.wikipedia.org/wiki/Class_(programming)
 https://en.wikipedia.org/wiki/Metaprogramming
 https://en.wikipedia.org/wiki/Kind_(type_theory)
-
+https://en.wikipedia.org/wiki/Adapter_pattern
 
 
 

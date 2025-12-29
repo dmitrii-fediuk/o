@@ -245,10 +245,8 @@ https://en.wikipedia.org/wiki/Divergent_thinking
 https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm
 https://en.wikipedia.org/wiki/Domain-specific_language
 https://en.wikipedia.org/wiki/Domain-specific_modeling
-https://en.wikipedia.org/wiki/Domain-specific_modeling
 https://en.wikipedia.org/wiki/Domain-specific_multimodeling
 https://en.wikipedia.org/wiki/Domain_(software_engineering)
-https://en.wikipedia.org/wiki/Domain_knowledge
 https://en.wikipedia.org/wiki/Domain_knowledge
 https://en.wikipedia.org/wiki/Domain_of_discourse
 https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
@@ -271,7 +269,6 @@ https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model
 https://en.wikipedia.org/wiki/Entropy_(information_theory)
 https://en.wikipedia.org/wiki/Enumerated_type
 https://en.wikipedia.org/wiki/Epistemology
-https://en.wikipedia.org/wiki/Equality_(mathematics)
 https://en.wikipedia.org/wiki/Equality_(mathematics)
 https://en.wikipedia.org/wiki/Equals_sign
 https://en.wikipedia.org/wiki/Equivalence_class

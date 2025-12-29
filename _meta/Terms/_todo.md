@@ -791,7 +791,7 @@ https://en.wikipedia.org/wiki/Debriefing
 https://en.wikipedia.org/wiki/Scenario_planning
 https://en.wikipedia.org/wiki/Storytelling
 https://en.wikipedia.org/wiki/Incomplete_contracts
-
+https://en.wikipedia.org/wiki/Retraining
 
 
 

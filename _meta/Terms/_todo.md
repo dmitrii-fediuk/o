@@ -627,7 +627,7 @@ https://en.wikipedia.org/wiki/Writing_system
 https://en.wikipedia.org/wiki/Applicative_computing_systems
 https://en.wikipedia.org/wiki/Categorical_abstract_machine
 https://en.wikipedia.org/wiki/Closure_(mathematics)
-
+https://en.wikipedia.org/wiki/Symmetric_closure
 
 
 

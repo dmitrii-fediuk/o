@@ -605,7 +605,7 @@ https://en.wikipedia.org/wiki/Tag_(metadata)
 https://en.wikipedia.org/wiki/Knowledge_organization_system
 https://en.wikipedia.org/wiki/Observations_and_Measurements
 https://en.wikipedia.org/wiki/German_tank_problem
-
+https://en.wikipedia.org/wiki/Opaque_pointer
 
 
 

@@ -840,7 +840,7 @@ https://en.wikipedia.org/wiki/Opinion
 https://en.wikipedia.org/wiki/Existence
 https://en.wikipedia.org/wiki/Deductive_reasoning
 https://en.wikipedia.org/wiki/Inference
-
+https://en.wikipedia.org/wiki/Abductive_reasoning
 
 
 

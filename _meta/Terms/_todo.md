@@ -858,6 +858,7 @@ https://en.wikipedia.org/wiki/Universal_quantification
 https://en.wikipedia.org/wiki/Logical_equivalence
 https://en.wikipedia.org/wiki/If_and_only_if
 https://en.wikipedia.org/wiki/Tautology_(logic)
+https://en.wikipedia.org/wiki/List_of_logic_symbols
 
 
 

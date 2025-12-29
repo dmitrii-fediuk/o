@@ -415,3 +415,13 @@ https://en.wikipedia.org/wiki/Sentient_computing
 https://en.wikipedia.org/wiki/Location_awareness
 https://en.wikipedia.org/wiki/Accounting
 https://en.wikipedia.org/wiki/Attention
+https://en.wikipedia.org/wiki/Awareness_ribbon
+
+
+
+
+
+
+
+
+

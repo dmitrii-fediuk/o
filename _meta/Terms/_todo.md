@@ -238,7 +238,7 @@ https://en.wikipedia.org/wiki/Possible_world
 https://en.wikipedia.org/wiki/Metalogic
 https://en.wikipedia.org/wiki/Temporal_logic
 https://en.wikipedia.org/wiki/Fact-checking
-
+https://en.wikipedia.org/wiki/Data_extraction
 
 
 

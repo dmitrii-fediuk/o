@@ -518,6 +518,15 @@ https://en.wikipedia.org/wiki/Group_(mathematics)
 https://en.wikipedia.org/wiki/Ring_(mathematics)
 https://en.wikipedia.org/wiki/Lattice_(order)
 https://en.wikipedia.org/wiki/Estimation_theory
+https://en.wikipedia.org/wiki/Paradigm_(experimental)
+
+
+
+
+
+
+
+
 
 
 

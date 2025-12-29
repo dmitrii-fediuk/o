@@ -9,3 +9,4 @@ https://en.wikipedia.org/wiki/Concrete_(philosophy)
 https://en.wikipedia.org/wiki/Individual
 https://en.wikipedia.org/wiki/Architecture
 https://en.wikipedia.org/wiki/Strategy
+https://en.wikipedia.org/wiki/Communication

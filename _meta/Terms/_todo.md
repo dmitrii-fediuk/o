@@ -647,7 +647,7 @@ https://en.wikipedia.org/wiki/Explanation
 https://en.wikipedia.org/wiki/Signified_and_signifier
 https://en.wikipedia.org/wiki/Catch-22_(logic)
 https://en.wikipedia.org/wiki/Causal_loop_diagram
-
+https://en.wikipedia.org/wiki/The_Paradox_of_Choice
 
 
 

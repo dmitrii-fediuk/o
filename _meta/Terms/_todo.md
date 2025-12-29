@@ -809,7 +809,7 @@ https://en.wikipedia.org/wiki/Instructional_scaffolding
 https://en.wikipedia.org/wiki/Learning_theory_(education)
 https://en.wikipedia.org/wiki/Spacing_effect
 https://en.wikipedia.org/wiki/Cramming_(education)
-
+https://en.wikipedia.org/wiki/Forgetting_curve
 
 
 

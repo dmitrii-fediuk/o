@@ -370,7 +370,8 @@ https://en.wikipedia.org/wiki/Cognitive_bias
 https://en.wikipedia.org/wiki/Counterstereotype
 https://en.wikipedia.org/wiki/Labelling
 https://en.wikipedia.org/wiki/Role
-
+https://en.wikipedia.org/wiki/Role_reversal
+https://en.wikipedia.org/wiki/Similarity_(philosophy)
 
 
 

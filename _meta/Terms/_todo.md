@@ -143,7 +143,7 @@ https://en.wikipedia.org/wiki/Generative_pre-trained_transformer
 https://en.wikipedia.org/wiki/Prompt_engineering
 https://en.wikipedia.org/wiki/Predictive_learning
 https://en.wikipedia.org/wiki/Algorithmic_bias
-
+https://en.wikipedia.org/wiki/Katz%27s_back-off_model
 
 
 

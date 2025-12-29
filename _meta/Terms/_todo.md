@@ -901,8 +901,8 @@ https://en.wikipedia.org/wiki/Structure_(mathematical_logic)
 https://en.wikipedia.org/wiki/Cardinality
 https://en.wikipedia.org/wiki/Alphabet_(formal_languages)
 https://en.wikipedia.org/wiki/Terminal_and_nonterminal_symbols
-
-
+https://en.wikipedia.org/wiki/Metavariable
+https://en.wikipedia.org/wiki/Metalanguage
 
 
 

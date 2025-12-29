@@ -214,7 +214,6 @@ https://en.wikipedia.org/wiki/Deductive
 https://en.wikipedia.org/wiki/Deductive_classifier
 https://en.wikipedia.org/wiki/Deductive_closure
 https://en.wikipedia.org/wiki/Deductive_reasoning
-https://en.wikipedia.org/wiki/Deductive_reasoning
 https://en.wikipedia.org/wiki/Defeasible_reasoning
 https://en.wikipedia.org/wiki/Defeater
 https://en.wikipedia.org/wiki/Definite_description

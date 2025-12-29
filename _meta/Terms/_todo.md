@@ -717,7 +717,7 @@ https://en.wikipedia.org/wiki/Phenomenology_(philosophy)
 https://en.wikipedia.org/wiki/Cognitive_psychology
 https://en.wikipedia.org/wiki/Thought_experiment
 https://en.wikipedia.org/wiki/Counterfactual_thinking
-
+https://en.wikipedia.org/wiki/Intrapersonal_communication
 
 
 

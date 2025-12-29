@@ -350,3 +350,4 @@ https://en.wikipedia.org/wiki/Rational_Unified_Process
 https://en.wikipedia.org/wiki/Rational_Rose
 https://en.wikipedia.org/wiki/Rational_Software_Modeler
 https://en.wikipedia.org/wiki/IBM_DevOps_Code_ClearCase
+https://en.wikipedia.org/wiki/Rational_Automation_Framework

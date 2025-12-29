@@ -374,7 +374,7 @@ https://en.wikipedia.org/wiki/Role_reversal
 https://en.wikipedia.org/wiki/Similarity_(philosophy)
 https://en.wikipedia.org/wiki/Data_structure
 https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)
-
+https://en.wikipedia.org/wiki/Information_hiding
 
 
 

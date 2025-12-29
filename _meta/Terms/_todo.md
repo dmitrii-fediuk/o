@@ -17,3 +17,4 @@ https://en.wikipedia.org/wiki/Strategy
 https://en.wikipedia.org/wiki/Business_object
 https://en.wikipedia.org/wiki/Object-capability_model
 https://en.wikipedia.org/wiki/Aliasing_(computing)
+https://en.wikipedia.org/wiki/List_(abstract_data_type)

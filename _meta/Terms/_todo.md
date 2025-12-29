@@ -572,7 +572,7 @@ https://en.wikipedia.org/wiki/Theory_of_constraints
 https://en.wikipedia.org/wiki/Adaptation
 https://en.wikipedia.org/wiki/Emergence
 https://en.wikipedia.org/wiki/System
-
+https://en.wikipedia.org/wiki/Interdisciplinarity
 
 
 

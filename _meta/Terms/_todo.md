@@ -578,7 +578,7 @@ https://en.wikipedia.org/wiki/Complex_system
 https://en.wikipedia.org/wiki/Cuneiform
 https://en.wikipedia.org/wiki/Maya_numerals
 https://en.wikipedia.org/wiki/Pattern
-
-
+https://en.wikipedia.org/wiki/Self-organization
+https://en.wikipedia.org/wiki/Chaos_theory
 
 

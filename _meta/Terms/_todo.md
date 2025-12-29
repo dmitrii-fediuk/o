@@ -363,7 +363,7 @@ https://en.wikipedia.org/wiki/Just-world_fallacy
 https://en.wikipedia.org/wiki/Illusory_correlation
 https://en.wikipedia.org/wiki/Salience_(neuroscience)
 https://en.wikipedia.org/wiki/Encoding_(memory)
-
+https://en.wikipedia.org/wiki/Archetype
 
 
 

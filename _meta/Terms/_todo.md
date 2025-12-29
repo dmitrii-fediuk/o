@@ -450,7 +450,7 @@ https://en.wikipedia.org/wiki/Infallibility
 https://en.wikipedia.org/wiki/Practical_reason
 https://en.wikipedia.org/wiki/Disposition
 https://en.wikipedia.org/wiki/Justification_(epistemology)
-
+https://en.wikipedia.org/wiki/Open-mindedness
 
 
 

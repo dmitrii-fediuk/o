@@ -182,7 +182,7 @@ https://en.wikipedia.org/wiki/Downcasting
 https://en.wikipedia.org/wiki/Inflection
 https://en.wikipedia.org/wiki/Suffix
 https://en.wikipedia.org/wiki/Root_(linguistics)
-
+https://en.wikipedia.org/wiki/Bag-of-words_model
 
 
 

@@ -231,7 +231,7 @@ https://en.wikipedia.org/wiki/Entailment
 https://en.wikipedia.org/wiki/Entailment_(linguistics)
 https://en.wikipedia.org/wiki/Frame_analysis
 https://en.wikipedia.org/wiki/Argument_scheme
-
+https://en.wikipedia.org/wiki/Argument_technology
 
 
 

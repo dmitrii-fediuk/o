@@ -125,7 +125,7 @@ https://en.wikipedia.org/wiki/Word_embedding
 https://en.wikipedia.org/wiki/Tokenization_(lexical_analysis)
 https://en.wikipedia.org/wiki/Contextualization_(computer_science)
 https://en.wikipedia.org/wiki/Context_window
-
+https://en.wikipedia.org/wiki/Attention_Is_All_You_Need
 
 
 

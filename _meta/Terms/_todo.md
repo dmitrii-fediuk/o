@@ -772,7 +772,7 @@ https://en.wikipedia.org/wiki/Confirmation_bias
 https://en.wikipedia.org/wiki/Rigidity_(psychology)
 https://en.wikipedia.org/wiki/Functional_fixedness
 https://en.wikipedia.org/wiki/Thinking_outside_the_box
-
+https://en.wikipedia.org/wiki/Homogeneity_and_heterogeneity
 
 
 

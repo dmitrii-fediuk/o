@@ -427,3 +427,17 @@ https://en.wikipedia.org/wiki/Relativism
 https://en.wikipedia.org/wiki/Intrinsic_and_extrinsic_properties_(philosophy)
 https://en.wikipedia.org/wiki/Instrumental_and_intrinsic_value
 https://en.wikipedia.org/wiki/Universal_value
+https://en.wikipedia.org/wiki/Authentication
+
+
+
+
+
+
+
+
+
+
+
+
+

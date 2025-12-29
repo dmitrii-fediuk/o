@@ -385,7 +385,7 @@ https://en.wikipedia.org/wiki/DARPA_Agent_Markup_Language
 https://en.wikipedia.org/wiki/Prot%C3%A9g%C3%A9_(software)
 https://en.wikipedia.org/wiki/Paradigm
 https://en.wikipedia.org/wiki/Correlation
-
+https://en.wikipedia.org/wiki/Multiple_inheritance
 
 
 

@@ -807,7 +807,7 @@ https://en.wikipedia.org/wiki/Language_transfer
 https://en.wikipedia.org/wiki/Classical_conditioning
 https://en.wikipedia.org/wiki/Instructional_scaffolding
 https://en.wikipedia.org/wiki/Learning_theory_(education)
-
+https://en.wikipedia.org/wiki/Spacing_effect
 
 
 

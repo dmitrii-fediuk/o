@@ -22,3 +22,4 @@ https://en.wikipedia.org/wiki/Set_(abstract_data_type)
 https://en.wikipedia.org/wiki/Collection_(abstract_data_type)
 https://en.wikipedia.org/wiki/Container_(abstract_data_type)
 https://en.wikipedia.org/wiki/Multiset
+https://en.wikipedia.org/wiki/Multimap

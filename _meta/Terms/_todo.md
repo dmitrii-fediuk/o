@@ -379,4 +379,8 @@ https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)
 https://en.wikipedia.org/wiki/FOAF
 https://en.wikipedia.org/wiki/KL-ONE
 https://en.wikipedia.org/wiki/LOOM_(ontology)
+https://en.wikipedia.org/wiki/Knowledge_Engineering_Environment
+
+
+
 

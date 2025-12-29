@@ -626,7 +626,7 @@ https://en.wikipedia.org/wiki/SKI_combinator_calculus
 https://en.wikipedia.org/wiki/Self-reference
 https://en.wikipedia.org/wiki/Categorical_logic
 https://en.wikipedia.org/wiki/Explicit_substitution
-
+https://en.wikipedia.org/wiki/Director_string
 
 
 

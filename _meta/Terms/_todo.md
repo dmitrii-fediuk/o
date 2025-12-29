@@ -736,7 +736,7 @@ https://en.wikipedia.org/wiki/Unconscious_thought_theory
 https://en.wikipedia.org/wiki/Experience
 https://en.wikipedia.org/wiki/Apperception
 https://en.wikipedia.org/wiki/Cognitive_science
-
+https://en.wikipedia.org/wiki/Law_of_thought
 
 
 

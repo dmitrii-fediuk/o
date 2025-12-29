@@ -937,7 +937,7 @@ https://en.wikipedia.org/wiki/Logical_consequence
 https://en.wikipedia.org/wiki/Therefore_sign
 https://en.wikipedia.org/wiki/Relational_algebra
 https://en.wikipedia.org/wiki/Relational_model
-
+https://en.wikipedia.org/wiki/Relation_(database)
 
 
 

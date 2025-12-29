@@ -713,7 +713,7 @@ https://en.wikipedia.org/wiki/Theory_of_forms
 https://en.wikipedia.org/wiki/Conceptualism
 https://en.wikipedia.org/wiki/Concept_learning
 https://en.wikipedia.org/wiki/Unconscious_mind
-
+https://en.wikipedia.org/wiki/Phenomenology_(philosophy)
 
 
 

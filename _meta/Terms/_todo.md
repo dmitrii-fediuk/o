@@ -619,7 +619,7 @@ https://en.wikipedia.org/wiki/Simply_typed_lambda_calculus
 https://en.wikipedia.org/wiki/Functional_programming
 https://en.wikipedia.org/wiki/Maps_to
 https://en.wikipedia.org/wiki/Currying
-
+https://en.wikipedia.org/wiki/First-class_citizen
 
 
 

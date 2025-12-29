@@ -424,4 +424,4 @@ https://en.wikipedia.org/wiki/Situation_awareness
 https://en.wikipedia.org/wiki/Public_awareness_of_science
 https://en.wikipedia.org/wiki/Importance
 https://en.wikipedia.org/wiki/Relativism
-
+https://en.wikipedia.org/wiki/Intrinsic_and_extrinsic_properties_(philosophy)

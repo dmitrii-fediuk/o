@@ -482,5 +482,5 @@ https://en.wikipedia.org/wiki/Fuzzy_set
 https://en.wikipedia.org/wiki/Entropy_(information_theory)
 https://en.wikipedia.org/wiki/Interval_finite_element
 https://en.wikipedia.org/wiki/Measurement_uncertainty
-
+https://en.wikipedia.org/wiki/Randomness
 

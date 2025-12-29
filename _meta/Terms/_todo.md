@@ -872,7 +872,7 @@ https://en.wikipedia.org/wiki/Prototype_theory
 https://en.wikipedia.org/wiki/Extension_(predicate_logic)
 https://en.wikipedia.org/wiki/Characterization_(mathematics)
 https://en.wikipedia.org/wiki/Frame_semantics_(linguistics)
-
+https://en.wikipedia.org/wiki/Property_(philosophy)
 
 
 

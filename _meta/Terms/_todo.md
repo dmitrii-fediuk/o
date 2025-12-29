@@ -633,7 +633,7 @@ https://en.wikipedia.org/wiki/Normal_form_(abstract_rewriting)
 https://en.wikipedia.org/wiki/String_(computer_science)
 https://en.wikipedia.org/wiki/Lambda_calculus
 https://en.wikipedia.org/wiki/Critical_pair_(term_rewriting)
-
+https://en.wikipedia.org/wiki/Explainable_artificial_intelligence
 
 
 

@@ -835,7 +835,7 @@ https://en.wikipedia.org/wiki/Writing_system
 https://en.wikipedia.org/wiki/Yale_shooting_problem
 https://en.wikipedia.org/wiki/Definition
 https://en.wikipedia.org/wiki/Fact
-
+https://en.wikipedia.org/wiki/Belief
 
 
 

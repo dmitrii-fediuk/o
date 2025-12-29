@@ -662,7 +662,7 @@ https://en.wikipedia.org/wiki/Decisional_balance_sheet
 https://en.wikipedia.org/wiki/Expected_utility_hypothesis
 https://en.wikipedia.org/wiki/Satisficing
 https://en.wikipedia.org/wiki/Maximization_(psychology)
-
+https://en.wikipedia.org/wiki/Mathematical_optimization
 
 
 

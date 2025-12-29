@@ -294,7 +294,7 @@ https://en.wikipedia.org/wiki/Ternary_operation
 https://en.wikipedia.org/wiki/Local_variable
 https://en.wikipedia.org/wiki/Function_(computer_programming)
 https://en.wikipedia.org/wiki/Automatic_variable
-
+https://en.wikipedia.org/wiki/Static_variable
 
 
 

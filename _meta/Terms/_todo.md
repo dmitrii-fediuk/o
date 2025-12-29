@@ -876,7 +876,7 @@ https://en.wikipedia.org/wiki/Property_(philosophy)
 https://en.wikipedia.org/wiki/Class_(philosophy)
 https://en.wikipedia.org/wiki/Extensional_and_intensional_definitions
 https://en.wikipedia.org/wiki/Reference
-
+https://en.wikipedia.org/wiki/Symbol
 
 
 

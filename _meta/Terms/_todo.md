@@ -774,7 +774,7 @@ https://en.wikipedia.org/wiki/Functional_fixedness
 https://en.wikipedia.org/wiki/Thinking_outside_the_box
 https://en.wikipedia.org/wiki/Homogeneity_and_heterogeneity
 https://en.wikipedia.org/wiki/Dynamics_(mechanics)
-
+https://en.wikipedia.org/wiki/Distributed_knowledge
 
 
 

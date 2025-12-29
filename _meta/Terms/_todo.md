@@ -696,7 +696,7 @@ https://en.wikipedia.org/wiki/Mental_representation
 https://en.wikipedia.org/wiki/Mental_model
 https://en.wikipedia.org/wiki/Hard_problem_of_consciousness
 https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem
-
+https://en.wikipedia.org/wiki/Conceptual_change
 
 
 

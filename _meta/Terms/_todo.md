@@ -51,4 +51,20 @@ https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 https://en.wikipedia.org/wiki/JavaScript
 https://en.wikipedia.org/wiki/Defunctionalization
 https://en.wikipedia.org/wiki/Higher_order_message
+https://en.wikipedia.org/wiki/Reflection_(computer_science)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

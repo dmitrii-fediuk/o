@@ -869,7 +869,7 @@ https://en.wikipedia.org/wiki/Axiom_schema
 https://en.wikipedia.org/wiki/Mathematical_notation
 https://en.wikipedia.org/wiki/Set_(mathematics)
 https://en.wikipedia.org/wiki/Prototype_theory
-
+https://en.wikipedia.org/wiki/Extension_(predicate_logic)
 
 
 

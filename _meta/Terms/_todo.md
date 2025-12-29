@@ -594,7 +594,7 @@ https://en.wikipedia.org/wiki/Knowledge_worker
 https://en.wikipedia.org/wiki/Annotation
 https://en.wikipedia.org/wiki/Collective_intelligence
 https://en.wikipedia.org/wiki/Metascience
-
+https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model
 
 
 

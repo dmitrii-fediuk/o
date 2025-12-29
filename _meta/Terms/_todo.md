@@ -302,7 +302,7 @@ https://en.wikipedia.org/wiki/Lookup_table
 https://en.wikipedia.org/wiki/Nesting_(computing)
 https://en.wikipedia.org/wiki/Funarg_problem
 https://en.wikipedia.org/wiki/Law_of_Demeter
-
+https://en.wikipedia.org/wiki/Referential_transparency
 
 
 

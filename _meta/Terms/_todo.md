@@ -629,9 +629,9 @@ https://en.wikipedia.org/wiki/Categorical_abstract_machine
 https://en.wikipedia.org/wiki/Closure_(mathematics)
 https://en.wikipedia.org/wiki/Symmetric_closure
 https://en.wikipedia.org/wiki/Word_problem_(mathematics)
-
-
-
+https://en.wikipedia.org/wiki/Normal_form_(abstract_rewriting)
+https://en.wikipedia.org/wiki/String_(computer_science)
+https://en.wikipedia.org/wiki/Lambda_calculus
 
 
 

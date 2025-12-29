@@ -516,7 +516,7 @@ https://en.wikipedia.org/wiki/Idealization_(philosophy_of_science)
 https://en.wikipedia.org/wiki/Rough_set
 https://en.wikipedia.org/wiki/Group_(mathematics)
 https://en.wikipedia.org/wiki/Ring_(mathematics)
-
+https://en.wikipedia.org/wiki/Lattice_(order)
 
 
 

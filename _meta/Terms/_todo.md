@@ -676,7 +676,7 @@ https://en.wikipedia.org/wiki/Argument_map
 https://en.wikipedia.org/wiki/Choice_architecture
 https://en.wikipedia.org/wiki/Choice_modelling
 https://en.wikipedia.org/wiki/Decision_downloading
-
+https://en.wikipedia.org/wiki/Decision_quality
 
 
 

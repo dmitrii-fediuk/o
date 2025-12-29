@@ -781,7 +781,7 @@ https://en.wikipedia.org/wiki/Divergent_thinking
 https://en.wikipedia.org/wiki/Problem_statement
 https://en.wikipedia.org/wiki/Structural_fix
 https://en.wikipedia.org/wiki/Subgoal_labeling
-
+https://en.wikipedia.org/wiki/Troubleshooting
 
 
 

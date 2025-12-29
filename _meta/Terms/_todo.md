@@ -298,7 +298,7 @@ https://en.wikipedia.org/wiki/Whitespace_character
 https://en.wikipedia.org/wiki/Word_embedding
 https://en.wikipedia.org/wiki/Writing_system
 https://en.wikipedia.org/wiki/First-class_function
-
+https://en.wikipedia.org/wiki/Lookup_table
 
 
 

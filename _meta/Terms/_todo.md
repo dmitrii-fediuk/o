@@ -881,7 +881,7 @@ https://en.wikipedia.org/wiki/Denotation
 https://en.wikipedia.org/wiki/Connotation
 https://en.wikipedia.org/wiki/Intension
 https://en.wikipedia.org/wiki/Proper_name_(philosophy)
-
+https://en.wikipedia.org/wiki/Name
 
 
 

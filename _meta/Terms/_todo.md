@@ -624,5 +624,18 @@ https://en.wikipedia.org/wiki/Function_composition
 https://en.wikipedia.org/wiki/Fixed-point_combinator
 https://en.wikipedia.org/wiki/SKI_combinator_calculus
 https://en.wikipedia.org/wiki/Self-reference
+https://en.wikipedia.org/wiki/Categorical_logic
+
+
+
+
+
+
+
+
+
+
+
+
 
 

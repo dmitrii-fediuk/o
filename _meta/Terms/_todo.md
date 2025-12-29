@@ -26,3 +26,4 @@ https://en.wikipedia.org/wiki/Multimap
 https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
 https://en.wikipedia.org/wiki/Opaque_data_type
 https://en.wikipedia.org/wiki/Functional_specification
+https://en.wikipedia.org/wiki/Generalized_algebraic_data_type

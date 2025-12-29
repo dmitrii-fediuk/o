@@ -636,4 +636,12 @@ https://en.wikipedia.org/wiki/Critical_pair_(term_rewriting)
 https://en.wikipedia.org/wiki/Explainable_artificial_intelligence
 https://en.wikipedia.org/wiki/Fuzzy_logic
 https://en.wikipedia.org/wiki/Reason_maintenance
+https://en.wikipedia.org/wiki/Knowledge_acquisition
+
+
+
+
+
+
+
 

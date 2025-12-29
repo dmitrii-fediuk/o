@@ -864,7 +864,7 @@ https://en.wikipedia.org/wiki/Logical_constant
 https://en.wikipedia.org/wiki/Term_(logic)
 https://en.wikipedia.org/wiki/Function_symbol
 https://en.wikipedia.org/wiki/Set-builder_notation
-
+https://en.wikipedia.org/wiki/Axiom_schema_of_specification
 
 
 

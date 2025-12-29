@@ -194,7 +194,7 @@ https://en.wikipedia.org/wiki/APA_style
 https://en.wikipedia.org/wiki/AMA_Manual_of_Style
 https://en.wikipedia.org/wiki/Bluebook
 https://en.wikipedia.org/wiki/Deixis
-
+https://en.wikipedia.org/wiki/Sequence_of_tenses
 
 
 

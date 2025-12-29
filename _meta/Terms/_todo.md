@@ -284,7 +284,7 @@ https://en.wikipedia.org/wiki/Template_processor
 https://en.wikipedia.org/wiki/Transclusion
 https://en.wikipedia.org/wiki/Namespace
 https://en.wikipedia.org/wiki/Object_lifetime
-
+https://en.wikipedia.org/wiki/Variable_shadowing
 
 
 

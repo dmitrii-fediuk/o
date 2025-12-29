@@ -657,5 +657,18 @@ https://en.wikipedia.org/wiki/Decision-making_under_deep_uncertainty
 https://en.wikipedia.org/wiki/Production_planning
 https://en.wikipedia.org/wiki/Mental_energy
 https://en.wikipedia.org/wiki/Mental_accounting
+https://en.wikipedia.org/wiki/Postmortem_documentation
+
+
+
+
+
+
+
+
+
+
+
+
 
 

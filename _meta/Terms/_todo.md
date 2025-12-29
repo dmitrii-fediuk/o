@@ -609,6 +609,20 @@ https://en.wikipedia.org/wiki/Opaque_pointer
 https://en.wikipedia.org/wiki/Lexical_analysis
 https://en.wikipedia.org/wiki/Label_(computer_science)
 https://en.wikipedia.org/wiki/Data_descriptor
+https://en.wikipedia.org/wiki/Descriptor
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

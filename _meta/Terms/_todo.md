@@ -410,5 +410,5 @@ https://en.wikipedia.org/wiki/Field_(computer_science)
 https://en.wikipedia.org/wiki/Named-entity_recognition
 https://en.wikipedia.org/wiki/Nested_set_model
 https://en.wikipedia.org/wiki/Attribute%E2%80%93value_system
-
+https://en.wikipedia.org/wiki/Semantic_triple
 

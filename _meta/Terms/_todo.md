@@ -241,7 +241,7 @@ https://en.wikipedia.org/wiki/Fact-checking
 https://en.wikipedia.org/wiki/Data_extraction
 https://en.wikipedia.org/wiki/Part-of-speech_tagging
 https://en.wikipedia.org/wiki/Phrase_chunking
-
+https://en.wikipedia.org/wiki/Lemmatisation
 
 
 

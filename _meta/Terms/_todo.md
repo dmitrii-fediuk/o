@@ -218,6 +218,17 @@ https://en.wikipedia.org/wiki/Machine-readable_dictionary
 https://en.wikipedia.org/wiki/Thesauri
 https://en.wikipedia.org/wiki/Judicial_interpretation
 https://en.wikipedia.org/wiki/Sentence_boundary_disambiguation
+https://en.wikipedia.org/wiki/Syntactic_ambiguity
+
+
+
+
+
+
+
+
+
+
 
 
 

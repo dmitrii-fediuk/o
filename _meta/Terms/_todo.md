@@ -153,7 +153,7 @@ https://en.wikipedia.org/wiki/Large_language_model
 https://en.wikipedia.org/wiki/Evaluation_of_machine_translation
 https://en.wikipedia.org/wiki/Postediting
 https://en.wikipedia.org/wiki/Semantic_similarity
-
+https://en.wikipedia.org/wiki/Semantic_lexicon
 
 
 

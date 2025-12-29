@@ -583,3 +583,4 @@ https://en.wikipedia.org/wiki/Chaos_theory
 https://en.wikipedia.org/wiki/Teleology
 https://en.wikipedia.org/wiki/Mereology
 https://en.wikipedia.org/wiki/Epistemology
+https://en.wikipedia.org/wiki/Value_theory

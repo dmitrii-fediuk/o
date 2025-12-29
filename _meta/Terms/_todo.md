@@ -912,7 +912,7 @@ https://en.wikipedia.org/wiki/Deductive_reasoning
 https://en.wikipedia.org/wiki/Theorem
 https://en.wikipedia.org/wiki/Proof_calculus
 https://en.wikipedia.org/wiki/Well-formed_formula
-
+https://en.wikipedia.org/wiki/Symbol_(formal)
 
 
 

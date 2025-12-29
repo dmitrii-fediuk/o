@@ -649,7 +649,7 @@ https://en.wikipedia.org/wiki/Catch-22_(logic)
 https://en.wikipedia.org/wiki/Causal_loop_diagram
 https://en.wikipedia.org/wiki/The_Paradox_of_Choice
 https://en.wikipedia.org/wiki/Decision-making_software
-
+https://en.wikipedia.org/wiki/Two-alternative_forced_choice
 
 
 

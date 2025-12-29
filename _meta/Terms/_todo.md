@@ -566,7 +566,7 @@ https://en.wikipedia.org/wiki/Semantic_analysis_(knowledge_representation)
 https://en.wikipedia.org/wiki/Semantic_network
 https://en.wikipedia.org/wiki/C4_model
 https://en.wikipedia.org/wiki/System_dynamics
-
+https://en.wikipedia.org/wiki/Management_cybernetics
 
 
 

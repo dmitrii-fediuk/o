@@ -767,7 +767,7 @@ https://en.wikipedia.org/wiki/Means%E2%80%93ends_analysis
 https://en.wikipedia.org/wiki/Morphological_analysis_(problem-solving)
 https://en.wikipedia.org/wiki/Reduction_(complexity)
 https://en.wikipedia.org/wiki/Research
-
+https://en.wikipedia.org/wiki/A3_problem_solving
 
 
 

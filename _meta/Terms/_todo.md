@@ -879,7 +879,7 @@ https://en.wikipedia.org/wiki/Reference
 https://en.wikipedia.org/wiki/Symbol
 https://en.wikipedia.org/wiki/Denotation
 https://en.wikipedia.org/wiki/Connotation
-
+https://en.wikipedia.org/wiki/Intension
 
 
 

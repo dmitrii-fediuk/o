@@ -50,7 +50,6 @@ https://en.wikipedia.org/wiki/Argument_of_a_function
 https://en.wikipedia.org/wiki/Argument_scheme
 https://en.wikipedia.org/wiki/Argument_technology
 https://en.wikipedia.org/wiki/Argumentation_theory
-https://en.wikipedia.org/wiki/Arity
 https://en.wikipedia.org/wiki/Artifact_(software_development)
 https://en.wikipedia.org/wiki/Aspect-oriented_programming
 https://en.wikipedia.org/wiki/Assignment_(computer_science)

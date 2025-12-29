@@ -646,3 +646,16 @@ https://en.wikipedia.org/wiki/Yale_shooting_problem
 https://en.wikipedia.org/wiki/Explanation
 https://en.wikipedia.org/wiki/Signified_and_signifier
 https://en.wikipedia.org/wiki/Catch-22_(logic)
+https://en.wikipedia.org/wiki/Causal_loop_diagram
+
+
+
+
+
+
+
+
+
+
+
+

@@ -866,7 +866,7 @@ https://en.wikipedia.org/wiki/Function_symbol
 https://en.wikipedia.org/wiki/Set-builder_notation
 https://en.wikipedia.org/wiki/Axiom_schema_of_specification
 https://en.wikipedia.org/wiki/Axiom_schema
-
+https://en.wikipedia.org/wiki/Mathematical_notation
 
 
 

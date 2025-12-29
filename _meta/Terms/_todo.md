@@ -626,7 +626,7 @@ https://en.wikipedia.org/wiki/Work_method_statement
 https://en.wikipedia.org/wiki/Writing_system
 https://en.wikipedia.org/wiki/Applicative_computing_systems
 https://en.wikipedia.org/wiki/Categorical_abstract_machine
-
+https://en.wikipedia.org/wiki/Closure_(mathematics)
 
 
 

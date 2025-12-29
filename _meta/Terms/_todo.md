@@ -443,7 +443,7 @@ https://en.wikipedia.org/wiki/Testimony
 https://en.wikipedia.org/wiki/Formal_epistemology
 https://en.wikipedia.org/wiki/Normativity
 https://en.wikipedia.org/wiki/Ignorance
-
+https://en.wikipedia.org/wiki/Mind
 
 
 

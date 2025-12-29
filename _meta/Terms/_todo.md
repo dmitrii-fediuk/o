@@ -95,7 +95,7 @@ https://en.wikipedia.org/wiki/Writing_system
 https://en.wikipedia.org/wiki/Orthography
 https://en.wikipedia.org/wiki/Diacritic
 https://en.wikipedia.org/wiki/Line_(poetry)
-
+https://en.wikipedia.org/wiki/Linguistic_description
 
 
 

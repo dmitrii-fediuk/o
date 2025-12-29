@@ -703,7 +703,7 @@ https://en.wikipedia.org/wiki/Cognitive_architecture
 https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning
 https://en.wikipedia.org/wiki/Think_(disambiguation)
 https://en.wikipedia.org/wiki/Thought_(disambiguation)
-
+https://en.wikipedia.org/wiki/Thinking_(disambiguation)
 
 
 

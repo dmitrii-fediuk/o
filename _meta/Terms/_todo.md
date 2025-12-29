@@ -946,3 +946,4 @@ https://en.wikipedia.org/wiki/Type_(model_theory)
 https://en.wikipedia.org/wiki/Logic
 https://en.wikipedia.org/wiki/Formal_semantics_(natural_language)
 https://en.wikipedia.org/wiki/Formal_language
+https://en.wikipedia.org/wiki/Logical_reasoning

@@ -407,7 +407,7 @@ https://en.wikipedia.org/wiki/Description_logic
 https://en.wikipedia.org/wiki/Variable_(high-level_programming)
 https://en.wikipedia.org/wiki/Property_(programming)
 https://en.wikipedia.org/wiki/Field_(computer_science)
-
+https://en.wikipedia.org/wiki/Named-entity_recognition
 
 
 

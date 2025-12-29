@@ -106,3 +106,4 @@ https://en.wikipedia.org/wiki/Naming_convention_(programming)
 https://en.wikipedia.org/wiki/Editor_war
 https://en.wikipedia.org/wiki/Indent_style
 https://en.wikipedia.org/wiki/Programming_style
+https://en.wikipedia.org/wiki/Snake_case

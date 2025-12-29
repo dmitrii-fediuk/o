@@ -457,7 +457,7 @@ https://en.wikipedia.org/wiki/Eyewitness_testimony
 https://en.wikipedia.org/wiki/Doubt
 https://en.wikipedia.org/wiki/Self-refuting_idea
 https://en.wikipedia.org/wiki/Belief_revision
-
+https://en.wikipedia.org/wiki/Metanarrative
 
 
 

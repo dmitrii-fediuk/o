@@ -681,3 +681,15 @@ https://en.wikipedia.org/wiki/Work_method_statement
 https://en.wikipedia.org/wiki/Writing_system
 https://en.wikipedia.org/wiki/Yale_shooting_problem
 https://en.wikipedia.org/wiki/Mental_state
+https://en.wikipedia.org/wiki/Information
+
+
+
+
+
+
+
+
+
+
+

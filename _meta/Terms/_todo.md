@@ -752,7 +752,7 @@ https://en.wikipedia.org/wiki/Inquiry
 https://en.wikipedia.org/wiki/Research_question
 https://en.wikipedia.org/wiki/Soar_(cognitive_architecture)
 https://en.wikipedia.org/wiki/Thought
-
+https://en.wikipedia.org/wiki/Introspection
 
 
 

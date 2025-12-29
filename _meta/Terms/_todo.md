@@ -831,3 +831,14 @@ https://en.wikipedia.org/wiki/Semantic_theory_of_truth
 https://en.wikipedia.org/wiki/Principle
 https://en.wikipedia.org/wiki/Change_of_variables
 https://en.wikipedia.org/wiki/Universal_instantiation
+https://en.wikipedia.org/wiki/String_interpolation
+
+
+
+
+
+
+
+
+
+

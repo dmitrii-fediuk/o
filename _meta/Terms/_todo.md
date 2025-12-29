@@ -467,7 +467,7 @@ https://en.wikipedia.org/wiki/Fideism
 https://en.wikipedia.org/wiki/Subjective_logic
 https://en.wikipedia.org/wiki/Risk
 https://en.wikipedia.org/wiki/Calibrated_probability_assessment
-
+https://en.wikipedia.org/wiki/Information_content
 
 
 

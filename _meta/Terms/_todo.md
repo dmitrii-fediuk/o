@@ -855,7 +855,7 @@ https://en.wikipedia.org/wiki/Logical_biconditional
 https://en.wikipedia.org/wiki/Categorical_proposition
 https://en.wikipedia.org/wiki/Singular_term
 https://en.wikipedia.org/wiki/Universal_quantification
-
+https://en.wikipedia.org/wiki/Logical_equivalence
 
 
 

@@ -355,7 +355,7 @@ https://en.wikipedia.org/wiki/Rational_Performance_Tester
 https://en.wikipedia.org/wiki/Rational_Rhapsody
 https://en.wikipedia.org/wiki/Rational_DOORS
 https://en.wikipedia.org/wiki/Rational_Synergy
-
+https://en.wikipedia.org/wiki/Entity%E2%80%93control%E2%80%93boundary
 
 
 

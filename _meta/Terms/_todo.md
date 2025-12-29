@@ -769,7 +769,7 @@ https://en.wikipedia.org/wiki/Reduction_(complexity)
 https://en.wikipedia.org/wiki/Research
 https://en.wikipedia.org/wiki/A3_problem_solving
 https://en.wikipedia.org/wiki/Confirmation_bias
-
+https://en.wikipedia.org/wiki/Rigidity_(psychology)
 
 
 

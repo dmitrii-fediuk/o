@@ -699,7 +699,7 @@ https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem
 https://en.wikipedia.org/wiki/Conceptual_change
 https://en.wikipedia.org/wiki/Cognitive_development
 https://en.wikipedia.org/wiki/Neuroenhancement
-
+https://en.wikipedia.org/wiki/Cognitive_architecture
 
 
 

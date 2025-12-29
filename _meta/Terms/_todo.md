@@ -369,3 +369,13 @@ https://en.wikipedia.org/wiki/Base_rate_fallacy
 https://en.wikipedia.org/wiki/Cognitive_bias
 https://en.wikipedia.org/wiki/Counterstereotype
 https://en.wikipedia.org/wiki/Labelling
+https://en.wikipedia.org/wiki/Role
+
+
+
+
+
+
+
+
+

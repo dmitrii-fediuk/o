@@ -941,7 +941,7 @@ https://en.wikipedia.org/wiki/Relation_(database)
 https://en.wikipedia.org/wiki/Relation_construction
 https://en.wikipedia.org/wiki/Finitary_relation
 https://en.wikipedia.org/wiki/Tuple_relational_calculus
-
+https://en.wikipedia.org/wiki/Model_theory
 
 
 

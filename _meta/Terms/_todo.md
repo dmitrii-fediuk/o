@@ -802,6 +802,6 @@ https://en.wikipedia.org/wiki/Generalization_(learning)
 https://en.wikipedia.org/wiki/Metaphor
 https://en.wikipedia.org/wiki/Analogy
 https://en.wikipedia.org/wiki/Priming_(psychology)
-
+https://en.wikipedia.org/wiki/Affordance
 
 

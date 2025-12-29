@@ -786,7 +786,7 @@ https://en.wikipedia.org/wiki/Wicked_problem
 https://en.wikipedia.org/wiki/Lateral_thinking
 https://en.wikipedia.org/wiki/Problem_structuring_methods
 https://en.wikipedia.org/wiki/Systems_thinking
-
+https://en.wikipedia.org/wiki/Outline_of_thought
 
 
 

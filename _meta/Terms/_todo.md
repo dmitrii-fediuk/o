@@ -956,7 +956,7 @@ https://en.wikipedia.org/wiki/Free_variables_and_bound_variables
 https://en.wikipedia.org/wiki/Claim_(philosophy)
 https://en.wikipedia.org/wiki/Predicate_functor_logic
 https://en.wikipedia.org/wiki/Quantifier_(logic)
-
+https://en.wikipedia.org/wiki/Signature_(logic)
 
 
 

@@ -768,7 +768,7 @@ https://en.wikipedia.org/wiki/Morphological_analysis_(problem-solving)
 https://en.wikipedia.org/wiki/Reduction_(complexity)
 https://en.wikipedia.org/wiki/Research
 https://en.wikipedia.org/wiki/A3_problem_solving
-
+https://en.wikipedia.org/wiki/Confirmation_bias
 
 
 

@@ -77,7 +77,7 @@ https://en.wikipedia.org/wiki/Hierarchy_(object-oriented_programming)
 https://en.wikipedia.org/wiki/Point-free_programming
 https://en.wikipedia.org/wiki/Value-level_programming
 https://en.wikipedia.org/wiki/Strict_function
-
+https://en.wikipedia.org/wiki/Semantic_compression
 
 
 

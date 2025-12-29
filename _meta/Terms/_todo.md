@@ -444,7 +444,7 @@ https://en.wikipedia.org/wiki/Formal_epistemology
 https://en.wikipedia.org/wiki/Normativity
 https://en.wikipedia.org/wiki/Ignorance
 https://en.wikipedia.org/wiki/Mind
-
+https://en.wikipedia.org/wiki/Defeater
 
 
 

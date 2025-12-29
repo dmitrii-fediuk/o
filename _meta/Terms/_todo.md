@@ -296,7 +296,7 @@ https://en.wikipedia.org/wiki/Function_(computer_programming)
 https://en.wikipedia.org/wiki/Automatic_variable
 https://en.wikipedia.org/wiki/Static_variable
 https://en.wikipedia.org/wiki/Nested_function
-
+https://en.wikipedia.org/wiki/Global_variable
 
 
 

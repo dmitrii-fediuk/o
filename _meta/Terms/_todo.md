@@ -489,7 +489,7 @@ https://en.wikipedia.org/wiki/Instability
 https://en.wikipedia.org/wiki/Overconfidence_effect
 https://en.wikipedia.org/wiki/Confidence_interval
 https://en.wikipedia.org/wiki/Point_estimation
-
+https://en.wikipedia.org/wiki/Interval_estimation
 
 
 

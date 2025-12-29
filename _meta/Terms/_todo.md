@@ -573,6 +573,12 @@ https://en.wikipedia.org/wiki/Adaptation
 https://en.wikipedia.org/wiki/Emergence
 https://en.wikipedia.org/wiki/System
 https://en.wikipedia.org/wiki/Interdisciplinarity
+https://en.wikipedia.org/wiki/Feedback
+
+
+
+
+
 
 
 

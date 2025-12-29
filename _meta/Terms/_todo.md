@@ -138,7 +138,7 @@ https://en.wikipedia.org/wiki/One-hot
 https://en.wikipedia.org/wiki/Feature_learning
 https://en.wikipedia.org/wiki/Speculative_execution
 https://en.wikipedia.org/wiki/Gemini_(chatbot)
-
+https://en.wikipedia.org/wiki/Transformer_(machine_learning)
 
 
 

@@ -661,7 +661,7 @@ https://en.wikipedia.org/wiki/Postmortem_documentation
 https://en.wikipedia.org/wiki/Decisional_balance_sheet
 https://en.wikipedia.org/wiki/Expected_utility_hypothesis
 https://en.wikipedia.org/wiki/Satisficing
-
+https://en.wikipedia.org/wiki/Maximization_(psychology)
 
 
 

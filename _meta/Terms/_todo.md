@@ -28,6 +28,7 @@ https://en.wikipedia.org/wiki/Aliasing_(computing)
 https://en.wikipedia.org/wiki/Allais_paradox
 https://en.wikipedia.org/wiki/Almost_surely
 https://en.wikipedia.org/wiki/Alphabet
+https://en.wikipedia.org/wiki/Alphabet_(formal_languages)
 https://en.wikipedia.org/wiki/Alternative
 https://en.wikipedia.org/wiki/Ambiguity
 https://en.wikipedia.org/wiki/Ambiguity_tolerance%E2%80%93intolerance
@@ -45,9 +46,11 @@ https://en.wikipedia.org/wiki/Archetype
 https://en.wikipedia.org/wiki/Architecture
 https://en.wikipedia.org/wiki/Argument_from_authority
 https://en.wikipedia.org/wiki/Argument_map
+https://en.wikipedia.org/wiki/Argument_of_a_function
 https://en.wikipedia.org/wiki/Argument_scheme
 https://en.wikipedia.org/wiki/Argument_technology
 https://en.wikipedia.org/wiki/Argumentation_theory
+https://en.wikipedia.org/wiki/Arity
 https://en.wikipedia.org/wiki/Artifact_(software_development)
 https://en.wikipedia.org/wiki/Aspect-oriented_programming
 https://en.wikipedia.org/wiki/Assignment_(computer_science)
@@ -91,6 +94,7 @@ https://en.wikipedia.org/wiki/Calibrated_probability_assessment
 https://en.wikipedia.org/wiki/Callback_(computer_programming)
 https://en.wikipedia.org/wiki/Calling_convention
 https://en.wikipedia.org/wiki/Capitalization
+https://en.wikipedia.org/wiki/Cardinality
 https://en.wikipedia.org/wiki/Cardinality_(data_modeling)
 https://en.wikipedia.org/wiki/Case_sensitivity
 https://en.wikipedia.org/wiki/Cataphora
@@ -208,6 +212,7 @@ https://en.wikipedia.org/wiki/Definite_description
 https://en.wikipedia.org/wiki/Definition
 https://en.wikipedia.org/wiki/Definitions_of_knowledge
 https://en.wikipedia.org/wiki/Defunctionalization
+https://en.wikipedia.org/wiki/Degree_of_truth
 https://en.wikipedia.org/wiki/Deixis
 https://en.wikipedia.org/wiki/Delegation_(object-oriented_programming)
 https://en.wikipedia.org/wiki/Deliberation
@@ -237,6 +242,7 @@ https://en.wikipedia.org/wiki/Domain-specific_multimodeling
 https://en.wikipedia.org/wiki/Domain_(software_engineering)
 https://en.wikipedia.org/wiki/Domain_knowledge
 https://en.wikipedia.org/wiki/Domain_knowledge
+https://en.wikipedia.org/wiki/Domain_of_discourse
 https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 https://en.wikipedia.org/wiki/Doubt
 https://en.wikipedia.org/wiki/Downcasting
@@ -269,6 +275,7 @@ https://en.wikipedia.org/wiki/Evaluation_of_machine_translation
 https://en.wikipedia.org/wiki/Evidence
 https://en.wikipedia.org/wiki/Executive_functions
 https://en.wikipedia.org/wiki/Existence
+https://en.wikipedia.org/wiki/Existential_quantification
 https://en.wikipedia.org/wiki/Expected_utility_hypothesis
 https://en.wikipedia.org/wiki/Experience
 https://en.wikipedia.org/wiki/Explainable_artificial_intelligence
@@ -310,6 +317,7 @@ https://en.wikipedia.org/wiki/Forgetting_curve
 https://en.wikipedia.org/wiki/Form-meaning_mismatch
 https://en.wikipedia.org/wiki/Formal_epistemology
 https://en.wikipedia.org/wiki/Formal_fallacy
+https://en.wikipedia.org/wiki/Formal_system
 https://en.wikipedia.org/wiki/Forward_declaration
 https://en.wikipedia.org/wiki/FrameNet
 https://en.wikipedia.org/wiki/Frame_analysis
@@ -368,6 +376,7 @@ https://en.wikipedia.org/wiki/IBM_DevOps_Code_ClearCase
 https://en.wikipedia.org/wiki/Idea
 https://en.wikipedia.org/wiki/Idealization_(philosophy_of_science)
 https://en.wikipedia.org/wiki/Identity_(object-oriented_programming)
+https://en.wikipedia.org/wiki/Identity_(philosophy)
 https://en.wikipedia.org/wiki/Identity_document
 https://en.wikipedia.org/wiki/Identity_function
 https://en.wikipedia.org/wiki/Idiom_(language_structure)
@@ -404,6 +413,7 @@ https://en.wikipedia.org/wiki/Instrumental_and_intrinsic_value
 https://en.wikipedia.org/wiki/Intelligence_amplification
 https://en.wikipedia.org/wiki/Intension
 https://en.wikipedia.org/wiki/Interdisciplinarity
+https://en.wikipedia.org/wiki/Interpretation_(logic)
 https://en.wikipedia.org/wiki/Interval_estimation
 https://en.wikipedia.org/wiki/Interval_finite_element
 https://en.wikipedia.org/wiki/Intrapersonal_communication
@@ -499,6 +509,7 @@ https://en.wikipedia.org/wiki/Message
 https://en.wikipedia.org/wiki/Meta-Object_Facility
 https://en.wikipedia.org/wiki/Meta_(prefix)
 https://en.wikipedia.org/wiki/Metacognition
+https://en.wikipedia.org/wiki/Metalanguage
 https://en.wikipedia.org/wiki/Metalogic
 https://en.wikipedia.org/wiki/Metamodeling
 https://en.wikipedia.org/wiki/Metanarrative
@@ -506,6 +517,7 @@ https://en.wikipedia.org/wiki/Metaobject
 https://en.wikipedia.org/wiki/Metaphor
 https://en.wikipedia.org/wiki/Metaprogramming
 https://en.wikipedia.org/wiki/Metascience
+https://en.wikipedia.org/wiki/Metavariable
 https://en.wikipedia.org/wiki/Metonymy
 https://en.wikipedia.org/wiki/Microformat
 https://en.wikipedia.org/wiki/Mind
@@ -571,6 +583,7 @@ https://en.wikipedia.org/wiki/Ontology_learning
 https://en.wikipedia.org/wiki/Opaque_data_type
 https://en.wikipedia.org/wiki/Opaque_pointer
 https://en.wikipedia.org/wiki/Open-mindedness
+https://en.wikipedia.org/wiki/Open_formula
 https://en.wikipedia.org/wiki/Operation_(mathematics)
 https://en.wikipedia.org/wiki/Operations_research
 https://en.wikipedia.org/wiki/Operator_(mathematics)
@@ -638,6 +651,7 @@ https://en.wikipedia.org/wiki/Public_awareness_of_science
 https://en.wikipedia.org/wiki/Punctuation
 https://en.wikipedia.org/wiki/Purposivism
 https://en.wikipedia.org/wiki/Qualification_problem
+https://en.wikipedia.org/wiki/Quantifier_(logic)
 https://en.wikipedia.org/wiki/Question
 https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
 https://en.wikipedia.org/wiki/Quotation_mark
@@ -666,6 +680,7 @@ https://en.wikipedia.org/wiki/Referring_expression
 https://en.wikipedia.org/wiki/Reflection_(computer_science)
 https://en.wikipedia.org/wiki/Reflexive_space
 https://en.wikipedia.org/wiki/Reinforcement
+https://en.wikipedia.org/wiki/Relation_(philosophy)
 https://en.wikipedia.org/wiki/Relational_frame_theory
 https://en.wikipedia.org/wiki/Relativism
 https://en.wikipedia.org/wiki/Relevance
@@ -704,6 +719,7 @@ https://en.wikipedia.org/wiki/Scenario_planning
 https://en.wikipedia.org/wiki/Scientific_consensus
 https://en.wikipedia.org/wiki/Scientific_control
 https://en.wikipedia.org/wiki/Scientific_modelling
+https://en.wikipedia.org/wiki/Scope_(formal_semantics)
 https://en.wikipedia.org/wiki/Self-modifying_code
 https://en.wikipedia.org/wiki/Self-organization
 https://en.wikipedia.org/wiki/Self-reference
@@ -769,6 +785,7 @@ https://en.wikipedia.org/wiki/Stropping_(syntax)
 https://en.wikipedia.org/wiki/Structural_fix
 https://en.wikipedia.org/wiki/Structural_type_system
 https://en.wikipedia.org/wiki/Structure
+https://en.wikipedia.org/wiki/Structure_(mathematical_logic)
 https://en.wikipedia.org/wiki/Studly_caps
 https://en.wikipedia.org/wiki/Subgoal_labeling
 https://en.wikipedia.org/wiki/Subject_(documents)
@@ -806,6 +823,7 @@ https://en.wikipedia.org/wiki/Temporal_annotation
 https://en.wikipedia.org/wiki/Temporal_logic
 https://en.wikipedia.org/wiki/Temporary_variable
 https://en.wikipedia.org/wiki/Term_(logic)
+https://en.wikipedia.org/wiki/Terminal_and_nonterminal_symbols
 https://en.wikipedia.org/wiki/Ternary_operation
 https://en.wikipedia.org/wiki/Testimony
 https://en.wikipedia.org/wiki/Text_(literary_theory)
@@ -847,6 +865,7 @@ https://en.wikipedia.org/wiki/Type_hierarchy
 https://en.wikipedia.org/wiki/Type_inference
 https://en.wikipedia.org/wiki/Type_inhabitation
 https://en.wikipedia.org/wiki/Type_safety
+https://en.wikipedia.org/wiki/Type_theory
 https://en.wikipedia.org/wiki/Type_variance
 https://en.wikipedia.org/wiki/Typing_rule
 https://en.wikipedia.org/wiki/Typographic_ligature
@@ -862,6 +881,7 @@ https://en.wikipedia.org/wiki/Unified_Modeling_Language
 https://en.wikipedia.org/wiki/Universal_instantiation
 https://en.wikipedia.org/wiki/Universal_quantification
 https://en.wikipedia.org/wiki/Universal_value
+https://en.wikipedia.org/wiki/Universe_(mathematics)
 https://en.wikipedia.org/wiki/Unspoken_rule
 https://en.wikipedia.org/wiki/Upper_and_lower_bounds
 https://en.wikipedia.org/wiki/Usage-based_models_of_language
@@ -870,6 +890,7 @@ https://en.wikipedia.org/wiki/User_intent
 https://en.wikipedia.org/wiki/VUCA
 https://en.wikipedia.org/wiki/Vagueness
 https://en.wikipedia.org/wiki/Value-level_programming
+https://en.wikipedia.org/wiki/Value_(mathematics)
 https://en.wikipedia.org/wiki/Value_object
 https://en.wikipedia.org/wiki/Value_presentation
 https://en.wikipedia.org/wiki/Value_theory
@@ -884,27 +905,10 @@ https://en.wikipedia.org/wiki/Word_problem_(mathematics)
 https://en.wikipedia.org/wiki/Work_method_statement
 https://en.wikipedia.org/wiki/Writing_system
 https://en.wikipedia.org/wiki/Yale_shooting_problem
-https://en.wikipedia.org/wiki/Value_(mathematics)
-https://en.wikipedia.org/wiki/Argument_of_a_function
-https://en.wikipedia.org/wiki/Arity
-https://en.wikipedia.org/wiki/Relation_(philosophy)
-https://en.wikipedia.org/wiki/Identity_(philosophy)
-https://en.wikipedia.org/wiki/Degree_of_truth
-https://en.wikipedia.org/wiki/Open_formula
-https://en.wikipedia.org/wiki/Quantifier_(logic)
-https://en.wikipedia.org/wiki/Existential_quantification
-https://en.wikipedia.org/wiki/Scope_(formal_semantics)
-https://en.wikipedia.org/wiki/Type_theory
-https://en.wikipedia.org/wiki/Universe_(mathematics)
-https://en.wikipedia.org/wiki/Domain_of_discourse
-https://en.wikipedia.org/wiki/Structure_(mathematical_logic)
-https://en.wikipedia.org/wiki/Cardinality
-https://en.wikipedia.org/wiki/Alphabet_(formal_languages)
-https://en.wikipedia.org/wiki/Terminal_and_nonterminal_symbols
-https://en.wikipedia.org/wiki/Metavariable
-https://en.wikipedia.org/wiki/Metalanguage
-https://en.wikipedia.org/wiki/Interpretation_(logic)
-https://en.wikipedia.org/wiki/Formal_system
+https://en.wikipedia.org/wiki/Abstraction_(mathematics)
+
+
+
 
 
 

@@ -960,7 +960,7 @@ https://en.wikipedia.org/wiki/Signature_(logic)
 https://en.wikipedia.org/wiki/Functor
 https://en.wikipedia.org/wiki/Functor_(functional_programming)
 https://en.wikipedia.org/wiki/Meaning_(philosophy)
-
+https://en.wikipedia.org/wiki/Propositional_variable
 
 
 

@@ -674,7 +674,7 @@ https://en.wikipedia.org/wiki/Affect_heuristic
 https://en.wikipedia.org/wiki/Familiarity_heuristic
 https://en.wikipedia.org/wiki/Argument_map
 https://en.wikipedia.org/wiki/Choice_architecture
-
+https://en.wikipedia.org/wiki/Choice_modelling
 
 
 

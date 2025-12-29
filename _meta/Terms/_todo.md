@@ -668,6 +668,19 @@ https://en.wikipedia.org/wiki/Superior_orders
 https://en.wikipedia.org/wiki/Automated_decision_support
 https://en.wikipedia.org/wiki/Reinforcement
 https://en.wikipedia.org/wiki/Allais_paradox
+https://en.wikipedia.org/wiki/Slippery_slope
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

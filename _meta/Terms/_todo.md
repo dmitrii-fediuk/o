@@ -15,3 +15,4 @@ https://en.wikipedia.org/wiki/Power_projection
 https://en.wikipedia.org/wiki/Program_refinement
 https://en.wikipedia.org/wiki/Strategy
 https://en.wikipedia.org/wiki/Business_object
+https://en.wikipedia.org/wiki/Object-capability_model

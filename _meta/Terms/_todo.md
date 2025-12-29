@@ -202,7 +202,7 @@ https://en.wikipedia.org/wiki/Abstracta
 https://en.wikipedia.org/wiki/Clefting
 https://en.wikipedia.org/wiki/Passivization
 https://en.wikipedia.org/wiki/S-expression
-
+https://en.wikipedia.org/wiki/Cognitive_dimensions_of_notations
 
 
 

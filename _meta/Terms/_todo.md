@@ -387,7 +387,7 @@ https://en.wikipedia.org/wiki/Paradigm
 https://en.wikipedia.org/wiki/Correlation
 https://en.wikipedia.org/wiki/Multiple_inheritance
 https://en.wikipedia.org/wiki/KRL_(programming_language)
-
+https://en.wikipedia.org/wiki/FrameNet
 
 
 

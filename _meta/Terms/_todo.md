@@ -390,7 +390,7 @@ https://en.wikipedia.org/wiki/KRL_(programming_language)
 https://en.wikipedia.org/wiki/FrameNet
 https://en.wikipedia.org/wiki/Set_theory
 https://en.wikipedia.org/wiki/Deductive_classifier
-
+https://en.wikipedia.org/wiki/Situation_calculus
 
 
 

@@ -131,5 +131,18 @@ https://en.wikipedia.org/wiki/Timeline_of_machine_learning
 https://en.wikipedia.org/wiki/State_of_the_art
 https://en.wikipedia.org/wiki/Language_modeling
 https://en.wikipedia.org/wiki/Natural-language_understanding
+https://en.wikipedia.org/wiki/Sentiment_analysis
+
+
+
+
+
+
+
+
+
+
+
+
 
 

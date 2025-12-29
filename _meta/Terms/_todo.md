@@ -592,7 +592,6 @@ https://en.wikipedia.org/wiki/Object-modeling_technique
 https://en.wikipedia.org/wiki/Object-oriented_ontology
 https://en.wikipedia.org/wiki/Object_(grammar)
 https://en.wikipedia.org/wiki/Object_composition
-https://en.wikipedia.org/wiki/Object_composition
 https://en.wikipedia.org/wiki/Object_lifetime
 https://en.wikipedia.org/wiki/Object_model
 https://en.wikipedia.org/wiki/Observational_error

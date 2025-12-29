@@ -343,4 +343,10 @@ https://en.wikipedia.org/wiki/Domain-specific_modeling
 https://en.wikipedia.org/wiki/Meta-Object_Facility
 https://en.wikipedia.org/wiki/Technical_documentation
 https://en.wikipedia.org/wiki/Dependency_(UML)
+https://en.wikipedia.org/wiki/State_(computer_science)
+
+
+
+
+
 

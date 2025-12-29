@@ -832,7 +832,7 @@ https://en.wikipedia.org/wiki/Principle
 https://en.wikipedia.org/wiki/Change_of_variables
 https://en.wikipedia.org/wiki/Universal_instantiation
 https://en.wikipedia.org/wiki/String_interpolation
-
+https://en.wikipedia.org/wiki/Equality_(mathematics)
 
 
 

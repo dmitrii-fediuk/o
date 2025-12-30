@@ -1216,7 +1216,7 @@ https://en.wikipedia.org/wiki/Corollary
 https://en.wikipedia.org/wiki/C._Northcote_Parkinson
 https://en.wikipedia.org/wiki/Bureaucratic_drift
 https://en.wikipedia.org/wiki/Dilbert_principle
-
+https://en.wikipedia.org/wiki/Gustafson%27s_law
 
 
 

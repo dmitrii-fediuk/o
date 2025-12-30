@@ -1262,7 +1262,7 @@ https://en.wikipedia.org/wiki/Granger_causality
 https://en.wikipedia.org/wiki/Look-elsewhere_effect
 https://en.wikipedia.org/wiki/Modifiable_areal_unit_problem
 https://en.wikipedia.org/wiki/Modifiable_temporal_unit_problem
-
+https://en.wikipedia.org/wiki/Omnibus_test
 
 
 

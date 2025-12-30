@@ -1120,7 +1120,7 @@ https://en.wikipedia.org/wiki/Common_cause_and_special_cause_(statistics)
 https://en.wikipedia.org/wiki/Spurious_relationship
 https://en.wikipedia.org/wiki/Confounding
 https://en.wikipedia.org/wiki/Necessity_and_sufficiency
-
+https://en.wikipedia.org/wiki/Alignments_of_random_points
 
 
 

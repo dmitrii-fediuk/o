@@ -1002,3 +1002,17 @@ https://en.wikipedia.org/wiki/Natural_borrowing_limit
 https://en.wikipedia.org/wiki/Price_signal
 https://en.wikipedia.org/wiki/Price_discovery
 https://en.wikipedia.org/wiki/Hedonic_regression
+https://en.wikipedia.org/wiki/Contract_theory
+
+
+
+
+
+
+
+
+
+
+
+
+

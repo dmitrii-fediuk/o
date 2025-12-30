@@ -1007,7 +1007,7 @@ https://en.wikipedia.org/wiki/The_Market_for_Lemons
 https://en.wikipedia.org/wiki/Gresham%27s_law
 https://en.wikipedia.org/wiki/Pre-existing_condition
 https://en.wikipedia.org/wiki/Pecking_order_theory
-
+https://en.wikipedia.org/wiki/Moral_hazard
 
 
 

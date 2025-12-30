@@ -33,7 +33,7 @@ https://en.wikipedia.org/wiki/Alphabet
 https://en.wikipedia.org/wiki/Alphabet_(formal_languages)
 https://en.wikipedia.org/wiki/Alternative
 https://en.wikipedia.org/wiki/Ambiguity
-https://en.wikipedia.org/wiki/Ambiguity_tolerance%E2%80%93intolerance
+https://en.wikipedia.org/wiki/Ambiguity_tolerance–intolerance
 https://en.wikipedia.org/wiki/Analogy
 https://en.wikipedia.org/wiki/Analytical_skill
 https://en.wikipedia.org/wiki/Anaphora_(linguistics)
@@ -62,7 +62,7 @@ https://en.wikipedia.org/wiki/Asymptotic_analysis
 https://en.wikipedia.org/wiki/Attention
 https://en.wikipedia.org/wiki/Attention_(machine_learning)
 https://en.wikipedia.org/wiki/Attention_Is_All_You_Need
-https://en.wikipedia.org/wiki/Attribute%E2%80%93value_system
+https://en.wikipedia.org/wiki/Attribute–value_system
 https://en.wikipedia.org/wiki/Attribute_(object-oriented_programming)
 https://en.wikipedia.org/wiki/Attribution_bias
 https://en.wikipedia.org/wiki/Authentication
@@ -115,7 +115,7 @@ https://en.wikipedia.org/wiki/Checklist
 https://en.wikipedia.org/wiki/Choice_architecture
 https://en.wikipedia.org/wiki/Choice_modelling
 https://en.wikipedia.org/wiki/Choiceless_awareness
-https://en.wikipedia.org/wiki/Circle%E2%80%93ellipse_problem
+https://en.wikipedia.org/wiki/Circle–ellipse_problem
 https://en.wikipedia.org/wiki/Citation
 https://en.wikipedia.org/wiki/Claim_(philosophy)
 https://en.wikipedia.org/wiki/Class_(philosophy)
@@ -263,9 +263,9 @@ https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)
 https://en.wikipedia.org/wiki/Encoding_(memory)
 https://en.wikipedia.org/wiki/Entailment
 https://en.wikipedia.org/wiki/Entailment_(linguistics)
-https://en.wikipedia.org/wiki/Entity%E2%80%93component%E2%80%93system
-https://en.wikipedia.org/wiki/Entity%E2%80%93control%E2%80%93boundary
-https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model
+https://en.wikipedia.org/wiki/Entity–component–system
+https://en.wikipedia.org/wiki/Entity–control–boundary
+https://en.wikipedia.org/wiki/Entity–relationship_model
 https://en.wikipedia.org/wiki/Entropy_(information_theory)
 https://en.wikipedia.org/wiki/Enumerated_type
 https://en.wikipedia.org/wiki/Epistemology
@@ -516,7 +516,7 @@ https://en.wikipedia.org/wiki/Mathematical_optimization
 https://en.wikipedia.org/wiki/Maximization_(psychology)
 https://en.wikipedia.org/wiki/Maya_numerals
 https://en.wikipedia.org/wiki/Meaning_(philosophy)
-https://en.wikipedia.org/wiki/Means%E2%80%93ends_analysis
+https://en.wikipedia.org/wiki/Means–ends_analysis
 https://en.wikipedia.org/wiki/Measurement_uncertainty
 https://en.wikipedia.org/wiki/Memory
 https://en.wikipedia.org/wiki/Mental_accounting
@@ -543,7 +543,7 @@ https://en.wikipedia.org/wiki/Metavariable
 https://en.wikipedia.org/wiki/Metonymy
 https://en.wikipedia.org/wiki/Microformat
 https://en.wikipedia.org/wiki/Mind
-https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem
+https://en.wikipedia.org/wiki/Mind–body_problem
 https://en.wikipedia.org/wiki/Minimum_description_length
 https://en.wikipedia.org/wiki/Minimum_message_length
 https://en.wikipedia.org/wiki/Minutes
@@ -802,7 +802,7 @@ https://en.wikipedia.org/wiki/Software_design_pattern
 https://en.wikipedia.org/wiki/Software_engineering
 https://en.wikipedia.org/wiki/Space_character
 https://en.wikipedia.org/wiki/Spacing_effect
-https://en.wikipedia.org/wiki/Spatial%E2%80%93temporal_reasoning
+https://en.wikipedia.org/wiki/Spatial–temporal_reasoning
 https://en.wikipedia.org/wiki/Speculative_execution
 https://en.wikipedia.org/wiki/Speech_act
 https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
@@ -840,7 +840,7 @@ https://en.wikipedia.org/wiki/Symbolic_programming
 https://en.wikipedia.org/wiki/Symmetric_closure
 https://en.wikipedia.org/wiki/Syntactic_ambiguity
 https://en.wikipedia.org/wiki/Syntactic_movement
-https://en.wikipedia.org/wiki/Syntax%E2%80%93semantics_interface
+https://en.wikipedia.org/wiki/Syntax–semantics_interface
 https://en.wikipedia.org/wiki/System
 https://en.wikipedia.org/wiki/System_F
 https://en.wikipedia.org/wiki/System_dynamics
@@ -903,7 +903,7 @@ https://en.wikipedia.org/wiki/Transitive_relation
 https://en.wikipedia.org/wiki/Troubleshooting
 https://en.wikipedia.org/wiki/Tuple_relational_calculus
 https://en.wikipedia.org/wiki/Two-alternative_forced_choice
-https://en.wikipedia.org/wiki/Type%E2%80%93token_distinction
+https://en.wikipedia.org/wiki/Type–token_distinction
 https://en.wikipedia.org/wiki/Type_(model_theory)
 https://en.wikipedia.org/wiki/Type_family
 https://en.wikipedia.org/wiki/Type_hierarchy
@@ -931,7 +931,7 @@ https://en.wikipedia.org/wiki/Unspoken_rule
 https://en.wikipedia.org/wiki/Upper_and_lower_bounds
 https://en.wikipedia.org/wiki/Usage
 https://en.wikipedia.org/wiki/Usage-based_models_of_language
-https://en.wikipedia.org/wiki/Use%E2%80%93mention_distinction
+https://en.wikipedia.org/wiki/Use–mention_distinction
 https://en.wikipedia.org/wiki/User_intent
 https://en.wikipedia.org/wiki/VUCA
 https://en.wikipedia.org/wiki/Vagueness

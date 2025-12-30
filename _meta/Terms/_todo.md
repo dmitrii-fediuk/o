@@ -1179,4 +1179,4 @@ https://en.wikipedia.org/wiki/Hindsight_bias
 https://en.wikipedia.org/wiki/Totalitarian_principle
 https://en.wikipedia.org/wiki/Infinite_monkey_theorem
 https://en.wikipedia.org/wiki/Segal%27s_law
-
+https://en.wikipedia.org/wiki/Precautionary_principle

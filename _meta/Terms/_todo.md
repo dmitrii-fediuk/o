@@ -1101,7 +1101,7 @@ https://en.wikipedia.org/wiki/Coincidence
 https://en.wikipedia.org/wiki/Magical_thinking
 https://en.wikipedia.org/wiki/Superstition
 https://en.wikipedia.org/wiki/Surrogate_endpoint
-
+https://en.wikipedia.org/wiki/Temporality
 
 
 

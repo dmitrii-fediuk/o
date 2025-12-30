@@ -1019,7 +1019,7 @@ https://en.wikipedia.org/wiki/Death_spiral_(insurance)
 https://en.wikipedia.org/wiki/Community_rating
 https://en.wikipedia.org/wiki/Friedman_doctrine
 https://en.wikipedia.org/wiki/Jump_bidding
-
+https://en.wikipedia.org/wiki/Vickrey_auction
 
 
 

@@ -1249,7 +1249,7 @@ https://en.wikipedia.org/wiki/Antithesis_(disambiguation)
 https://en.wikipedia.org/wiki/Dialectic
 https://en.wikipedia.org/wiki/Opposite
 https://en.wikipedia.org/wiki/Antimetabole
-
+https://en.wikipedia.org/wiki/Figure_of_speech
 
 
 

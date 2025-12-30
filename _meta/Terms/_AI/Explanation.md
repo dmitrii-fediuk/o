@@ -1,5 +1,5 @@
 #
-`Aᨀ` ≔ ⟨ https://en.wikipedia.org/wiki/STUB ⟩ 
+`Aᨀ` ≔ ⟨ https://en.wikipedia.org/wiki/Adverse_selection ⟩ 
 
 # `᛭T`
 Объясни `Aᨀ` с примерами.

@@ -1226,7 +1226,7 @@ https://en.wikipedia.org/wiki/Reference_class_forecasting
 https://en.wikipedia.org/wiki/SnackWell_effect
 https://en.wikipedia.org/wiki/Student_syndrome
 https://en.wikipedia.org/wiki/List_of_eponymous_laws
-
+https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence
 
 
 

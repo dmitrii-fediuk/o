@@ -995,7 +995,7 @@ https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem
 https://en.wikipedia.org/wiki/Resource-based_view
 https://en.wikipedia.org/wiki/Precommitment
 https://en.wikipedia.org/wiki/Intermediary
-
+https://en.wikipedia.org/wiki/Artificial_scarcity
 
 
 

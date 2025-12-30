@@ -980,7 +980,7 @@ https://en.wikipedia.org/wiki/Hold-up_problem
 https://en.wikipedia.org/wiki/Bargaining_model_of_war
 https://en.wikipedia.org/wiki/Countersignaling
 https://en.wikipedia.org/wiki/Forward_guidance
-
+https://en.wikipedia.org/wiki/Signaling_game
 
 
 

@@ -1122,7 +1122,7 @@ https://en.wikipedia.org/wiki/Confounding
 https://en.wikipedia.org/wiki/Necessity_and_sufficiency
 https://en.wikipedia.org/wiki/Alignments_of_random_points
 https://en.wikipedia.org/wiki/Post_hoc_analysis
-
+https://en.wikipedia.org/wiki/Bradford_Hill_criteria
 
 
 

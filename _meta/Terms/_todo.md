@@ -1158,7 +1158,7 @@ https://en.wikipedia.org/wiki/Combinatorial_meta-analysis
 https://en.wikipedia.org/wiki/Survivorship_bias
 https://en.wikipedia.org/wiki/Failure_bias
 https://en.wikipedia.org/wiki/Response_rate_(survey)
-
+https://en.wikipedia.org/wiki/Lost_to_follow-up
 
 
 

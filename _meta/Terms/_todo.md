@@ -1241,7 +1241,7 @@ https://en.wikipedia.org/wiki/Base_rate_fallacy
 https://en.wikipedia.org/wiki/Family-wise_error_rate
 https://en.wikipedia.org/wiki/Binary_classification
 https://en.wikipedia.org/wiki/Ethics_in_mathematics
-
+https://en.wikipedia.org/wiki/Lemma_(mathematics)
 
 
 

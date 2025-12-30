@@ -1268,6 +1268,6 @@ https://en.wikipedia.org/wiki/Almost_sure_hypothesis_testing
 https://en.wikipedia.org/wiki/Akaike_information_criterion
 https://en.wikipedia.org/wiki/E-values
 https://en.wikipedia.org/wiki/Eight_disciplines_problem_solving
-
+https://en.wikipedia.org/wiki/PDCA
 
 

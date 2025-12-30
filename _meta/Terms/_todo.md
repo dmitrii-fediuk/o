@@ -1186,7 +1186,7 @@ https://en.wikipedia.org/wiki/Thinking_(disambiguation)
 https://en.wikipedia.org/wiki/Thinking_outside_the_box
 https://en.wikipedia.org/wiki/This_(computer_programming)
 https://en.wikipedia.org/wiki/Thought
-https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9
+https://en.wikipedia.org/wiki/Thought-terminating_cliché
 https://en.wikipedia.org/wiki/Thought_(disambiguation)
 https://en.wikipedia.org/wiki/Thought_experiment
 https://en.wikipedia.org/wiki/Three-letter_acronym

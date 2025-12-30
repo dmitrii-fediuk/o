@@ -1016,3 +1016,17 @@ https://en.wikipedia.org/wiki/Screening_game
 https://en.wikipedia.org/wiki/Lemon_law
 https://en.wikipedia.org/wiki/Market_failure
 https://en.wikipedia.org/wiki/Death_spiral_(insurance)
+https://en.wikipedia.org/wiki/Community_rating
+
+
+
+
+
+
+
+
+
+
+
+
+

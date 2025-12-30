@@ -1253,6 +1253,19 @@ https://en.wikipedia.org/wiki/Figure_of_speech
 https://en.wikipedia.org/wiki/Statistical_significance
 https://en.wikipedia.org/wiki/Sensitivity_and_specificity
 https://en.wikipedia.org/wiki/Optimal_decision
+https://en.wikipedia.org/wiki/Power_(statistics)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

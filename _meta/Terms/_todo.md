@@ -955,7 +955,7 @@ https://en.wikipedia.org/wiki/Z_notation
 https://en.wikipedia.org/wiki/Rivalry_(economics)
 https://en.wikipedia.org/wiki/Excludability
 https://en.wikipedia.org/wiki/Lindahl_tax
-
+https://en.wikipedia.org/wiki/Private-collective_model_of_innovation
 
 
 

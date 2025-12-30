@@ -1172,7 +1172,7 @@ https://en.wikipedia.org/wiki/Funding_bias
 https://en.wikipedia.org/wiki/List_of_cognitive_biases
 https://en.wikipedia.org/wiki/Participation_bias
 https://en.wikipedia.org/wiki/Self-fulfilling_prophecy
-
+https://en.wikipedia.org/wiki/Selective_exposure_theory
 
 
 

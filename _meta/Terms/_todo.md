@@ -1195,7 +1195,7 @@ https://en.wikipedia.org/wiki/Pomodoro_Technique
 https://en.wikipedia.org/wiki/Six_Sigma
 https://en.wikipedia.org/wiki/Total_quality_management
 https://en.wikipedia.org/wiki/10/90_gap
-
+https://en.wikipedia.org/wiki/1%25_rule
 
 
 

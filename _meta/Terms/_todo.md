@@ -1191,7 +1191,7 @@ https://en.wikipedia.org/wiki/Power_law
 https://en.wikipedia.org/wiki/Normal_distribution
 https://en.wikipedia.org/wiki/Getting_Things_Done
 https://en.wikipedia.org/wiki/Time_management
-
+https://en.wikipedia.org/wiki/Pomodoro_Technique
 
 
 

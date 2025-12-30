@@ -965,3 +965,13 @@ https://en.wikipedia.org/wiki/Repeated_game
 https://en.wikipedia.org/wiki/Trust_(social_science)
 https://en.wikipedia.org/wiki/Inequity_aversion
 https://en.wikipedia.org/wiki/Dictator_game
+https://en.wikipedia.org/wiki/Social_loafing
+
+
+
+
+
+
+
+
+

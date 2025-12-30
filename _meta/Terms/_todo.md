@@ -1225,7 +1225,7 @@ https://en.wikipedia.org/wiki/Roemer%27s_law
 https://en.wikipedia.org/wiki/Reference_class_forecasting
 https://en.wikipedia.org/wiki/SnackWell_effect
 https://en.wikipedia.org/wiki/Student_syndrome
-
+https://en.wikipedia.org/wiki/List_of_eponymous_laws
 
 
 

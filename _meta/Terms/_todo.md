@@ -1098,7 +1098,7 @@ https://en.wikipedia.org/wiki/Association_fallacy
 https://en.wikipedia.org/wiki/Cargo_cult
 https://en.wikipedia.org/wiki/Causal_inference
 https://en.wikipedia.org/wiki/Coincidence
-
+https://en.wikipedia.org/wiki/Magical_thinking
 
 
 

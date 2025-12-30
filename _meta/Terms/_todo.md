@@ -991,7 +991,7 @@ https://en.wikipedia.org/wiki/Costly_signaling_theory_in_evolutionary_psychology
 https://en.wikipedia.org/wiki/Aposematism
 https://en.wikipedia.org/wiki/Fisherian_runaway
 https://en.wikipedia.org/wiki/Modigliani%E2%80%93Miller_theorem
-
+https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem
 
 
 

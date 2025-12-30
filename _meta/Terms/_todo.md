@@ -985,4 +985,16 @@ https://en.wikipedia.org/wiki/Stigma_management
 https://en.wikipedia.org/wiki/Virtue_signalling
 https://en.wikipedia.org/wiki/Signalling_theory
 https://en.wikipedia.org/wiki/Conspicuous_consumption
+https://en.wikipedia.org/wiki/Cheap_talk
+
+
+
+
+
+
+
+
+
+
+
 

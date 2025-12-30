@@ -997,7 +997,7 @@ https://en.wikipedia.org/wiki/Precommitment
 https://en.wikipedia.org/wiki/Intermediary
 https://en.wikipedia.org/wiki/Artificial_scarcity
 https://en.wikipedia.org/wiki/Asymmetric_competition
-
+https://en.wikipedia.org/wiki/Inequality_of_bargaining_power
 
 
 

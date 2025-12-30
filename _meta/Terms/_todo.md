@@ -952,3 +952,4 @@ https://en.wikipedia.org/wiki/Work_method_statement
 https://en.wikipedia.org/wiki/Writing_system
 https://en.wikipedia.org/wiki/Yale_shooting_problem
 https://en.wikipedia.org/wiki/Z_notation
+https://en.wikipedia.org/wiki/Rivalry_(economics)

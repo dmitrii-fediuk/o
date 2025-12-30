@@ -978,7 +978,7 @@ https://en.wikipedia.org/wiki/Prospect_theory
 https://en.wikipedia.org/wiki/Price_premium
 https://en.wikipedia.org/wiki/Hold-up_problem
 https://en.wikipedia.org/wiki/Bargaining_model_of_war
-
+https://en.wikipedia.org/wiki/Countersignaling
 
 
 

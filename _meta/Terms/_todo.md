@@ -1230,7 +1230,7 @@ https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidenc
 https://en.wikipedia.org/wiki/Philosophical_razor
 https://en.wikipedia.org/wiki/Russell%27s_teapot
 https://en.wikipedia.org/wiki/Presumption_of_guilt
-
+https://en.wikipedia.org/wiki/Presumption
 
 
 

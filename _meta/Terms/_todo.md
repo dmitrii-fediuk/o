@@ -1223,7 +1223,7 @@ https://en.wikipedia.org/wiki/Jevons_paradox
 https://en.wikipedia.org/wiki/Peter_principle
 https://en.wikipedia.org/wiki/Roemer%27s_law
 https://en.wikipedia.org/wiki/Reference_class_forecasting
-
+https://en.wikipedia.org/wiki/SnackWell_effect
 
 
 

@@ -113,7 +113,7 @@ https://en.wikipedia.org/wiki/Belief_perseverance
 https://en.wikipedia.org/wiki/Belief_revision
 https://en.wikipedia.org/wiki/Benefit_shortfall
 https://en.wikipedia.org/wiki/Berkson's_paradox
-https://en.wikipedia.org/wiki/Bertrand%E2%80%93Edgeworth_model
+https://en.wikipedia.org/wiki/Bertrand–Edgeworth_model
 https://en.wikipedia.org/wiki/Bertrand_paradox_(economics)
 https://en.wikipedia.org/wiki/Bid_shading
 https://en.wikipedia.org/wiki/Binary_classification
@@ -505,7 +505,7 @@ https://en.wikipedia.org/wiki/Guesstimate
 https://en.wikipedia.org/wiki/Gustafson's_law
 https://en.wikipedia.org/wiki/HARKing
 https://en.wikipedia.org/wiki/Half-truth
-https://en.wikipedia.org/wiki/Hard%E2%80%93easy_effect
+https://en.wikipedia.org/wiki/Hard–easy_effect
 https://en.wikipedia.org/wiki/Hard_cases_make_bad_law
 https://en.wikipedia.org/wiki/Hard_problem_of_consciousness
 https://en.wikipedia.org/wiki/Hawthorne_effect
@@ -644,7 +644,7 @@ https://en.wikipedia.org/wiki/Least-concern_species
 https://en.wikipedia.org/wiki/Lemma_(mathematics)
 https://en.wikipedia.org/wiki/Lemmatisation
 https://en.wikipedia.org/wiki/Lemon_law
-https://en.wikipedia.org/wiki/Lewis%E2%80%93Mogridge_position
+https://en.wikipedia.org/wiki/Lewis–Mogridge_position
 https://en.wikipedia.org/wiki/Lexical_analysis
 https://en.wikipedia.org/wiki/Lexical_markup_framework
 https://en.wikipedia.org/wiki/Lindahl_tax
@@ -736,7 +736,7 @@ https://en.wikipedia.org/wiki/Model-theoretic_grammar
 https://en.wikipedia.org/wiki/Model_theory
 https://en.wikipedia.org/wiki/Modifiable_areal_unit_problem
 https://en.wikipedia.org/wiki/Modifiable_temporal_unit_problem
-https://en.wikipedia.org/wiki/Modigliani%E2%80%93Miller_theorem
+https://en.wikipedia.org/wiki/Modigliani–Miller_theorem
 https://en.wikipedia.org/wiki/Modular_arithmetic
 https://en.wikipedia.org/wiki/Modular_programming
 https://en.wikipedia.org/wiki/Modus_ponens
@@ -753,7 +753,7 @@ https://en.wikipedia.org/wiki/Multiple_comparisons_problem
 https://en.wikipedia.org/wiki/Multiple_inheritance
 https://en.wikipedia.org/wiki/Multiset
 https://en.wikipedia.org/wiki/Mutually_assured_destruction
-https://en.wikipedia.org/wiki/Myerson%E2%80%93Satterthwaite_theorem
+https://en.wikipedia.org/wiki/Myerson–Satterthwaite_theorem
 https://en.wikipedia.org/wiki/Name
 https://en.wikipedia.org/wiki/Name_resolution_(programming_languages)
 https://en.wikipedia.org/wiki/Named-entity_recognition
@@ -876,7 +876,7 @@ https://en.wikipedia.org/wiki/Price_discovery
 https://en.wikipedia.org/wiki/Price_premium
 https://en.wikipedia.org/wiki/Price_signal
 https://en.wikipedia.org/wiki/Priming_(psychology)
-https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem
+https://en.wikipedia.org/wiki/Principal–agent_problem
 https://en.wikipedia.org/wiki/Principle
 https://en.wikipedia.org/wiki/Principle_of_charity
 https://en.wikipedia.org/wiki/Principle_of_sufficient_reason

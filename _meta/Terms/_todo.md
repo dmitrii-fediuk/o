@@ -1038,7 +1038,7 @@ https://en.wikipedia.org/wiki/Cooperation
 https://en.wikipedia.org/wiki/Equilibrium_selection
 https://en.wikipedia.org/wiki/Evolutionarily_stable_strategy
 https://en.wikipedia.org/wiki/Hotelling%27s_law
-
+https://en.wikipedia.org/wiki/Mexican_standoff
 
 
 

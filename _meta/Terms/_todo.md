@@ -1023,7 +1023,7 @@ https://en.wikipedia.org/wiki/Vickrey_auction
 https://en.wikipedia.org/wiki/Continuous_uniform_distribution
 https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus
 https://en.wikipedia.org/wiki/Japanese_auction
-
+https://en.wikipedia.org/wiki/Cournot_competition
 
 
 

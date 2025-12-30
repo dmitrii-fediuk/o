@@ -1151,3 +1151,4 @@ https://en.wikipedia.org/wiki/Red_herring
 https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9
 https://en.wikipedia.org/wiki/Agree_to_disagree
 https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem
+https://en.wikipedia.org/wiki/Begging_the_question

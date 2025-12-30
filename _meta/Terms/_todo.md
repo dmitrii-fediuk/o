@@ -1066,7 +1066,7 @@ https://en.wikipedia.org/wiki/Disposition_effect
 https://en.wikipedia.org/wiki/Complete_information
 https://en.wikipedia.org/wiki/Regret-free_mechanism
 https://en.wikipedia.org/wiki/Competitive_regret
-
+https://en.wikipedia.org/wiki/Swap_regret
 
 
 

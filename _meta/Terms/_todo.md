@@ -983,6 +983,6 @@ https://en.wikipedia.org/wiki/Forward_guidance
 https://en.wikipedia.org/wiki/Signaling_game
 https://en.wikipedia.org/wiki/Stigma_management
 https://en.wikipedia.org/wiki/Virtue_signalling
-
+https://en.wikipedia.org/wiki/Signalling_theory
 
 

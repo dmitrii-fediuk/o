@@ -672,7 +672,7 @@ https://en.wikipedia.org/wiki/Property_(programming)
 https://en.wikipedia.org/wiki/Proportionality_(mathematics)
 https://en.wikipedia.org/wiki/Propositional_variable
 https://en.wikipedia.org/wiki/Prosody_(linguistics)
-https://en.wikipedia.org/wiki/Prot%C3%A9g%C3%A9_(software)
+https://en.wikipedia.org/wiki/Protégé_(software)
 https://en.wikipedia.org/wiki/Prototype-based_programming
 https://en.wikipedia.org/wiki/Prototype_theory
 https://en.wikipedia.org/wiki/Pseudocode

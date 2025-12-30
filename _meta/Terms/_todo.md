@@ -1141,7 +1141,7 @@ https://en.wikipedia.org/wiki/Othello_error
 https://en.wikipedia.org/wiki/Pars_destruens_and_pars_construens
 https://en.wikipedia.org/wiki/Proof_by_example
 https://en.wikipedia.org/wiki/Quasi-experiment
-
+https://en.wikipedia.org/wiki/Simpson%27s_paradox
 
 
 

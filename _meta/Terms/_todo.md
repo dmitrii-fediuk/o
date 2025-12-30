@@ -1244,7 +1244,7 @@ https://en.wikipedia.org/wiki/Ethics_in_mathematics
 https://en.wikipedia.org/wiki/Lemma_(mathematics)
 https://en.wikipedia.org/wiki/Precision_and_recall
 https://en.wikipedia.org/wiki/Base_rate_fallacy
-
+https://en.wikipedia.org/wiki/Type_III_error
 
 
 

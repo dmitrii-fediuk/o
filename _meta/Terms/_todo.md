@@ -1264,7 +1264,7 @@ https://en.wikipedia.org/wiki/Modifiable_areal_unit_problem
 https://en.wikipedia.org/wiki/Modifiable_temporal_unit_problem
 https://en.wikipedia.org/wiki/Omnibus_test
 https://en.wikipedia.org/wiki/Dichotomous_thinking
-
+https://en.wikipedia.org/wiki/Almost_sure_hypothesis_testing
 
 
 

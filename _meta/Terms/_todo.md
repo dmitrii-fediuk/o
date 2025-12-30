@@ -975,3 +975,14 @@ https://en.wikipedia.org/wiki/Class_consciousness
 https://en.wikipedia.org/wiki/Credential
 https://en.wikipedia.org/wiki/Sheepskin_effect
 https://en.wikipedia.org/wiki/Prospect_theory
+https://en.wikipedia.org/wiki/Price_premium
+
+
+
+
+
+
+
+
+
+

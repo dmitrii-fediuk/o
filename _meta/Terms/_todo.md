@@ -1050,7 +1050,7 @@ https://en.wikipedia.org/wiki/Conditional_expectation
 https://en.wikipedia.org/wiki/Expected_value
 https://en.wikipedia.org/wiki/Bid_shading
 https://en.wikipedia.org/wiki/Regression_toward_the_mean
-
+https://en.wikipedia.org/wiki/Auction_theory
 
 
 

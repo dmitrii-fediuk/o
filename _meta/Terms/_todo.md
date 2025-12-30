@@ -1137,6 +1137,6 @@ https://en.wikipedia.org/wiki/Ad_hoc
 https://en.wikipedia.org/wiki/Hawthorne_effect
 https://en.wikipedia.org/wiki/Half-truth
 https://en.wikipedia.org/wiki/Jumping_to_conclusions
-
+https://en.wikipedia.org/wiki/Othello_error
 
 

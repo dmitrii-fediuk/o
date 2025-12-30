@@ -1048,7 +1048,7 @@ https://en.wikipedia.org/wiki/Solution_concept
 https://en.wikipedia.org/wiki/Revenue_equivalence
 https://en.wikipedia.org/wiki/Conditional_expectation
 https://en.wikipedia.org/wiki/Expected_value
-
+https://en.wikipedia.org/wiki/Bid_shading
 
 
 

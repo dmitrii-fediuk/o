@@ -1061,7 +1061,7 @@ https://en.wikipedia.org/wiki/Risk_aversion
 https://en.wikipedia.org/wiki/Status_quo_bias
 https://en.wikipedia.org/wiki/Expected_utility_hypothesis
 https://en.wikipedia.org/wiki/Stochastic_dominance
-
+https://en.wikipedia.org/wiki/First-price_sealed-bid_auction
 
 
 

@@ -1088,7 +1088,7 @@ https://en.wikipedia.org/wiki/Goldwater_rule
 https://en.wikipedia.org/wiki/Gaslighting
 https://en.wikipedia.org/wiki/False_memory
 https://en.wikipedia.org/wiki/Rosenhan_experiment
-
+https://en.wikipedia.org/wiki/Faulty_generalization
 
 
 

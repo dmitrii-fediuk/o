@@ -1092,6 +1092,16 @@ https://en.wikipedia.org/wiki/Faulty_generalization
 https://en.wikipedia.org/wiki/List_of_fallacies
 https://en.wikipedia.org/wiki/Questionable_cause
 https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation
+https://en.wikipedia.org/wiki/Apophenia
+
+
+
+
+
+
+
+
+
 
 
 

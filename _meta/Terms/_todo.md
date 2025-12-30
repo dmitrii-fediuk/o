@@ -1139,7 +1139,7 @@ https://en.wikipedia.org/wiki/Half-truth
 https://en.wikipedia.org/wiki/Jumping_to_conclusions
 https://en.wikipedia.org/wiki/Othello_error
 https://en.wikipedia.org/wiki/Pars_destruens_and_pars_construens
-
+https://en.wikipedia.org/wiki/Proof_by_example
 
 
 

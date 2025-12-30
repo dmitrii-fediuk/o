@@ -1036,7 +1036,7 @@ https://en.wikipedia.org/wiki/Braess%27s_paradox
 https://en.wikipedia.org/wiki/Conflict_resolution
 https://en.wikipedia.org/wiki/Cooperation
 https://en.wikipedia.org/wiki/Equilibrium_selection
-
+https://en.wikipedia.org/wiki/Evolutionarily_stable_strategy
 
 
 

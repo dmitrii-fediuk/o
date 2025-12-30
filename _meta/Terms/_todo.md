@@ -1083,7 +1083,7 @@ https://en.wikipedia.org/wiki/Weasel_word
 https://en.wikipedia.org/wiki/Evidence_of_absence
 https://en.wikipedia.org/wiki/Contraposition
 https://en.wikipedia.org/wiki/Autoepistemic_logic
-
+https://en.wikipedia.org/wiki/Argument_from_silence
 
 
 

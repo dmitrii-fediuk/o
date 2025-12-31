@@ -21,6 +21,30 @@ https://en.wikipedia.org/wiki/Java_Modeling_Language
 https://en.wikipedia.org/wiki/Knowledge_Based_Software_Assistant
 https://en.wikipedia.org/wiki/Lustre_programming_language
 https://en.wikipedia.org/wiki/MCRL2
+https://en.wikipedia.org/wiki/Perfect_Developer
+https://en.wikipedia.org/wiki/Petri_nets
+https://en.wikipedia.org/wiki/Predicative_programming
+https://en.wikipedia.org/wiki/Process_calculi
+https://en.wikipedia.org/wiki/Communicating_Sequential_Processes
+https://en.wikipedia.org/wiki/Language_Of_Temporal_Ordering_Specification
+https://en.wikipedia.org/wiki/Pi-calculus
+https://en.wikipedia.org/wiki/RAISE_specification_language
+https://en.wikipedia.org/wiki/Rebeca_Modeling_Language
+https://en.wikipedia.org/wiki/SPARK_(programming_language)
+https://en.wikipedia.org/wiki/Specification_and_Description_Language
+https://en.wikipedia.org/wiki/TLA%2B
+https://en.wikipedia.org/wiki/Universal_Systems_Language
+https://en.wikipedia.org/wiki/Vienna_Development_Method
+https://en.wikipedia.org/wiki/VDM_specification_language
+
+
+
+
+
+
+
+
+
 
 
 

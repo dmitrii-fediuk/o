@@ -1,5 +1,5 @@
 #
-`Aᨀ` ≔ ⟨ https://en.wikipedia.org/wiki/STUB ⟩ 
+`Aᨀ` ≔ ⟨ STUB ⟩ 
 
 # `᛭T`
 Объясни `Aᨀ` с примерами.

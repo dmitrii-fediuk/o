@@ -13,11 +13,12 @@ The main task of formal semantics is to reverse engineer the computational syste
 https://en.wikipedia.org/wiki/Denotation#Denotation,_meaning,_and_reference
 
 # Denotation and reference
+https://en.wikipedia.org/wiki/Denotation#Denotation_and_reference
 Although they have similar meanings, denotation should not be confused with reference. 
 **A reference is a specific person, place, or thing that a speaker identifies when using a word**.
 
-
-
+# Denotation and meaning
+https://en.wikipedia.org/wiki/Denotation#Denotation_and_meaning
 
 
 

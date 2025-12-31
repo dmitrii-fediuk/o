@@ -23,7 +23,7 @@
 ### Example
 ⟨ Ⱳ Partially_ordered_set#Intervals ⟩ ≡ ⟨ понятие «**interval**» в контексте «an **interval** in a poset `P` is a subset that can be defined with interval notation <…>» ⟩
 ### Rationale
-Я использую этот синтаксис, когда для описываемого мной понятия отсутствует a standalone artice in Wikipedia. 
+Я использую этот синтаксис, когда для описываемого мной понятия отсутствует a standalone `ⱲA`. 
 
 ## Syntax 3: `Ⱳ LPS∷T`
 ~~~code

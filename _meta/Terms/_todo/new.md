@@ -8,3 +8,5 @@ https://en.wikipedia.org/wiki/Rewrite_rule
 https://en.wikipedia.org/wiki/Terminating
 https://en.wikipedia.org/wiki/Confluent_(abstract_rewriting)
 https://en.wikipedia.org/wiki/Church-Rosser
+https://en.wikipedia.org/wiki/SAT_solver
+https://en.wikipedia.org/wiki/Boolean_satisfiability_problem

@@ -11,7 +11,7 @@
 ###
 `L.md` ∈ `᛭D⠿`.
 ###
-`L.md` описывает полуформальный язык: `᛭L`.
+`L.md` описывает a semi-formal (https://en.wikipedia.org/wiki/Formal_methods#Semi-formal_methods) language: `᛭L`.
 ### 
 Большинство `᛭Dᵢ` написаны на `᛭L`.
 ### 

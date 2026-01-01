@@ -40,7 +40,7 @@ https://en.wikipedia.org/wiki/Operational_semantics
 https://en.wikipedia.org/wiki/Branch_predictor
 https://en.wikipedia.org/wiki/Opaque_context
 https://en.wikipedia.org/wiki/Levels_of_processing_model
-
+https://en.wikipedia.org/wiki/Semantic_decomposition_(natural_language_processing)
 
 
 

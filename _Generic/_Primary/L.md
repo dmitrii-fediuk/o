@@ -425,7 +425,7 @@ A₂ ≔ B₂
 ## Meaning
 `A` is a ⟨ Ⱳ Problem_solving∷problem ⟩.
 
-# 25. ▶
+# 35. ▶
 ## Syntax
 ```code
 ▶ A

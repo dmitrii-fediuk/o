@@ -168,8 +168,8 @@ One of:
 # 14. ꑌ𝕀
 `𝕀` ≔ Ⱳ Partially_ordered_set∷interval   
 
-## ℙ
-`ℙ` ≔ 
+# 15. ꑌℙ
+`ꑌℙ` ≔ 
 ```
 - Ⱳ https://en.wikipedia.org/wiki/Predicate_(logic) 
 - Ⱳ https://en.wikipedia.org/wiki/First-order_logic∷predicate 

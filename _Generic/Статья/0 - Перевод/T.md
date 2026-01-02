@@ -1,25 +1,20 @@
 # 1.
-## 1.1. 
-`L_SOURCE` ≔ ⟨ Русский язык ⟩
-
-## 1.2. 
-`L_TARGET` ≔ ⟨ English ⟩
+⌠`᛭Dс`⌡ ⟨ 
+	`L_SOURCE` ≔ ⟨ Русский язык ⟩
+	`L_TARGET` ≔ ⟨ English ⟩
+	`T⧙f⧘` ≔ ⟨ перевод `f` с `L_SOURCE` на `L_TARGET` ⟩ ⸨ 
+		`f`: `☷` `᛭A` 
+	⸩
+⟩
 
 # 2.
-`Aᨀ` ≔ ⟪ мой proposal `ꆜ` для `P⁎` ⟫
+`Cᨀ` ≔ ⟪ `☷` `᛭A`, уже переведённый с `L_SOURCE` на `L_TARGET` ⟫
 ~~~markdown
 STUB
 ~~~
 
 # 3.
-`Cᨀ` ≔ ⟪ часть `Aᨀ`, уже переведённая с `L_SOURCE` на `L_TARGET` ⟫
-~~~markdown
-STUB
-~~~
-
-# 4.
-##
-`Fᨀ` ≔ ⟪ фрагмент `Aᨀ` ⟫
+`Fᨀ` ≔ ⟪ `☷` `᛭A`, который требуется перевести с `L_SOURCE` на `L_TARGET` ⟫
 ~~~markdown
 STUB
 ~~~

@@ -423,7 +423,7 @@ A₂ ≔ B₂
 † A
 ~~~
 ## Meaning
-`A` is a ⟨ Ⱳ https://en.wikipedia.org/wiki/Problem_solving∷problem ⟩.
+`A` is a ⟨ Ⱳ Problem_solving∷problem ⟩.
 
 # 25. ▶
 ## Syntax

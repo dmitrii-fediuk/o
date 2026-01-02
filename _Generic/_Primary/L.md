@@ -155,9 +155,8 @@ One of:
 # 11. ꑌꕤ
 `ꑌꕤ` ≔ ⟨ Ⱳ Meaning_(philosophy) ⟩
 
-# 7.
-## 𝒞
-`𝒞` ≔ ⟨ понятие «category» в контексте ⟨ Ⱳ https://en.wikipedia.org/wiki/Theory_of_categories ⟩ ⟩ 
+# 12. ꑌ𝒞
+`ꑌ𝒞` ≔ ⟨ Ⱳ Theory_of_categories∷category ⟩ 
  
 ## ℂ
 `ℂ` ≔ 

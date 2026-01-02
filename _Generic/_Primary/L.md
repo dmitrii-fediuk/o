@@ -1,5 +1,5 @@
 # 1. ⱲA
-`ⱲA` ≔ ⟨ an article from the English Wikipedia ⟩ 
+`ꑌⱲA` ≔ ⟨ an article from the English Wikipedia ⟩
 
 # 2. Ⱳ LPS
 ## Syntax
@@ -7,8 +7,8 @@
 Ⱳ LPS
 ~~~
 ### Meaning
-Понятие, которому посвящена `ⱲA` по адресу `https://en.wikipedia.org/wiki/<LPS>`.  
-`LPS` — the Last Path Segment of the `ⱲA`'s URL.
+Понятие, которому посвящена `ꑌⱲA` по адресу `https://en.wikipedia.org/wiki/<LPS>`.  
+`LPS` — the Last Path Segment of the `ꑌⱲA`'s URL.
 ### Example
 ⟨ Ⱳ Ontology_(information_science) ⟩ ≡ ⟨ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities ⟩
 
@@ -18,12 +18,12 @@
 Ⱳ LPS#FI
 ~~~
 ### Meaning
-Понятие, которому посвящёна the `ⱲA`'s section по адресу `https://en.wikipedia.org/wiki/<LPS>#<FI>`.   
+Понятие, которому посвящёна the `ꑌⱲA`'s section по адресу `https://en.wikipedia.org/wiki/<LPS>#<FI>`.   
 `FI` — is the Fragment Identifier of the section.
 ### Example
 ⟨ Ⱳ Partially_ordered_set#Intervals ⟩ ≡ ⟨ понятие «**interval**» в контексте «an **interval** in a poset `P` is a subset that can be defined with interval notation <…>» ⟩
 ### Rationale
-Я использую этот синтаксис, когда для описываемого мной понятия отсутствует a standalone `ⱲA`. 
+Я использую этот синтаксис, когда для описываемого мной понятия отсутствует a standalone `ꑌⱲA`. 
 
 # 4. Ⱳ LPS∷T
 ## Syntax
@@ -31,11 +31,11 @@
 Ⱳ LPS∷T
 ~~~
 ### Meaning
-Понятие `T` в контексте the `ⱲA` по адресу `https://en.wikipedia.org/wiki/<LPS>`.  
+Понятие `T` в контексте the `ꑌⱲA` по адресу `https://en.wikipedia.org/wiki/<LPS>`.  
 ### Example
 ⟨ Ⱳ Theory_of_categories∷category ⟩ ≡ ⟨ понятие «**category**» в контексте «In ontology, the theory of categories concerns itself with the **categories** of being: the highest genera or kinds of entities. To investigate the categories of being, or simply **categories** <…>» ⟩
 ### Rationale
-Я использую этот синтаксис в тех случаях, когда для описываемого мной понятия отсутствует и standalone `ⱲA`, и даже standalone section (with a Fragment Identifier) of a `ⱲA`.
+Я использую этот синтаксис в тех случаях, когда для описываемого мной понятия отсутствует и standalone `ꑌⱲA`, и даже standalone section (with a Fragment Identifier) of a `ꑌⱲA`.
 
 # 5. ≔
 ## Syntax
@@ -132,9 +132,10 @@ Line 2
 Я обычно использую синтаксис `⊤` на поздних этапах многошагового анализа.  
 На ранних этапах такого анализа истинность `A` может быть неочевидна.   
 Истинность `A` может выясниться в процессе анализа.   
-В таком случае я явно пишу `⊤ A`, чтобы ты не тратил свои ресурсы на повторный анализ истинности `A` и в дальнейшем анализе считал `A` аксиомой.
+В таком случае я явно пишу `⊤ A`, чтобы ты не тратил свои ресурсы на повторный анализ 
+истинности `A` и в дальнейшем анализе считал `A` аксиомой.
 
-# 6.1. ꖿ
+# 9. ꖿ
 `ꖿ` ≔ 
 ```
 - ⟪ «a substantive statement about a thing» ⟫ ⟨ Ⱳ Claim_(philosophy) ⟩ 

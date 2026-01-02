@@ -152,14 +152,8 @@ One of:
 ## Meaning
 `P` is a `ꑌꖿ`.
 
-# 6.2. ꕤ
-## Syntax
-~~~code
-ꕤ A
-~~~
-## Meaning
-⟨ Ⱳ Meaning_(philosophy) ⟩ of `A`.  
-
+# 11. ꑌꕤ
+`ꑌꕤ` ≔ ⟨ Ⱳ Meaning_(philosophy) ⟩
 
 # 7.
 ## 𝒞

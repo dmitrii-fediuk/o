@@ -156,7 +156,7 @@ One of:
 `ꑌꕤ` ≔ ⟨ Ⱳ Meaning_(philosophy) ⟩
 
 # 12. ꑌ𝒞
-`ꑌ𝒞` ≔ ⟨ Ⱳ Theory_of_categories∷category ⟩ 
+`ꑌ𝒞` ≔ Ⱳ Theory_of_categories∷category 
  
 ## ℂ
 `ℂ` ≔ 

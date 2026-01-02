@@ -37,8 +37,7 @@
 ### Rationale
 Я использую этот синтаксис в тех случаях, когда для описываемого мной понятия отсутствует и standalone `ⱲA`, и даже standalone section (with a Fragment Identifier) of a `ⱲA`.
 
-
-# 1. ≔
+# 5. ≔
 ## Syntax
 ~~~code
 A ≔ B

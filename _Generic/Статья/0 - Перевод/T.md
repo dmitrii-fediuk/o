@@ -3,18 +3,18 @@
 	`L_SOURCE` ≔ ⟨ Русский язык ⟩
 	`L_TARGET` ≔ ⟨ English ⟩
 	`T⧙f⧘` ≔ ⟨ перевод `f` с `L_SOURCE` на `L_TARGET` ⟩ ⸨ 
-		`f`: `☷` `᛭A` 
+		`f`: `᛭A☷` 
 	⸩
 ⟩
 
 # 2.
-`Cᨀ` ≔ ⟪ `☷` `᛭A`, уже переведённый с `L_SOURCE` на `L_TARGET` ⟫
+`Cᨀ` ≔ ⟪ `᛭A☷`, уже переведённый с `L_SOURCE` на `L_TARGET` ⟫
 ~~~markdown
 STUB
 ~~~
 
 # 3.
-`Fᨀ` ≔ ⟪ `☷` `᛭A`, который требуется перевести с `L_SOURCE` на `L_TARGET` ⟫
+`Fᨀ` ≔ ⟪ `᛭A☷`, который требуется перевести с `L_SOURCE` на `L_TARGET` ⟫
 ~~~markdown
 STUB
 ~~~

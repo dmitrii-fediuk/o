@@ -5,3 +5,6 @@ https://en.wikipedia.org/wiki/Terminology
 
 # Term
 A **term** is a **word**, **compound word**, or **multi-word expression** that in **specific contexts** is given **specific meanings**—these **may deviate** from the meanings the same words have **in other contexts** and **in everyday language**.
+
+#
+**Terminology** **differs** from **lexicography**, as it involves the **study of concepts**, conceptual systems and their labels (terms), whereas lexicography **studies words** and their meanings.

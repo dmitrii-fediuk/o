@@ -1,4 +1,4 @@
-# 1. References to Wikipedia
+# 1. The syntax of references to Wikipedia
 ## 1.1. ⱲA
 `ꑌⱲA` ≔ ⟨ an article from the English Wikipedia ⟩
 

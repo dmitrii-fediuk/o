@@ -1,6 +1,8 @@
 https://en.wikipedia.org/wiki/1%_rule
 https://en.wikipedia.org/wiki/10/90_gap
+https://en.wikipedia.org/wiki/ACL2
 https://en.wikipedia.org/wiki/AMA_Manual_of_Style
+https://en.wikipedia.org/wiki/ANSI/ISO_C_Specification_Language
 https://en.wikipedia.org/wiki/APA_style
 https://en.wikipedia.org/wiki/Abductive_reasoning
 https://en.wikipedia.org/wiki/Ability
@@ -18,6 +20,7 @@ https://en.wikipedia.org/wiki/Accounting
 https://en.wikipedia.org/wiki/Action_(philosophy)
 https://en.wikipedia.org/wiki/Action_principles
 https://en.wikipedia.org/wiki/Active_learning
+https://en.wikipedia.org/wiki/Actor_model
 https://en.wikipedia.org/wiki/Ad_hoc
 https://en.wikipedia.org/wiki/Ad_hoc_polymorphism
 https://en.wikipedia.org/wiki/Ad_hominem
@@ -32,6 +35,8 @@ https://en.wikipedia.org/wiki/Aggregative_game
 https://en.wikipedia.org/wiki/Aging_brain
 https://en.wikipedia.org/wiki/Agree_to_disagree
 https://en.wikipedia.org/wiki/Akaike_information_criterion
+https://en.wikipedia.org/wiki/Algebraic_expression
+https://en.wikipedia.org/wiki/Algebraic_semantics_(computer_science)
 https://en.wikipedia.org/wiki/Algorithmic_bias
 https://en.wikipedia.org/wiki/Aliasing_(computing)
 https://en.wikipedia.org/wiki/Alignments_of_random_points
@@ -57,6 +62,7 @@ https://en.wikipedia.org/wiki/Apophenia
 https://en.wikipedia.org/wiki/Aposematism
 https://en.wikipedia.org/wiki/Apperception
 https://en.wikipedia.org/wiki/Applicative_computing_systems
+https://en.wikipedia.org/wiki/Applicative_programming_language
 https://en.wikipedia.org/wiki/Approximation_theory
 https://en.wikipedia.org/wiki/Archetype
 https://en.wikipedia.org/wiki/Architecture
@@ -97,7 +103,9 @@ https://en.wikipedia.org/wiki/Awareness_ribbon
 https://en.wikipedia.org/wiki/Axiom_of_Choice
 https://en.wikipedia.org/wiki/Axiom_schema
 https://en.wikipedia.org/wiki/Axiom_schema_of_specification
+https://en.wikipedia.org/wiki/Axiomatic_semantics
 https://en.wikipedia.org/wiki/Axiomatic_system
+https://en.wikipedia.org/wiki/B-Method
 https://en.wikipedia.org/wiki/BERT_(language_model)
 https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation
 https://en.wikipedia.org/wiki/Bag-of-words_model
@@ -113,18 +121,20 @@ https://en.wikipedia.org/wiki/Belief_perseverance
 https://en.wikipedia.org/wiki/Belief_revision
 https://en.wikipedia.org/wiki/Benefit_shortfall
 https://en.wikipedia.org/wiki/Berkson's_paradox
-https://en.wikipedia.org/wiki/Bertrand–Edgeworth_model
 https://en.wikipedia.org/wiki/Bertrand_paradox_(economics)
+https://en.wikipedia.org/wiki/Bertrand–Edgeworth_model
 https://en.wikipedia.org/wiki/Bid_shading
 https://en.wikipedia.org/wiki/Binary_classification
 https://en.wikipedia.org/wiki/Black_swan_theory
 https://en.wikipedia.org/wiki/Block_(programming)
 https://en.wikipedia.org/wiki/Block_quotation
 https://en.wikipedia.org/wiki/Bluebook
+https://en.wikipedia.org/wiki/Boolean_satisfiability_problem
 https://en.wikipedia.org/wiki/Bounds_checking
 https://en.wikipedia.org/wiki/Brackets
 https://en.wikipedia.org/wiki/Bradford_Hill_criteria
 https://en.wikipedia.org/wiki/Braess's_paradox
+https://en.wikipedia.org/wiki/Branch_predictor
 https://en.wikipedia.org/wiki/Brooks's_law
 https://en.wikipedia.org/wiki/Building_information_modeling
 https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy)
@@ -133,6 +143,7 @@ https://en.wikipedia.org/wiki/Business_logic
 https://en.wikipedia.org/wiki/Business_object
 https://en.wikipedia.org/wiki/C._Northcote_Parkinson
 https://en.wikipedia.org/wiki/C4_model
+https://en.wikipedia.org/wiki/CADP
 https://en.wikipedia.org/wiki/Cache_language_model
 https://en.wikipedia.org/wiki/Calibrated_probability_assessment
 https://en.wikipedia.org/wiki/Callback_(computer_programming)
@@ -161,6 +172,7 @@ https://en.wikipedia.org/wiki/Checklist
 https://en.wikipedia.org/wiki/Choice_architecture
 https://en.wikipedia.org/wiki/Choice_modelling
 https://en.wikipedia.org/wiki/Choiceless_awareness
+https://en.wikipedia.org/wiki/Church-Rosser
 https://en.wikipedia.org/wiki/Circle–ellipse_problem
 https://en.wikipedia.org/wiki/Circular_reasoning
 https://en.wikipedia.org/wiki/Circular_reporting
@@ -193,7 +205,9 @@ https://en.wikipedia.org/wiki/Collection_(abstract_data_type)
 https://en.wikipedia.org/wiki/Collective_intelligence
 https://en.wikipedia.org/wiki/Colon_classification
 https://en.wikipedia.org/wiki/Combinatorial_meta-analysis
+https://en.wikipedia.org/wiki/Common_Algebraic_Specification_Language
 https://en.wikipedia.org/wiki/Common_cause_and_special_cause_(statistics)
+https://en.wikipedia.org/wiki/Communicating_Sequential_Processes
 https://en.wikipedia.org/wiki/Communication
 https://en.wikipedia.org/wiki/Community_of_practice
 https://en.wikipedia.org/wiki/Community_rating
@@ -218,6 +232,7 @@ https://en.wikipedia.org/wiki/Confidence_interval
 https://en.wikipedia.org/wiki/Confirmation_bias
 https://en.wikipedia.org/wiki/Conflation
 https://en.wikipedia.org/wiki/Conflict_resolution
+https://en.wikipedia.org/wiki/Confluent_(abstract_rewriting)
 https://en.wikipedia.org/wiki/Confounding
 https://en.wikipedia.org/wiki/Confusion_of_the_inverse
 https://en.wikipedia.org/wiki/Congruence_relation
@@ -308,6 +323,7 @@ https://en.wikipedia.org/wiki/Delegation_(object-oriented_programming)
 https://en.wikipedia.org/wiki/Deliberation
 https://en.wikipedia.org/wiki/Denialism
 https://en.wikipedia.org/wiki/Denotation
+https://en.wikipedia.org/wiki/Denotational_semantics
 https://en.wikipedia.org/wiki/Denying_the_antecedent
 https://en.wikipedia.org/wiki/Dependency_(UML)
 https://en.wikipedia.org/wiki/Dependency_injection
@@ -370,6 +386,7 @@ https://en.wikipedia.org/wiki/Equilibrium_selection
 https://en.wikipedia.org/wiki/Equivalence_class
 https://en.wikipedia.org/wiki/Equivalence_relation
 https://en.wikipedia.org/wiki/Escape_character
+https://en.wikipedia.org/wiki/Esterel
 https://en.wikipedia.org/wiki/Estimated_sign
 https://en.wikipedia.org/wiki/Estimation_theory
 https://en.wikipedia.org/wiki/Ethics_in_mathematics
@@ -505,9 +522,9 @@ https://en.wikipedia.org/wiki/Guesstimate
 https://en.wikipedia.org/wiki/Gustafson's_law
 https://en.wikipedia.org/wiki/HARKing
 https://en.wikipedia.org/wiki/Half-truth
-https://en.wikipedia.org/wiki/Hard–easy_effect
 https://en.wikipedia.org/wiki/Hard_cases_make_bad_law
 https://en.wikipedia.org/wiki/Hard_problem_of_consciousness
+https://en.wikipedia.org/wiki/Hard–easy_effect
 https://en.wikipedia.org/wiki/Hawthorne_effect
 https://en.wikipedia.org/wiki/Head_(linguistics)
 https://en.wikipedia.org/wiki/Headline
@@ -596,6 +613,7 @@ https://en.wikipedia.org/wiki/Japanese_auction
 https://en.wikipedia.org/wiki/Jargon_File
 https://en.wikipedia.org/wiki/Jargon_File
 https://en.wikipedia.org/wiki/JavaScript
+https://en.wikipedia.org/wiki/Java_Modeling_Language
 https://en.wikipedia.org/wiki/Jevons_paradox
 https://en.wikipedia.org/wiki/Judicial_interpretation
 https://en.wikipedia.org/wiki/Jump_bidding
@@ -608,6 +626,7 @@ https://en.wikipedia.org/wiki/KRL_(programming_language)
 https://en.wikipedia.org/wiki/Kalman_filter
 https://en.wikipedia.org/wiki/Katz's_back-off_model
 https://en.wikipedia.org/wiki/Kind_(type_theory)
+https://en.wikipedia.org/wiki/Knowledge_Based_Software_Assistant
 https://en.wikipedia.org/wiki/Knowledge_Engineering_Environment
 https://en.wikipedia.org/wiki/Knowledge_acquisition
 https://en.wikipedia.org/wiki/Knowledge_and_Its_Limits
@@ -623,6 +642,7 @@ https://en.wikipedia.org/wiki/Labelling
 https://en.wikipedia.org/wiki/Lambda_calculus
 https://en.wikipedia.org/wiki/Lambda_calculus_definition
 https://en.wikipedia.org/wiki/Landscape_of_practice
+https://en.wikipedia.org/wiki/Language_Of_Temporal_Ordering_Specification
 https://en.wikipedia.org/wiki/Language_acquisition
 https://en.wikipedia.org/wiki/Language_binding
 https://en.wikipedia.org/wiki/Language_modeling
@@ -644,6 +664,7 @@ https://en.wikipedia.org/wiki/Least-concern_species
 https://en.wikipedia.org/wiki/Lemma_(mathematics)
 https://en.wikipedia.org/wiki/Lemmatisation
 https://en.wikipedia.org/wiki/Lemon_law
+https://en.wikipedia.org/wiki/Levels_of_processing_model
 https://en.wikipedia.org/wiki/Lewis–Mogridge_position
 https://en.wikipedia.org/wiki/Lexical_analysis
 https://en.wikipedia.org/wiki/Lexical_markup_framework
@@ -672,6 +693,8 @@ https://en.wikipedia.org/wiki/Logical_schema
 https://en.wikipedia.org/wiki/Look-elsewhere_effect
 https://en.wikipedia.org/wiki/Lookup_table
 https://en.wikipedia.org/wiki/Lost_to_follow-up
+https://en.wikipedia.org/wiki/Lustre_programming_language
+https://en.wikipedia.org/wiki/MCRL2
 https://en.wikipedia.org/wiki/MLA_Handbook
 https://en.wikipedia.org/wiki/Machine-readable_dictionary
 https://en.wikipedia.org/wiki/Macro_(computer_science)
@@ -801,11 +824,13 @@ https://en.wikipedia.org/wiki/Ontology_(information_science)
 https://en.wikipedia.org/wiki/Ontology_Inference_Layer
 https://en.wikipedia.org/wiki/Ontology_extraction
 https://en.wikipedia.org/wiki/Ontology_learning
+https://en.wikipedia.org/wiki/Opaque_context
 https://en.wikipedia.org/wiki/Opaque_data_type
 https://en.wikipedia.org/wiki/Opaque_pointer
 https://en.wikipedia.org/wiki/Open-mindedness
 https://en.wikipedia.org/wiki/Open_formula
 https://en.wikipedia.org/wiki/Operation_(mathematics)
+https://en.wikipedia.org/wiki/Operational_semantics
 https://en.wikipedia.org/wiki/Operations_research
 https://en.wikipedia.org/wiki/Operator_(linguistics)
 https://en.wikipedia.org/wiki/Operator_(mathematics)
@@ -841,12 +866,15 @@ https://en.wikipedia.org/wiki/Pattern
 https://en.wikipedia.org/wiki/Pattern_language
 https://en.wikipedia.org/wiki/Pattern_matching
 https://en.wikipedia.org/wiki/Pecking_order_theory
+https://en.wikipedia.org/wiki/Perfect_Developer
 https://en.wikipedia.org/wiki/Perturbation_theory
 https://en.wikipedia.org/wiki/Peter_principle
+https://en.wikipedia.org/wiki/Petri_nets
 https://en.wikipedia.org/wiki/Phenomenology_(philosophy)
 https://en.wikipedia.org/wiki/Philosophical_razor
 https://en.wikipedia.org/wiki/Philosophical_skepticism
 https://en.wikipedia.org/wiki/Phrase_chunking
+https://en.wikipedia.org/wiki/Pi-calculus
 https://en.wikipedia.org/wiki/Point-free_programming
 https://en.wikipedia.org/wiki/Point_estimation
 https://en.wikipedia.org/wiki/Policy-based_design
@@ -867,6 +895,8 @@ https://en.wikipedia.org/wiki/Precautionary_principle
 https://en.wikipedia.org/wiki/Precision_and_recall
 https://en.wikipedia.org/wiki/Precommitment
 https://en.wikipedia.org/wiki/Predicate_functor_logic
+https://en.wikipedia.org/wiki/Predicate_transformer_semantics
+https://en.wikipedia.org/wiki/Predicative_programming
 https://en.wikipedia.org/wiki/Prediction
 https://en.wikipedia.org/wiki/Predictive_learning
 https://en.wikipedia.org/wiki/Preprocessor
@@ -890,6 +920,7 @@ https://en.wikipedia.org/wiki/Problem_structuring_methods
 https://en.wikipedia.org/wiki/Procedural_knowledge
 https://en.wikipedia.org/wiki/Procedural_parameter
 https://en.wikipedia.org/wiki/Procedure_(business)
+https://en.wikipedia.org/wiki/Process_calculi
 https://en.wikipedia.org/wiki/Production_(computer_science)
 https://en.wikipedia.org/wiki/Production_planning
 https://en.wikipedia.org/wiki/Profile_(UML)
@@ -929,6 +960,7 @@ https://en.wikipedia.org/wiki/Questionable_cause
 https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
 https://en.wikipedia.org/wiki/Quotation_mark
 https://en.wikipedia.org/wiki/Quoting_out_of_context
+https://en.wikipedia.org/wiki/RAISE_specification_language
 https://en.wikipedia.org/wiki/Ramification_problem
 https://en.wikipedia.org/wiki/Ramsey_theory
 https://en.wikipedia.org/wiki/Random_variable
@@ -944,6 +976,7 @@ https://en.wikipedia.org/wiki/Rational_Unified_Process
 https://en.wikipedia.org/wiki/Reason
 https://en.wikipedia.org/wiki/Reason_maintenance
 https://en.wikipedia.org/wiki/Reasoning_system
+https://en.wikipedia.org/wiki/Rebeca_Modeling_Language
 https://en.wikipedia.org/wiki/Recognition-primed_decision
 https://en.wikipedia.org/wiki/Record_(computer_science)
 https://en.wikipedia.org/wiki/Record_linkage
@@ -985,6 +1018,7 @@ https://en.wikipedia.org/wiki/Rethinking
 https://en.wikipedia.org/wiki/Retraining
 https://en.wikipedia.org/wiki/Revenue_equivalence
 https://en.wikipedia.org/wiki/Reversal_theory
+https://en.wikipedia.org/wiki/Rewrite_rule
 https://en.wikipedia.org/wiki/Right_to_quote
 https://en.wikipedia.org/wiki/Rigid_designator
 https://en.wikipedia.org/wiki/Rigidity_(psychology)
@@ -1006,8 +1040,10 @@ https://en.wikipedia.org/wiki/Rule_of_inference
 https://en.wikipedia.org/wiki/Runbook
 https://en.wikipedia.org/wiki/Russell's_teapot
 https://en.wikipedia.org/wiki/S-expression
+https://en.wikipedia.org/wiki/SAT_solver
 https://en.wikipedia.org/wiki/SEC_classification_of_goods_and_services
 https://en.wikipedia.org/wiki/SKI_combinator_calculus
+https://en.wikipedia.org/wiki/SPARK_(programming_language)
 https://en.wikipedia.org/wiki/SWOT_analysis
 https://en.wikipedia.org/wiki/Salience_(neuroscience)
 https://en.wikipedia.org/wiki/Satisficing
@@ -1034,6 +1070,7 @@ https://en.wikipedia.org/wiki/Semantic_analysis_(knowledge_representation)
 https://en.wikipedia.org/wiki/Semantic_class
 https://en.wikipedia.org/wiki/Semantic_compression
 https://en.wikipedia.org/wiki/Semantic_data_model
+https://en.wikipedia.org/wiki/Semantic_decomposition_(natural_language_processing)
 https://en.wikipedia.org/wiki/Semantic_feature
 https://en.wikipedia.org/wiki/Semantic_lexicon
 https://en.wikipedia.org/wiki/Semantic_network
@@ -1042,6 +1079,7 @@ https://en.wikipedia.org/wiki/Semantic_similarity
 https://en.wikipedia.org/wiki/Semantic_technology
 https://en.wikipedia.org/wiki/Semantic_theory_of_truth
 https://en.wikipedia.org/wiki/Semantic_triple
+https://en.wikipedia.org/wiki/Semantics_(programming_languages)
 https://en.wikipedia.org/wiki/Sensitivity_and_specificity
 https://en.wikipedia.org/wiki/Sentence_boundary_disambiguation
 https://en.wikipedia.org/wiki/Sentence_processing
@@ -1087,6 +1125,7 @@ https://en.wikipedia.org/wiki/Source_criticism
 https://en.wikipedia.org/wiki/Space_character
 https://en.wikipedia.org/wiki/Spacing_effect
 https://en.wikipedia.org/wiki/Spatial–temporal_reasoning
+https://en.wikipedia.org/wiki/Specification_and_Description_Language
 https://en.wikipedia.org/wiki/Speculative_execution
 https://en.wikipedia.org/wiki/Speech_act
 https://en.wikipedia.org/wiki/Spurious_relationship
@@ -1144,6 +1183,7 @@ https://en.wikipedia.org/wiki/System
 https://en.wikipedia.org/wiki/System_F
 https://en.wikipedia.org/wiki/System_dynamics
 https://en.wikipedia.org/wiki/Systems_thinking
+https://en.wikipedia.org/wiki/TLA+
 https://en.wikipedia.org/wiki/TRIZ
 https://en.wikipedia.org/wiki/Tab_key
 https://en.wikipedia.org/wiki/Table_extraction
@@ -1163,6 +1203,7 @@ https://en.wikipedia.org/wiki/Temporality
 https://en.wikipedia.org/wiki/Temporary_variable
 https://en.wikipedia.org/wiki/Term_(logic)
 https://en.wikipedia.org/wiki/Terminal_and_nonterminal_symbols
+https://en.wikipedia.org/wiki/Terminating
 https://en.wikipedia.org/wiki/Ternary_operation
 https://en.wikipedia.org/wiki/Testimony
 https://en.wikipedia.org/wiki/Text_(literary_theory)
@@ -1233,6 +1274,7 @@ https://en.wikipedia.org/wiki/Undefined_behavior
 https://en.wikipedia.org/wiki/Unicase
 https://en.wikipedia.org/wiki/Unicode
 https://en.wikipedia.org/wiki/Unified_Modeling_Language
+https://en.wikipedia.org/wiki/Universal_Systems_Language
 https://en.wikipedia.org/wiki/Universal_instantiation
 https://en.wikipedia.org/wiki/Universal_quantification
 https://en.wikipedia.org/wiki/Universal_value
@@ -1243,6 +1285,7 @@ https://en.wikipedia.org/wiki/Usage
 https://en.wikipedia.org/wiki/Usage-based_models_of_language
 https://en.wikipedia.org/wiki/User_intent
 https://en.wikipedia.org/wiki/Use–mention_distinction
+https://en.wikipedia.org/wiki/VDM_specification_language
 https://en.wikipedia.org/wiki/VUCA
 https://en.wikipedia.org/wiki/Vagueness
 https://en.wikipedia.org/wiki/Value-level_programming
@@ -1254,6 +1297,7 @@ https://en.wikipedia.org/wiki/Variable_(high-level_programming)
 https://en.wikipedia.org/wiki/Variable_shadowing
 https://en.wikipedia.org/wiki/Veblen_good
 https://en.wikipedia.org/wiki/Vickrey_auction
+https://en.wikipedia.org/wiki/Vienna_Development_Method
 https://en.wikipedia.org/wiki/Viral_phenomenon
 https://en.wikipedia.org/wiki/Virtue_epistemology
 https://en.wikipedia.org/wiki/Virtue_signalling

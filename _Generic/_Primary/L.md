@@ -40,7 +40,19 @@
 
 # 2. Basic Glossary 
 
-## 2.1. Logic
+## Lingustics
+
+### `ꑌJ`
+`ꑌJ` ≔ 
+```
+- Ⱳ Jargon 
+- Ⱳ Slang 
+```
+
+### `ꑌO`
+`ꑌO` ≔ Ⱳ Wikipedia:Official_names∷⟨ official name ⟩
+
+## Logic
 
 ### ꑌꖿ
 `ꑌꖿ` ≔ 
@@ -70,6 +82,9 @@ One of:
 - Ⱳ Ontology_components#Classes  
 ```
 
+###
+`ꑌ𝔼` ≔ Ⱳ Entity
+
 ### ꑌℙ
 `ꑌℙ` ≔ 
 ```
@@ -78,7 +93,7 @@ One of:
 - Ⱳ Function_symbol∷predicate 
 ``` 
 
-## 2.2. Mathematics
+## Mathematics
 
 ### ꑌ𝕀
 `𝕀` ≔ Ⱳ Partially_ordered_set∷interval   
@@ -89,17 +104,13 @@ One of:
 ### ꑌ𝕋
 `ꑌ𝕋` ≔ Ⱳ Type_theory∷type
 
-## 2.3. Lingustics
+## Typography 
 
-### `ꑌJ`
-`ꑌJ` ≔ 
-```
-- Ⱳ Jargon 
-- Ⱳ Slang 
-```
+### `ꑌ¶B`
+`ꑌ¶B` ≔ Ⱳ Backtick 
 
-### `ꑌO`
-`ꑌO` ≔ Ⱳ Wikipedia:Official_names∷⟨ official name ⟩
+### `ꑌ¶G`
+`ꑌ¶G` ≔ Ⱳ Guillemet 
 
 # 3. ≔
 ## Syntax

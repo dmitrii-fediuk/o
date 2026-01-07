@@ -38,9 +38,11 @@
 ### Rationale
 Я использую этот синтаксис в тех случаях, когда для описываемого мной понятия отсутствует и standalone `ꑌⱲA`, и даже standalone section (with a Fragment Identifier) of a `ꑌⱲA`.
 
-# 2. Basic Glossary
+# 2. Basic Glossary 
 
-## ꑌꖿ
+## 2.1. Logic
+
+### ꑌꖿ
 `ꑌꖿ` ≔ 
 ```
 One of:
@@ -49,29 +51,26 @@ One of:
 - ⟪ «declarative sentences themselves rather than their meanings» ⟫ ⟨ Ⱳ Proposition∷statement ⟩
 ```
 
-## ꑌꕤ
+### ꑌꕤ
 `ꑌꕤ` ≔ ⟨ Ⱳ Meaning_(philosophy) ⟩
 
-##
+###
 `ꑌ𐏕` ≔ Ⱳ Terminology∷term
 
-## ꑌꘙ
+### ꑌꘙ
 `ꑌꘙ` ≔ ⟨ Причина / источник беспокойства ⟩
 
-## ꑌ𝒞
+### ꑌ𝒞
 `ꑌ𝒞` ≔ Ⱳ Theory_of_categories∷category 
  
-## ꑌℂ
+### ꑌℂ
 `ꑌℂ` ≔ 
 ```
 - Ⱳ Class_(knowledge_representation)
 - Ⱳ Ontology_components#Classes  
 ```
 
-## ꑌ𝕀
-`𝕀` ≔ Ⱳ Partially_ordered_set∷interval   
-
-## ꑌℙ
+### ꑌℙ
 `ꑌℙ` ≔ 
 ```
 - Ⱳ Predicate_(logic) 
@@ -79,11 +78,28 @@ One of:
 - Ⱳ Function_symbol∷predicate 
 ``` 
 
-## ꑌ𝕊
+## 2.2. Mathematics
+
+### ꑌ𝕀
+`𝕀` ≔ Ⱳ Partially_ordered_set∷interval   
+
+### ꑌ𝕊
 `ꑌ𝕊` ≔ Ⱳ Set_(mathematics)
 
-## ꑌ𝕋
+### ꑌ𝕋
 `ꑌ𝕋` ≔ Ⱳ Type_theory∷type
+
+## 2.3. Lingustics
+
+### `ꑌJ`
+`ꑌJ` ≔ 
+```
+- Ⱳ Jargon 
+- Ⱳ Slang 
+```
+
+### `ꑌO`
+`ꑌO` ≔ Ⱳ Wikipedia:Official_names∷⟨ official name ⟩
 
 # 3. ≔
 ## Syntax

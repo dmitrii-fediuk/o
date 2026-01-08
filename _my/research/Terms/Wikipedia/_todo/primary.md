@@ -647,7 +647,6 @@ https://en.wikipedia.org/wiki/Language_modeling
 https://en.wikipedia.org/wiki/Language_of_thought_hypothesis
 https://en.wikipedia.org/wiki/Language_production
 https://en.wikipedia.org/wiki/Language_transfer
-https://en.wikipedia.org/wiki/Large_language_model
 https://en.wikipedia.org/wiki/Lateral_thinking
 https://en.wikipedia.org/wiki/Lattice_(order)
 https://en.wikipedia.org/wiki/Law_of_Demeter

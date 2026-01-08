@@ -677,12 +677,12 @@ https://en.wikipedia.org/wiki/Ethiopic_Extended-A
 ꬑ	ꬒ	ꬓ	ꬔ	ꬕ	ꬖ									
 ꬠ	ꬡ	ꬢ	ꬣ	ꬤ	ꬥ	ꬦ	ꬨ	ꬩ	ꬪ	ꬫ	ꬬ	ꬭ	ꬮ
 
-#
+# Ethiopic Supplement
 https://en.wikipedia.org/wiki/Ethiopic_Supplement
 ᎀ	ᎁ	ᎂ	ᎃ	ᎄ	ᎅ	ᎆ	ᎇ	ᎈ	ᎉ	ᎊ	ᎋ	ᎌ	ᎍ	ᎎ	ᎏ
 ᎐	᎑	᎒	᎓	᎔	᎕	᎖	᎗	᎘	᎙
-
-#
+ 
+# Armenian
 https://en.wikipedia.org/wiki/Armenian_(Unicode_block)
 Ա	Բ	Գ	Դ	Ե	Զ	Է	Ը	Թ	Ժ	Ի	Լ	Խ	Ծ	Կ
 Հ	Ձ	Ղ	Ճ	Մ	Յ	Ն	Շ	Ո	Չ	Պ	Ջ	Ռ	Ս	Վ	Տ
@@ -691,7 +691,7 @@ https://en.wikipedia.org/wiki/Armenian_(Unicode_block)
 հ	ձ	ղ	ճ	մ	յ	ն	շ	ո	չ	պ	ջ	ռ	ս	վ	տ
 ր	ց	ւ	փ	ք	օ	ֆ	և	ֈ	։	֊	֍	֎	֏
 
-# ꆜ
+# Yi Syllables
 https://en.wikipedia.org/wiki/Yi_Syllables
 ꀀ ꀁ ꀂ ꀃ ꀄ ꀅ ꀆ ꀇ ꀈ ꀉ ꀊ ꀋ ꀌ ꀍ ꀎ ꀏ ꀐ ꀑ ꀒ ꀓ ꀔ ꀕ ꀖ ꀗ ꀘ ꀙ ꀚ ꀛ ꀜ ꀝ ꀞ ꀟ
 ꀠ ꀡ ꀢ ꀣ ꀤ ꀥ ꀦ ꀧ ꀨ ꀩ ꀪ ꀫ ꀬ ꀭ ꀮ ꀯ ꀰ ꀱ ꀲ ꀳ ꀴ ꀵ ꀶ ꀷ ꀸ ꀹ ꀺ ꀻ ꀼ ꀽ ꀾ ꀿ
@@ -731,8 +731,7 @@ https://en.wikipedia.org/wiki/Yi_Syllables
 ꑠ ꑡ ꑢ ꑣ ꑤ ꑥ ꑦ ꑧ ꑨ ꑩ ꑪ ꑫ ꑬ ꑭ ꑮ ꑯ ꑰ ꑱ ꑲ ꑳ ꑴ ꑵ ꑶ ꑷ ꑸ ꑹ ꑺ ꑻ ꑼ ꑽ ꑾ ꑿ
 ꒀ ꒁ ꒂ ꒃ ꒄ ꒅ ꒆ ꒇ ꒈ ꒉ ꒊ ꒋ ꒌ   
 
-
-#
+# Egyptian Hieroglyphs
 https://en.wikipedia.org/wiki/Egyptian_Hieroglyphs_(Unicode_block)
 U+1300x	𓀀	𓀁	𓀂	𓀃	𓀄	𓀅	𓀆	𓀇	𓀈	𓀉	𓀊	𓀋	𓀌	𓀍	𓀎	𓀏
 U+1301x	𓀐	𓀑	𓀒	𓀓	𓀔	𓀕	𓀖	𓀗	𓀘	𓀙	𓀚	𓀛	𓀜	𓀝	𓀞	𓀟

@@ -117,6 +117,9 @@ https://spec.commonmark.org/0.31.2#emphasis-and-strong-emphasis
 # end-condition
 https://spec.commonmark.org/0.31.2#end-condition
 
+# email-autolink
+https://spec.commonmark.org/0.31.2#email-autolink
+
 # entity-and-numeric-character-references
 https://spec.commonmark.org/0.31.2#entity-and-numeric-character-references
 

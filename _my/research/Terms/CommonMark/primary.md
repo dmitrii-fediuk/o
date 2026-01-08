@@ -171,6 +171,9 @@ https://spec.commonmark.org/0.31.2#link-label
 # link-reference-definition
 https://spec.commonmark.org/0.31.2#link-reference-definition
 
+# link-reference-definitions
+https://spec.commonmark.org/0.31.2#link-reference-definitions
+
 # link-text
 https://spec.commonmark.org/0.31.2#link-text
 

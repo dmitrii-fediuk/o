@@ -45,6 +45,12 @@ https://spec.commonmark.org/0.31.2#hard-line-break
 # html-block
 https://spec.commonmark.org/0.31.2#html-block
 
+# indented-code-block
+https://spec.commonmark.org/0.31.2#indented-code-block
+
+# indented-chunk
+https://spec.commonmark.org/0.31.2#indented-chunk
+
 # info-string
 https://spec.commonmark.org/0.31.2#info-string
 

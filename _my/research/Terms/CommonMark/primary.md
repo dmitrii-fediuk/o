@@ -165,6 +165,9 @@ https://spec.commonmark.org/0.31.2#lazy-continuation-line
 # leaf-blocks
 https://spec.commonmark.org/0.31.2#leaf-blocks
 
+# left-flanking-delimiter-run
+https://spec.commonmark.org/0.31.2#left-flanking-delimiter-run
+
 # line
 https://spec.commonmark.org/0.31.2#line
 

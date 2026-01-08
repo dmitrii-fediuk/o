@@ -671,7 +671,7 @@ https://en.wikipedia.org/wiki/Ethiopic_Extended
 ⷀ	ⷁ	ⷂ	ⷃ	ⷄ	ⷅ	ⷆ	ⷈ	ⷉ	ⷊ	ⷋ	ⷌ	ⷍ	ⷎ	
 ⷐ	ⷑ	ⷒ	ⷓ	ⷔ	ⷕ	ⷖ	ⷘ	ⷙ	ⷚ	ⷛ	ⷜ	ⷝ	ⷞ
 
-#
+# Ethiopic Extended-A
 https://en.wikipedia.org/wiki/Ethiopic_Extended-A
 ꬁ	ꬂ	ꬃ	ꬄ	ꬅ	ꬆ	ꬉ	ꬊ	ꬋ	ꬌ	ꬍ	ꬎ	
 ꬑ	ꬒ	ꬓ	ꬔ	ꬕ	ꬖ									

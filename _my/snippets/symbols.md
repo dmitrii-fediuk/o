@@ -331,6 +331,20 @@ https://en.wikipedia.org/wiki/Hangul_Jamo_(Unicode_block)
 ᇠ	ᇡ	ᇢ	ᇣ	ᇤ	ᇥ	ᇦ	ᇧ	ᇨ	ᇩ	ᇪ	ᇫ	ᇬ	ᇭ	ᇮ	ᇯ
 ᇰ	ᇱ	ᇲ	ᇳ	ᇴ	ᇵ	ᇶ	ᇷ	ᇸ	ᇹ	ᇺ	ᇻ	ᇼ	ᇽ	ᇾ	ᇿ
 
+#
+https://en.wikipedia.org/wiki/Hiragana_(Unicode_block)
+ぁ	あ	ぃ	い	ぅ	う	ぇ	え	ぉ	お	か	が	き	ぎ	く
+ぐ	け	げ	こ	ご	さ	ざ	し	じ	す	ず	せ	ぜ	そ	ぞ	た
+だ	ち	ぢ	っ	つ	づ	て	で	と	ど	な	に	ぬ	ね	の	は
+ば	ぱ	ひ	び	ぴ	ふ	ぶ	ぷ	へ	べ	ぺ	ほ	ぼ	ぽ	ま	み
+む	め	も	ゃ	や	ゅ	ゆ	ょ	よ	ら	り	る	れ	ろ	ゎ	わ
+ゐ	ゑ	を	ん	ゔ	ゕ	ゖ	゙	゚	゛	゜	ゝ	ゞ	ゟ
+
+#
+https://en.wikipedia.org/wiki/Imperial_Aramaic_(Unicode_block)
+𐡀	𐡁	𐡂	𐡃	𐡄	𐡅	𐡆	𐡇	𐡈	𐡉	𐡊	𐡋	𐡌	𐡍	𐡎	𐡏
+𐡐	𐡑	𐡒	𐡓	𐡔	𐡕		𐡗	𐡘	𐡙	𐡚	𐡛	𐡜	𐡝	𐡞	𐡟
+
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812
 ᚠ ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ ᚫ ᚬ ᚭ ᚮ ᚯ ᚰ ᚱ ᚲ ᚳ ᚴ ᚵ ᚶ ᚷ ᚸ ᚹ ᚺ ᚻ ᚼ ᚽ ᚾ ᚿ ᛀ ᛁ ᛂ ᛃ ᛄ ᛅ ᛆ ᛇ ᛈ ᛉ ᛊ ᛋ ᛌ ᛍ ᛎ ᛏ ᛐ ᛑ 

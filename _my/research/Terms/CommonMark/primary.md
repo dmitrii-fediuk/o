@@ -51,6 +51,9 @@ https://spec.commonmark.org/0.31.2#info-string
 # inline
 https://spec.commonmark.org/0.31.2#inline
 
+# lazy-continuation-line
+https://spec.commonmark.org/0.31.2#lazy-continuation-line
+
 # leaf-blocks
 https://spec.commonmark.org/0.31.2#leaf-blocks
 

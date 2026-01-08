@@ -342,7 +342,7 @@ https://en.wikipedia.org/wiki/Inscriptional_Pahlavi_(Unicode_block)
 𐭠	𐭡	𐭢	𐭣	𐭤	𐭥	𐭦	𐭧	𐭨	𐭩	𐭪	𐭫	𐭬	𐭭	𐭮	𐭯
 𐭰	𐭱	𐭲	𐭸	𐭹	𐭺	𐭻	𐭼	𐭽	𐭾	𐭿
 
-#
+# Inscriptional Parthian
 https://en.wikipedia.org/wiki/Inscriptional_Parthian_(Unicode_block)
 𐭀	𐭁	𐭂	𐭃	𐭄	𐭅	𐭆	𐭇	𐭈	𐭉	𐭊	𐭋	𐭌	𐭍	𐭎	𐭏
 𐭐	𐭑	𐭒	𐭓	𐭔	𐭕	𐭘	𐭙	𐭚	𐭛	𐭜	𐭝	𐭞	𐭟

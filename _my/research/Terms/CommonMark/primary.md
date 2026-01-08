@@ -87,6 +87,12 @@ https://spec.commonmark.org/0.31.2#line
 # line-ending
 https://spec.commonmark.org/0.31.2#line-ending
 
+# link-text
+https://spec.commonmark.org/0.31.2#link-text
+
+# link-title
+https://spec.commonmark.org/0.31.2#link-title
+
 # list-items
 https://spec.commonmark.org/0.31.2#list-items
 

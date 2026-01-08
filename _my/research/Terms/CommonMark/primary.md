@@ -72,6 +72,9 @@ https://spec.commonmark.org/0.31.2#code-span
 # container-blocks
 https://spec.commonmark.org/0.31.2#container-blocks
 
+# container-blocks-and-leaf-blocks
+https://spec.commonmark.org/0.31.2#container-blocks-and-leaf-blocks
+
 # decimal-numeric-character-references
 https://spec.commonmark.org/0.31.2#decimal-numeric-character-references
 

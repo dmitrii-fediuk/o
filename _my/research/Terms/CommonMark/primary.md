@@ -3,6 +3,9 @@ https://commonmark.org
 https://spec.commonmark.org/0.31.2
 https://commonmark.org/help
 
+# ascii-control-character
+https://spec.commonmark.org/0.31.2#ascii-control-character
+
 # atx-heading
 https://spec.commonmark.org/0.31.2#atx-heading
 

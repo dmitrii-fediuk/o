@@ -42,6 +42,9 @@ https://spec.commonmark.org/0.31.2#block-quotes
 # blocks
 https://spec.commonmark.org/0.31.2#blocks
 
+# bullet-list
+https://spec.commonmark.org/0.31.2#bullet-list
+
 # bullet-list-marker
 https://spec.commonmark.org/0.31.2#bullet-list-marker
 
@@ -165,17 +168,26 @@ https://spec.commonmark.org/0.31.2#list-marker
 # lists
 https://spec.commonmark.org/0.31.2#lists
 
+# loose
+https://spec.commonmark.org/0.31.2#loose
+
 # matches
 https://spec.commonmark.org/0.31.2#matches
 
 # open-tag
 https://spec.commonmark.org/0.31.2#open-tag
 
+# ordered-list
+https://spec.commonmark.org/0.31.2#ordered-list
+
 # ordered-list-marker
 https://spec.commonmark.org/0.31.2#ordered-list-marker
 
 # paragraph
 https://spec.commonmark.org/0.31.2#paragraph
+
+# principle-of-uniformity
+https://spec.commonmark.org/0.31.2#principle-of-uniformity
 
 # processing-instruction
 https://spec.commonmark.org/0.31.2#processing-instruction
@@ -203,6 +215,9 @@ https://spec.commonmark.org/0.31.2#space
 
 # start-condition
 https://spec.commonmark.org/0.31.2#start-condition
+
+# start-number
+https://spec.commonmark.org/0.31.2#start-number
 
 # tab
 https://spec.commonmark.org/0.31.2#tab

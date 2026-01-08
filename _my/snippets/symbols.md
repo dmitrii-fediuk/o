@@ -472,7 +472,7 @@ https://en.wikipedia.org/wiki/Latin_Extended-E
 ꭐ	ꭑ	ꭒ	ꭓ	ꭔ	ꭕ	ꭖ	ꭗ	ꭘ	ꭙ	ꭚ	꭛	ꭜ	ꭝ	ꭞ	ꭟ
 ꭠ	ꭡ	ꭢ	ꭣ	ꭤ	ꭥ
 
-#
+# Latin-1 Supplement
 https://en.wikipedia.org/wiki/Latin-1_Supplement
 ¡	¢	£	¤	¥	¦	§	¨	©	ª	«	¬	SHY	®	¯
 °	±	²	³	´	µ	¶	·	¸	¹	º	»	¼	½	¾	¿

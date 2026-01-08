@@ -368,6 +368,13 @@ https://en.wikipedia.org/wiki/IPA_Extensions
 https://en.wikipedia.org/wiki/Kanbun_(Unicode_block)
 ㆐	㆑	㆒	㆓	㆔	㆕	㆖	㆗	㆘	㆙	㆚	㆛	㆜	㆝	㆞	㆟
 
+#
+https://en.wikipedia.org/wiki/Kannada_(Unicode_block)
+ಀ	಄	ಅ	ಆ	ಇ	ಈ	ಉ	ಊ	ಋ	ಌ	ಎ	ಏ
+ಐ	ಒ	ಓ	ಔ	ಕ	ಖ	ಗ	ಘ	ಙ	ಚ	ಛ	ಜ	ಝ	ಞ	ಟ
+ಠ	ಡ	ಢ	ಣ	ತ	ಥ	ದ	ಧ	ನ	ಪ	ಫ	ಬ	ಭ	ಮ	ಯ
+ರ	ಱ	ಲ	ಳ	ವ	ಶ	ಷ	ಸ	ಹ	ಽ	ಾ	ಿ
+ೞ	ೠ	ೡ	೦	೧	೨	೩	೪	೫	೬	೭	೮	೯
 
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812

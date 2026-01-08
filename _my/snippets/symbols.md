@@ -377,7 +377,7 @@ https://en.wikipedia.org/wiki/Kharoshthi_(Unicode_block)
 𐩀	𐩁	𐩂	𐩃	𐩄	𐩅	𐩆	𐩇	𐩈							
 𐩐	𐩑	𐩒	𐩓	𐩔	𐩕	𐩖	𐩗	𐩘
 
-# 
+# Khmer_
 https://en.wikipedia.org/wiki/Khmer_(Unicode_block)
 ក	ខ	គ	ឃ	ង	ច	ឆ	ជ	ឈ	ញ	ដ	ឋ	ឌ	ឍ	ណ	ត
 ថ	ទ	ធ	ន	ប	ផ	ព	ភ	ម	យ	រ	ល	វ	ឝ	ឞ	ស

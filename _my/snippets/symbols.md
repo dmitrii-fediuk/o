@@ -128,7 +128,7 @@ https://en.wikipedia.org/wiki/Arrows_(Unicode_block)
 ⇠	⇡	⇢	⇣	⇤	⇥	⇦	⇧	⇨	⇩	⇪	⇫	⇬	⇭	⇮	⇯
 ⇰	⇱	⇲	⇳	⇴	⇵	⇶	⇷	⇸	⇹	⇺	⇻	⇼	⇽	⇾	⇿
 
-#
+# Alchemical Symbols
 https://en.wikipedia.org/wiki/Alchemical_Symbols_(Unicode_block)
 🜀	🜁	🜂	🜃	🜄	🜅	🜆	🜇	🜈	🜉	🜊	🜋	🜌	🜍	🜎	🜏
 🜐	🜑	🜒	🜓	🜔	🜕	🜖	🜗	🜘	🜙	🜚	🜛	🜜	🜝	🜞	🜟
@@ -139,24 +139,23 @@ https://en.wikipedia.org/wiki/Alchemical_Symbols_(Unicode_block)
 🝠	🝡	🝢	🝣	🝤	🝥	🝦	🝧	🝨	🝩	🝪	🝫	🝬	🝭	🝮	🝯
 🝰	🝱	🝲	🝳
 
-# 
+# Cyrillic Supplement
 https://en.wikipedia.org/wiki/Cyrillic_Supplement
 Ԁ	ԁ	Ԃ	ԃ	Ԅ	ԅ	Ԇ	ԇ	Ԉ	ԉ	Ԋ	ԋ	Ԍ	ԍ	Ԏ	ԏ
 Ԑ	ԑ	Ԓ	ԓ	Ԕ	ԕ	Ԗ	ԗ	Ԙ	ԙ	Ԛ	ԛ	Ԝ	ԝ	Ԟ	ԟ
 Ԡ	ԡ	Ԣ	ԣ	Ԥ	ԥ	Ԧ	ԧ	Ԩ	ԩ	Ԫ	ԫ	Ԭ	ԭ	Ԯ	ԯ
 
-#
+# Chakma
 https://en.wikipedia.org/wiki/Chakma_(Unicode_block)
 𑄃	𑄄	𑄅	𑄆	𑄇	𑄈	𑄉	𑄊	𑄋	𑄌	𑄍	𑄎	𑄏h
 𑄐	𑄑	𑄒	𑄓	𑄔	𑄕	𑄖	𑄗	𑄘	𑄙	𑄚	𑄛	𑄜	𑄝	𑄞	𑄟
 𑄠	𑄡	𑄢	𑄣	𑄤	𑄥	𑄦	𑄧	𑄨	𑄩	𑄪	𑄫	𑄬	𑄭	𑄮	𑄯
 𑅁	𑅂	𑅃	𑅄	𑅅	𑅆
 
-#
+# Bopomofo Extended
 https://en.wikipedia.org/wiki/Bopomofo_Extended
 ㆠ	ㆡ	ㆢ	ㆣ	ㆤ	ㆥ	ㆦ	ㆧ	ㆨ	ㆩ	ㆪ	ㆫ	ㆬ	ㆭ	ㆮ	ㆯ
 ㆰ	ㆱ	ㆲ	ㆳ	ㆴ	ㆵ	ㆶ	ㆷ
-
 
 # Системы письма коренных народов Северной Америки
 https://gemini.google.com/share/313eeacd4fd2
@@ -197,7 +196,7 @@ https://gemini.google.com/share/7534820e0ec0
 𐎠 𐎡 𐎢 𐎣 𐎤 𐎥 𐎦 𐎧 𐎨 𐎩 𐎪 𐎫 𐎬 𐎭 𐎮 𐎯 𐎰 𐎱 𐎲 𐎳 𐎴 𐎵 𐎶 𐎷 𐎸 𐎹 𐎺 𐎻 𐎼 
 𐎽 𐎾 𐎿 𐏀 𐏁 𐏂 𐏃 𐏈 𐏉 𐏊 𐏋 𐏌 𐏍 𐏎 𐏏 𐏐 𐏑 𐏒 𐏓 𐏔 𐏕
 
-#
+# Coptic
 https://en.wikipedia.org/wiki/Coptic_(Unicode_block)
 Ⲁ	ⲁ	Ⲃ	ⲃ	Ⲅ	ⲅ	Ⲇ	ⲇ	Ⲉ	ⲉ	Ⲋ	ⲋ	Ⲍ	ⲍ	Ⲏ	ⲏ
 Ⲑ	ⲑ	Ⲓ	ⲓ	Ⲕ	ⲕ	Ⲗ	ⲗ	Ⲙ	ⲙ	Ⲛ	ⲛ	Ⲝ	ⲝ	Ⲟ	ⲟ
@@ -208,7 +207,7 @@ https://en.wikipedia.org/wiki/Coptic_(Unicode_block)
 Ⳡ	ⳡ	Ⳣ	ⳣ	ⳤ	⳥	⳦	⳧	⳨	⳩	⳪	Ⳬ	ⳬ	Ⳮ	ⳮ	⳯
 ⳰	⳱	Ⳳ	ⳳ	⳹	⳺	⳻	⳼	⳽	⳾	⳿
 
-#
+# Cypriot Syllabary
 https://en.wikipedia.org/wiki/Cypriot_Syllabary_(Unicode_block)
 𐠀	𐠁	𐠂	𐠃	𐠄	𐠅	𐠈	𐠊	𐠋	𐠌	𐠍	𐠎	𐠏
 𐠐	𐠑	𐠒	𐠓	𐠔	𐠕	𐠖	𐠗	𐠘	𐠙	𐠚	𐠛	𐠜	𐠝	𐠞	𐠟

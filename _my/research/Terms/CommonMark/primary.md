@@ -270,6 +270,9 @@ https://spec.commonmark.org/0.31.2#setext-heading-underline
 # setext-headings
 https://spec.commonmark.org/0.31.2#setext-headings
 
+# scheme
+https://spec.commonmark.org/0.31.2#scheme
+
 # shortcut-reference-link
 https://spec.commonmark.org/0.31.2#shortcut-reference-link
 

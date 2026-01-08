@@ -489,6 +489,12 @@ https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℰ	ℱ	Ⅎ	ℳ	ℴ	ℵ	ℶ	ℷ	ℸ	ℹ	℺	℻	ℼ	ℽ	ℾ	ℿ
 ⅀	⅁	⅂	⅃	⅄	ⅅ	ⅆ	ⅇ	ⅈ	ⅉ	⅊	⅋	⅌	⅍	ⅎ	⅏
 
+# Lisu
+https://en.wikipedia.org/wiki/Lisu_(Unicode_block)
+ꓐ	ꓑ	ꓒ	ꓓ	ꓔ	ꓕ	ꓖ	ꓗ	ꓘ	ꓙ	ꓚ	ꓛ	ꓜ	ꓝ	ꓞ	ꓟ
+ꓠ	ꓡ	ꓢ	ꓣ	ꓤ	ꓥ	ꓦ	ꓧ	ꓨ	ꓩ	ꓪ	ꓫ	ꓬ	ꓭ	ꓮ	ꓯ
+ꓰ	ꓱ	ꓲ	ꓳ	ꓴ	ꓵ	ꓶ	ꓷ	ꓸ	ꓹ	ꓺ	ꓻ	ꓼ	ꓽ	꓾	꓿
+
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812
 ᚠ ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ ᚫ ᚬ ᚭ ᚮ ᚯ ᚰ ᚱ ᚲ ᚳ ᚴ ᚵ ᚶ ᚷ ᚸ ᚹ ᚺ ᚻ ᚼ ᚽ ᚾ ᚿ ᛀ ᛁ ᛂ ᛃ ᛄ ᛅ ᛆ ᛇ ᛈ ᛉ ᛊ ᛋ ᛌ ᛍ ᛎ ᛏ ᛐ ᛑ 

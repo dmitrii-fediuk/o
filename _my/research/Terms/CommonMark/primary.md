@@ -63,6 +63,9 @@ https://spec.commonmark.org/0.31.2#ordered-list-marker
 # setext-heading
 https://spec.commonmark.org/0.31.2#setext-heading
 
+#setext-heading-underline
+https://spec.commonmark.org/0.31.2#setext-heading-underline
+
 # start-condition
 https://spec.commonmark.org/0.31.2#start-condition
 

@@ -39,6 +39,9 @@ https://spec.commonmark.org/0.31.2#code-fence
 # container-blocks
 https://spec.commonmark.org/0.31.2#container-blocks
 
+# decimal-numeric-character-references
+https://spec.commonmark.org/0.31.2#decimal-numeric-character-references
+
 # end-condition
 https://spec.commonmark.org/0.31.2#end-condition
 
@@ -53,6 +56,9 @@ https://spec.commonmark.org/0.31.2#fenced-code-blocks
 
 # hard-line-break
 https://spec.commonmark.org/0.31.2#hard-line-break
+
+# hexadecimal-numeric-character-references
+https://spec.commonmark.org/0.31.2#hexadecimal-numeric-character-references
 
 # html-block
 https://spec.commonmark.org/0.31.2#html-block

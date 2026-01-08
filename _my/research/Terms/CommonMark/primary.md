@@ -12,6 +12,9 @@ https://spec.commonmark.org/0.31.2#ascii-punctuation-character
 # attribute
 https://spec.commonmark.org/0.31.2#attribute
 
+# attribute-name
+https://spec.commonmark.org/0.31.2#attribute-name
+
 # atx-heading
 https://spec.commonmark.org/0.31.2#atx-heading
 

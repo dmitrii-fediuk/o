@@ -9,17 +9,29 @@ https://spec.commonmark.org/0.31.2#blank-line
 # backslash-escapes
 https://spec.commonmark.org/0.31.2#backslash-escapes
 
+# block-quotes
+https://spec.commonmark.org/0.31.2#block-quotes
+
 # bullet-list-marker
 https://spec.commonmark.org/0.31.2#bullet-list-marker
 
 # code-fence
 https://spec.commonmark.org/0.31.2#code-fence
 
+# container-blocks
+https://spec.commonmark.org/0.31.2#container-blocks
+
+# end-condition
+https://spec.commonmark.org/0.31.2#end-condition
+
 # fenced-code-blocks
 https://spec.commonmark.org/0.31.2#fenced-code-blocks
 
 # hard-line-break
 https://spec.commonmark.org/0.31.2#hard-line-break
+
+# html-block
+https://spec.commonmark.org/0.31.2#html-block
 
 # info-string
 https://spec.commonmark.org/0.31.2#info-string
@@ -30,6 +42,11 @@ https://spec.commonmark.org/0.31.2#list-items
 # list-marker
 https://spec.commonmark.org/0.31.2#list-marker
 
+# lists
+https://spec.commonmark.org/0.31.2#lists
+
 # ordered-list-marker
 https://spec.commonmark.org/0.31.2#ordered-list-marker
 
+# start-condition
+https://spec.commonmark.org/0.31.2#start-condition

@@ -304,7 +304,7 @@ https://en.wikipedia.org/wiki/Hangul_Compatibility_Jamo
 ㅰ	ㅱ	ㅲ	ㅳ	ㅴ	ㅵ	ㅶ	ㅷ	ㅸ	ㅹ	ㅺ	ㅻ	ㅼ	ㅽ	ㅾ	ㅿ
 ㆀ	ㆁ	ㆂ	ㆃ	ㆄ	ㆅ	ㆆ	ㆇ	ㆈ	ㆉ	ㆊ	ㆋ	ㆌ	ㆍ	ㆎ	
 
-#
+# Hangul Jamo
 https://en.wikipedia.org/wiki/Hangul_Jamo_(Unicode_block)
 ᄀ	ᄁ	ᄂ	ᄃ	ᄄ	ᄅ	ᄆ	ᄇ	ᄈ	ᄉ	ᄊ	ᄋ	ᄌ	ᄍ	ᄎ	ᄏ
 ᄐ	ᄑ	ᄒ	ᄓ	ᄔ	ᄕ	ᄖ	ᄗ	ᄘ	ᄙ	ᄚ	ᄛ	ᄜ	ᄝ	ᄞ	ᄟ

@@ -126,6 +126,9 @@ https://spec.commonmark.org/0.31.2#link-destination
 # line-ending
 https://spec.commonmark.org/0.31.2#line-ending
 
+# link-label
+https://spec.commonmark.org/0.31.2#link-label
+
 # link-reference-definition
 https://spec.commonmark.org/0.31.2#link-reference-definition
 
@@ -143,6 +146,9 @@ https://spec.commonmark.org/0.31.2#list-marker
 
 # lists
 https://spec.commonmark.org/0.31.2#lists
+
+# matches
+https://spec.commonmark.org/0.31.2#matches
 
 # open-tag
 https://spec.commonmark.org/0.31.2#open-tag

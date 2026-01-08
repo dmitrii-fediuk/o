@@ -11,9 +11,8 @@
 SA⠿⬆	AS⠿⬆	SA⠿⬇	AS⠿⬇   
 `𐒌(5)`, `𐒌(6)`, `𐒌(17)`
 
-# 
+# Category:Unicode_blocks
 https://en.wikipedia.org/wiki/Category:Unicode_blocks
-
 
 # W и M
 W Ⱳ Ꮃ ᙎ Ⲱ 𞤧
@@ -92,7 +91,6 @@ https://en.wikipedia.org/wiki/Vai_syllabary
 ꘁ ꘂ ꘃ ꘄ ꘅ ꘆ ꘇ ꘈ ꘉ ꘊ ꘋ ꘌ ꘍ ꘎ ꘏ ꘐ ꘑ ꘒ ꘓ ꘔ ꘕ ꘖ ꘗ ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ ꘟ ꘠ ꘡ ꘢ ꘣ ꘤ ꘥ 
 ꘦ ꘧ ꘨ ꘩ ꘪ ꘫ
 
-
 # Phagspa
 https://en.wikipedia.org/wiki/Phags-pa_(Unicode_block)
 ꡀ	ꡁ	ꡂ	ꡃ	ꡄ	ꡅ	ꡆ	ꡇ	ꡈ	ꡉ	ꡊ	ꡋ	ꡌ	ꡍ	ꡎ	ꡏ
@@ -101,7 +99,7 @@ https://en.wikipedia.org/wiki/Phags-pa_(Unicode_block)
 ꡰ	ꡱ	ꡲ	ꡳ	꡴	꡵	꡶	꡷
 ꡖ	ꡖ︀	ꡜ	ꡜ︀	ꡞ	ꡞ︀	ꡟ	ꡟ︀	ꡠ	ꡠ︀	ꡨ	ꡨ︀
 
-#
+# Miscellaneous Symbols
 https://en.wikipedia.org/wiki/Miscellaneous_Symbols
 ☀	☁	☂	☃	☄	★	☆	☇	☈	☉	☊	☋	☌	☍	☎	☏
 ☐	☑	☒	☓	☖	☗	☘	☙	☚	☛	☜	☝	☞	☟
@@ -120,7 +118,7 @@ https://en.wikipedia.org/wiki/Miscellaneous_Symbols
 ⛠	⛡	⛢	⛣	⛤	⛥	⛦	⛧	⛨	⛩	⛫	⛬	⛭	⛮	⛯
 ⛰	⛱	⛶	⛷	⛸	⛹	⛻	⛼	⛾	⛿
 
-#
+# Arrows
 https://en.wikipedia.org/wiki/Arrows_(Unicode_block)
 ←	↑	→	↓	↔	↕	↖	↗	↘	↙	↚	↛	↜	↝	↞	↟
 ↠	↡	↢	↣	↤	↥	↦	↧	↨	↩	↪	↫	↬	↭	↮	↯
@@ -487,6 +485,13 @@ https://en.wikipedia.org/wiki/Latin-1_Supplement
 Ð	Ñ	Ò	Ó	Ô	Õ	Ö	×	Ø	Ù	Ú	Û	Ü	Ý	Þ	ß
 à	á	â	ã	ä	å	æ	ç	è	é	ê	ë	ì	í	î	ï
 ð	ñ	ò	ó	ô	õ	ö	÷	ø	ù	ú	û	ü	ý	þ	ÿ
+
+# https://en.wikipedia.org/wiki/Letterlike_Symbols
+℀	℁	ℂ	℃	℄	℅	℆	ℇ	℈	℉	ℊ	ℋ	ℌ	ℍ	ℎ	ℏ
+ℐ	ℑ	ℒ	ℓ	℔	ℕ	№	℗	℘	ℙ	ℚ	ℛ	ℜ	ℝ	℞	℟
+℠	℡	™	℣	ℤ	℥	Ω	℧	ℨ	℩	K	Å	ℬ	ℭ	℮	ℯ
+ℰ	ℱ	Ⅎ	ℳ	ℴ	ℵ	ℶ	ℷ	ℸ	ℹ	℺	℻	ℼ	ℽ	ℾ	ℿ
+⅀	⅁	⅂	⅃	⅄	ⅅ	ⅆ	ⅇ	ⅈ	ⅉ	⅊	⅋	⅌	⅍	ⅎ	⅏
 
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812

@@ -394,9 +394,19 @@ https://en.wikipedia.org/wiki/Khmer_(Unicode_block)
 ០	១	២	៣	៤	៥	៦	៧	៨	៩						
 ៰	៱	៲	៳	៴	៵	៶	៷	៸	៹
 
+#
 https://en.wikipedia.org/wiki/Khmer_Symbols
 ᧠	᧡	᧢	᧣	᧤	᧥	᧦	᧧	᧨	᧩	᧪	᧫	᧬	᧭	᧮	᧯
 ᧰	᧱	᧲	᧳	᧴	᧵	᧶	᧷	᧸	᧹	᧺	᧻	᧼	᧽	᧾	᧿
+
+#
+https://en.wikipedia.org/wiki/Lao_(Unicode_block)
+ກ	ຂ	ຄ	ງ	ຈ	ຊ	ຍ
+ດ	ຕ	ຖ	ທ	ນ	ບ	ປ	ຜ	ຝ	ພ	ຟ
+ມ	ຢ	ຣ	ລ	ວ	ສ	ຫ	ອ	ຮ	ຯ
+ະ	ັ	າ	ຳ	ິ	ີ	ຶ	ື	ຸ	ູ	ົ	ຼ	ຽ	
+ເ	ແ	ໂ	ໃ	ໄ	ໆ	້	໊	໋	໌	ໍ	
+໐	໑	໒	໓	໔	໕	໖	໗	໘	໙	ໜ	ໝ	ໞ	ໟ
 
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812

@@ -54,6 +54,9 @@ https://spec.commonmark.org/0.31.2#container-blocks
 # decimal-numeric-character-references
 https://spec.commonmark.org/0.31.2#decimal-numeric-character-references
 
+# double-quoted-attribute-value
+https://spec.commonmark.org/0.31.2#double-quoted-attribute-value
+
 # end-condition
 https://spec.commonmark.org/0.31.2#end-condition
 

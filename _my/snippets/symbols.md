@@ -452,7 +452,7 @@ https://en.wikipedia.org/wiki/Latin_Extended-C
 Ⱡ	ⱡ	Ɫ	Ᵽ	Ɽ	ⱥ	ⱦ	Ⱨ	ⱨ	Ⱪ	ⱪ	Ⱬ	ⱬ	Ɑ	Ɱ	Ɐ
 Ɒ	ⱱ	Ⱳ	ⱳ	ⱴ	Ⱶ	ⱶ	ⱷ	ⱸ	ⱹ	ⱺ	ⱻ	ⱼ	ⱽ	Ȿ	Ɀ
 
-#
+# Latin Extended-D
 https://en.wikipedia.org/wiki/Latin_Extended-D
 ꜠	꜡	Ꜣ	ꜣ	Ꜥ	ꜥ	Ꜧ	ꜧ	Ꜩ	ꜩ	Ꜫ	ꜫ	Ꜭ	ꜭ	Ꜯ	ꜯ
 ꜰ	ꜱ	Ꜳ	ꜳ	Ꜵ	ꜵ	Ꜷ	ꜷ	Ꜹ	ꜹ	Ꜻ	ꜻ	Ꜽ	ꜽ	Ꜿ	ꜿ

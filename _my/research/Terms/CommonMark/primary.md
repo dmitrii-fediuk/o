@@ -66,6 +66,9 @@ https://spec.commonmark.org/0.31.2#lazy-continuation-line
 # leaf-blocks
 https://spec.commonmark.org/0.31.2#leaf-blocks
 
+# line
+https://spec.commonmark.org/0.31.2#line
+
 # line-ending
 https://spec.commonmark.org/0.31.2#line-ending
 

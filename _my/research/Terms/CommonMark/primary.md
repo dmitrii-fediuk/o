@@ -138,6 +138,9 @@ https://spec.commonmark.org/0.31.2#setext-heading
 # setext-heading-underline
 https://spec.commonmark.org/0.31.2#setext-heading-underline
 
+# single-quoted-attribute-value
+https://spec.commonmark.org/0.31.2#single-quoted-attribute-value
+
 # space
 https://spec.commonmark.org/0.31.2#space
 
@@ -164,3 +167,6 @@ https://spec.commonmark.org/0.31.2#unicode-whitespace
 
 # unicode-whitespace-character
 https://spec.commonmark.org/0.31.2#unicode-whitespace-character
+
+# unquoted-attribute-value
+https://spec.commonmark.org/0.31.2#unquoted-attribute-value

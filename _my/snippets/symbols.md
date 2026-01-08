@@ -495,6 +495,11 @@ https://en.wikipedia.org/wiki/Lisu_(Unicode_block)
 ꓠ	ꓡ	ꓢ	ꓣ	ꓤ	ꓥ	ꓦ	ꓧ	ꓨ	ꓩ	ꓪ	ꓫ	ꓬ	ꓭ	ꓮ	ꓯ
 ꓰ	ꓱ	ꓲ	ꓳ	ꓴ	ꓵ	ꓶ	ꓷ	ꓸ	ꓹ	ꓺ	ꓻ	ꓼ	ꓽ	꓾	꓿
 
+# Lycian
+https://en.wikipedia.org/wiki/Lycian_(Unicode_block)
+𐊀	𐊁	𐊂	𐊃	𐊄	𐊅	𐊆	𐊇	𐊈	𐊉	𐊊	𐊋	𐊌	𐊍	𐊎	𐊏
+𐊐	𐊑	𐊒	𐊓	𐊔	𐊕	𐊖	𐊗	𐊘	𐊙	𐊚	𐊛	𐊜
+
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812
 ᚠ ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ ᚫ ᚬ ᚭ ᚮ ᚯ ᚰ ᚱ ᚲ ᚳ ᚴ ᚵ ᚶ ᚷ ᚸ ᚹ ᚺ ᚻ ᚼ ᚽ ᚾ ᚿ ᛀ ᛁ ᛂ ᛃ ᛄ ᛅ ᛆ ᛇ ᛈ ᛉ ᛊ ᛋ ᛌ ᛍ ᛎ ᛏ ᛐ ᛑ 

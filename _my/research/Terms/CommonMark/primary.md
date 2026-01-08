@@ -42,6 +42,9 @@ https://spec.commonmark.org/0.31.2#container-blocks
 # end-condition
 https://spec.commonmark.org/0.31.2#end-condition
 
+# entity-references
+https://spec.commonmark.org/0.31.2#entity-references
+
 # fenced-code-block
 https://spec.commonmark.org/0.31.2#fenced-code-block
 

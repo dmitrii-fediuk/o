@@ -12,6 +12,9 @@ https://spec.commonmark.org/0.31.2#backslash-escapes
 # block-quotes
 https://spec.commonmark.org/0.31.2#block-quotes
 
+# blocks
+https://spec.commonmark.org/0.31.2#blocks
+
 # bullet-list-marker
 https://spec.commonmark.org/0.31.2#bullet-list-marker
 
@@ -39,6 +42,12 @@ https://spec.commonmark.org/0.31.2#html-block
 # info-string
 https://spec.commonmark.org/0.31.2#info-string
 
+# inline
+https://spec.commonmark.org/0.31.2#inline
+
+# leaf-blocks
+https://spec.commonmark.org/0.31.2#leaf-blocks
+
 # list-items
 https://spec.commonmark.org/0.31.2#list-items
 
@@ -53,3 +62,6 @@ https://spec.commonmark.org/0.31.2#ordered-list-marker
 
 # start-condition
 https://spec.commonmark.org/0.31.2#start-condition
+
+# thematic-break
+https://spec.commonmark.org/0.31.2#thematic-break

@@ -323,7 +323,7 @@ https://en.wikipedia.org/wiki/Hangul_Jamo_(Unicode_block)
 ᇠ	ᇡ	ᇢ	ᇣ	ᇤ	ᇥ	ᇦ	ᇧ	ᇨ	ᇩ	ᇪ	ᇫ	ᇬ	ᇭ	ᇮ	ᇯ
 ᇰ	ᇱ	ᇲ	ᇳ	ᇴ	ᇵ	ᇶ	ᇷ	ᇸ	ᇹ	ᇺ	ᇻ	ᇼ	ᇽ	ᇾ	ᇿ
 
-#
+# Hiragana
 https://en.wikipedia.org/wiki/Hiragana_(Unicode_block)
 ぁ	あ	ぃ	い	ぅ	う	ぇ	え	ぉ	お	か	が	き	ぎ	く
 ぐ	け	げ	こ	ご	さ	ざ	し	じ	す	ず	せ	ぜ	そ	ぞ	た

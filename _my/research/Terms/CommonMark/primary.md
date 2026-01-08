@@ -261,6 +261,9 @@ https://spec.commonmark.org/0.31.2#principle-of-uniformity
 # processing-instruction
 https://spec.commonmark.org/0.31.2#processing-instruction
 
+# raw-html
+https://spec.commonmark.org/0.31.2#raw-html
+
 # reference-link
 https://spec.commonmark.org/0.31.2#reference-link
 

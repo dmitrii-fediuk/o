@@ -281,12 +281,13 @@ https://gemini.google.com/share/e85e11e11e7c
 https://gemini.google.com/share/271daa5f21d9
   ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ ᚊ ᚋ ᚌ ᚍ ᚎ ᚏ ᚐ ᚑ ᚒ ᚓ ᚔ ᚕ ᚖ ᚗ ᚘ ᚙ ᚚ ᚛ ᚜
 
-# ⁂
-https://gemini.google.com/share/4564e81c04f8
-‖ ‗ ‘ ’ ‚ ‛ “ ” „ ‟ † ‡ • ‣ ․ ‥ … ‧  ‰ ‱ ′ ″ ‴ ‵ ‶ ‷ ‸ ‹ › ※ ‼ ‽ ‾ ‿ ⁀ 
-⁁ ⁂ ⁃ ⁄ ⁅ ⁆ ⁇ ⁈ ⁉ ⁊ ⁋ ⁌ ⁍ ⁎ ⁏ ⁐ ⁑ ⁒ ⁓ ⁔ ⁕ ⁖ ⁗ ⁘ ⁙ ⁚ ⁛ ⁜ ⁝ ⁞ 
-
-https://gemini.google.com/share/6c959c477321
+# General Punctuation
+https://en.wikipedia.org/wiki/General_Punctuation
+‖	‗	‘	’	‚	‛	“	”	„	‟
+†	‡	•	‣	․	‥	…	‧	L
+‰	‱	′	″	‴	‵	‶	‷	‸	‹	›	※	‼	‽	‾	‿
+⁀	⁁	⁂	⁃	⁄	⁅	⁆	⁇	⁈	⁉	⁊	⁋	⁌	⁍	⁎	⁏
+⁐	⁑	⁒	⁓	⁔	⁕	⁖	⁗	⁘	⁙	⁚	⁛	⁜	⁝	⁞
 
 # 
 https://gemini.google.com/share/6c959c477321

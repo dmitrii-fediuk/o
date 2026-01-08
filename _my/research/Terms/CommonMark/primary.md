@@ -90,6 +90,9 @@ https://spec.commonmark.org/0.31.2#setext-heading
 # setext-heading-underline
 https://spec.commonmark.org/0.31.2#setext-heading-underline
 
+# space
+https://spec.commonmark.org/0.31.2#space
+
 # start-condition
 https://spec.commonmark.org/0.31.2#start-condition
 

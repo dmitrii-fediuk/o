@@ -63,6 +63,9 @@ https://spec.commonmark.org/0.31.2#hexadecimal-numeric-character-references
 # html-block
 https://spec.commonmark.org/0.31.2#html-block
 
+# html-blocks
+https://spec.commonmark.org/0.31.2#html-blocks
+
 # indented-code-block
 https://spec.commonmark.org/0.31.2#indented-code-block
 

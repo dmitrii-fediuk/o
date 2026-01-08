@@ -213,6 +213,9 @@ https://spec.commonmark.org/0.31.2#ordered-list-marker
 # paragraph
 https://spec.commonmark.org/0.31.2#paragraph
 
+# paragraphs
+https://spec.commonmark.org/0.31.2#paragraphs
+
 # principle-of-uniformity
 https://spec.commonmark.org/0.31.2#principle-of-uniformity
 

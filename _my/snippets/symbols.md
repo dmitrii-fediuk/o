@@ -546,7 +546,7 @@ https://en.wikipedia.org/wiki/Georgian_(Unicode_block)
 რ	ს	ტ	უ	ფ	ქ	ღ	ყ	შ	ჩ	ც	ძ	წ	ჭ	ხ	ჯ
 ჰ	ჱ	ჲ	ჳ	ჴ	ჵ	ჶ	ჷ	ჸ	ჹ	ჺ	჻	ჼ	ჽ	ჾ	ჿ
 
-#
+# Georgian Extended
 https://en.wikipedia.org/wiki/Georgian_Extended
 Ა	Ბ	Გ	Დ	Ე	Ვ	Ზ	Თ	Ი	Კ	Ლ	Მ	Ნ	Ო	Პ	Ჟ
 Რ	Ს	Ტ	Უ	Ფ	Ქ	Ღ	Ყ	Შ	Ჩ	Ც	Ძ	Წ	Ჭ	Ხ	Ჯ

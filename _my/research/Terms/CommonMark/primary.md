@@ -108,6 +108,9 @@ https://spec.commonmark.org/0.31.2#declaration
 # delimiter-run
 https://spec.commonmark.org/0.31.2#delimiter-run
 
+# delimiter-stack
+https://spec.commonmark.org/0.31.2#delimiter-stack
+
 # double-quoted-attribute-value
 https://spec.commonmark.org/0.31.2#double-quoted-attribute-value
 
@@ -314,6 +317,9 @@ https://spec.commonmark.org/0.31.2#tabs
 
 # tag-name
 https://spec.commonmark.org/0.31.2#tag-name
+
+# textual-content
+https://spec.commonmark.org/0.31.2#textual-content
 
 # thematic-break
 https://spec.commonmark.org/0.31.2#thematic-break

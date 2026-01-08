@@ -60,6 +60,9 @@ https://spec.commonmark.org/0.31.2#can-close-emphasis
 # can-open-emphasis
 https://spec.commonmark.org/0.31.2#can-open-emphasis
 
+# can-close-strong-emphasis
+https://spec.commonmark.org/0.31.2#can-close-strong-emphasis
+
 # can-open-strong-emphasis
 https://spec.commonmark.org/0.31.2#can-open-strong-emphasis
 

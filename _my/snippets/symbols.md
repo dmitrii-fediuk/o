@@ -293,6 +293,15 @@ https://en.wikipedia.org/wiki/Greek_Extended
 ῠ	ῡ	ῢ	ΰ	ῤ	ῥ	ῦ	ῧ	Ῠ	Ῡ	Ὺ	Ύ	Ῥ	῭	΅	`
 ῲ	ῳ	ῴ		ῶ	ῷ	Ὸ	Ό	Ὼ	Ώ	ῼ	´	῾
 
+#
+https://en.wikipedia.org/wiki/Gurmukhi_(Unicode_block)
+ਅ	ਆ	ਇ	ਈ	ਉ	ਊ ਏ
+ਐ	ਓ	ਔ	ਕ	ਖ	ਗ	ਘ	ਙ	ਚ	ਛ	ਜ	ਝ	ਞ	ਟ
+ਠ	ਡ	ਢ	ਣ	ਤ	ਥ	ਦ	ਧ	ਨ	ਪ	ਫ	ਬ	ਭ	ਮ	ਯ
+ਰ	ਲ	ਲ਼	ਵ	ਸ਼	ਸ	ਹ
+ਖ਼	ਗ਼	ਜ਼	ੜ ਫ਼	
+੦	੧	੨	੩	੪	੫	੬	੭	੮	੯
+ੲ	ੳ	ੴ	ੵ	੶
 
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812

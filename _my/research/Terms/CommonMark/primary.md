@@ -78,6 +78,9 @@ https://spec.commonmark.org/0.31.2#fenced-code-block
 # fenced-code-blocks
 https://spec.commonmark.org/0.31.2#fenced-code-blocks
 
+# full-reference-link
+https://spec.commonmark.org/0.31.2#full-reference-link
+
 # hard-line-break
 https://spec.commonmark.org/0.31.2#hard-line-break
 
@@ -95,6 +98,9 @@ https://spec.commonmark.org/0.31.2#html-comment
 
 # html-tag
 https://spec.commonmark.org/0.31.2#html-tag
+
+# images
+https://spec.commonmark.org/0.31.2#images
 
 # indented-code-block
 https://spec.commonmark.org/0.31.2#indented-code-block

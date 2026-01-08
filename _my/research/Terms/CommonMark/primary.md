@@ -11,3 +11,6 @@ https://spec.commonmark.org/0.31.2#backslash-escapes
 
 # hard line break
 https://spec.commonmark.org/0.31.2#hard-line-break
+
+# fenced code blocks
+https://spec.commonmark.org/0.31.2#fenced-code-blocks

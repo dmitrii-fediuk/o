@@ -112,6 +112,13 @@ https://en.wikipedia.org/wiki/Myanmar_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Myanmar
 က
 
+# Ol Chiki
+https://en.wikipedia.org/wiki/Ol_Chiki_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Ol_Chiki
+ᱬ
+
+
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ

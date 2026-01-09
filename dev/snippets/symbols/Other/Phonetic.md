@@ -19,3 +19,11 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Phonetic_Extensions
 ᵐ	ᵑ	ᵒ	ᵓ	ᵔ	ᵕ	ᵖ	ᵗ	ᵘ	ᵙ	ᵚ	ᵛ	ᵜ	ᵝ	ᵞ	ᵟ
 ᵠ	ᵡ	ᵢ	ᵣ	ᵤ	ᵥ	ᵦ	ᵧ	ᵨ	ᵩ	ᵪ	ᵫ	ᵬ	ᵭ	ᵮ	ᵯ
 ᵰ	ᵱ	ᵲ	ᵳ	ᵴ	ᵵ	ᵶ	ᵷ	ᵸ	ᵹ	ᵺ	ᵻ	ᵼ	ᵽ	ᵾ	ᵿ
+
+## Supplement
+https://en.wikipedia.org/wiki/Phonetic_Extensions_Supplement
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Phonetic_Extensions_Supplement
+ᶀ	ᶁ	ᶂ	ᶃ	ᶄ	ᶅ	ᶆ	ᶇ	ᶈ	ᶉ	ᶊ	ᶋ	ᶌ	ᶍ	ᶎ	ᶏ
+ᶐ	ᶑ	ᶒ	ᶓ	ᶔ	ᶕ	ᶖ	ᶗ	ᶘ	ᶙ	ᶚ	ᶛ	ᶜ	ᶝ	ᶞ	ᶟ
+ᶠ	ᶡ	ᶢ	ᶣ	ᶤ	ᶥ	ᶦ	ᶧ	ᶨ	ᶩ	ᶪ	ᶫ	ᶬ	ᶭ	ᶮ	ᶯ
+ᶰ	ᶱ	ᶲ	ᶳ	ᶴ	ᶵ	ᶶ	ᶷ	ᶸ	ᶹ	ᶺ	ᶻ	ᶼ	ᶽ	ᶾ	ᶿ

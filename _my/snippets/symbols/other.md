@@ -553,6 +553,12 @@ https://en.wikipedia.org/wiki/Ol_Chiki_(Unicode_block)
 ᱠ	ᱡ	ᱢ	ᱣ	ᱤ	ᱥ	ᱦ	ᱧ	ᱨ	ᱩ	ᱪ	ᱫ	ᱬ	ᱭ	ᱮ	ᱯ
 ᱰ	ᱱ	ᱲ	ᱳ	ᱴ	ᱵ	ᱶ	ᱷ	ᱸ	ᱹ	ᱺ	ᱻ	ᱼ	ᱽ	᱾	᱿
 
+# Old Italic
+https://en.wikipedia.org/wiki/Old_Italic_(Unicode_block)
+𐌀	𐌁	𐌂	𐌃	𐌄	𐌅	𐌆	𐌇	𐌈	𐌉	𐌊	𐌋	𐌌	𐌍	𐌎	𐌏
+𐌐	𐌑	𐌒	𐌓	𐌔	𐌕	𐌖	𐌗	𐌘	𐌙	𐌚	𐌛	𐌜	𐌝	𐌞	𐌟
+𐌠	𐌡	𐌢	𐌣
+
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812
 ᚠ ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ ᚫ ᚬ ᚭ ᚮ ᚯ ᚰ ᚱ ᚲ ᚳ ᚴ ᚵ ᚶ ᚷ ᚸ ᚹ ᚺ ᚻ ᚼ ᚽ ᚾ ᚿ ᛀ ᛁ ᛂ ᛃ ᛄ ᛅ ᛆ ᛇ ᛈ ᛉ ᛊ ᛋ ᛌ ᛍ ᛎ ᛏ ᛐ ᛑ 

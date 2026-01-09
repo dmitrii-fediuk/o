@@ -511,6 +511,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_New_Tai_Lue
 
 # NKo
 https://en.wikipedia.org/wiki/NKo_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_NKo
 ߀	߁	߂	߃	߄	߅	߆	߇	߈	߉	ߊ	ߋ	ߌ	ߍ	ߎ	ߏ
 ߐ	ߑ	ߒ	ߓ	ߔ	ߕ	ߖ	ߗ	ߘ	ߙ	ߚ	ߛ	ߜ	ߝ	ߞ	ߟ
 ߠ	ߡ	ߢ	ߣ	ߤ	ߥ	ߦ	ߧ	ߨ	ߩ	ߪ

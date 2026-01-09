@@ -210,7 +210,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Ethiopic
 ፠	፡	።	፣	፤	፥	፦	፧	፨	፩	፪	፫	፬	፭	፮	፯
 ፰	፱	፲	፳	፴	፵	፶	፷	፸	፹	፺	፻	፼		
 
-# Ethiopic Extended
+## Extended
 https://en.wikipedia.org/wiki/Ethiopic_Extended
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Ethiopic_Extended
 ⶀ	ⶁ	ⶂ	ⶃ	ⶄ	ⶅ	ⶆ	ⶇ	ⶈ	ⶉ	ⶊ	ⶋ	ⶌ	ⶍ	ⶎ	ⶏ
@@ -220,14 +220,16 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Ethiopic_Extended
 ⷀ	ⷁ	ⷂ	ⷃ	ⷄ	ⷅ	ⷆ	ⷈ	ⷉ	ⷊ	ⷋ	ⷌ	ⷍ	ⷎ	
 ⷐ	ⷑ	ⷒ	ⷓ	ⷔ	ⷕ	ⷖ	ⷘ	ⷙ	ⷚ	ⷛ	ⷜ	ⷝ	ⷞ
 
-# Ethiopic Extended-A
+## Extended-A
 https://en.wikipedia.org/wiki/Ethiopic_Extended-A
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Ethiopic_Extended-A
 ꬁ	ꬂ	ꬃ	ꬄ	ꬅ	ꬆ	ꬉ	ꬊ	ꬋ	ꬌ	ꬍ	ꬎ	
 ꬑ	ꬒ	ꬓ	ꬔ	ꬕ	ꬖ									
 ꬠ	ꬡ	ꬢ	ꬣ	ꬤ	ꬥ	ꬦ	ꬨ	ꬩ	ꬪ	ꬫ	ꬬ	ꬭ	ꬮ
 
-# Ethiopic Supplement
+## Supplement
 https://en.wikipedia.org/wiki/Ethiopic_Supplement
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Ethiopic_Supplement
 ᎀ	ᎁ	ᎂ	ᎃ	ᎄ	ᎅ	ᎆ	ᎇ	ᎈ	ᎉ	ᎊ	ᎋ	ᎌ	ᎍ	ᎎ	ᎏ
 ᎐	᎑	᎒	᎓	᎔	᎕	᎖	᎗	᎘	᎙
 

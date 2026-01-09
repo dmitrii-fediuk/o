@@ -1,4 +1,5 @@
 https://en.wikipedia.org/wiki/Braille_Patterns
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Braille_Patterns
 ⠀	⠁	⠂	⠃	⠄	⠅	⠆	⠇	⠈	⠉	⠊	⠋	⠌	⠍	⠎	⠏
 ⠐	⠑	⠒	⠓	⠔	⠕	⠖	⠗	⠘	⠙	⠚	⠛	⠜	⠝	⠞	⠟
 ⠠	⠡	⠢	⠣	⠤	⠥	⠦	⠧	⠨	⠩	⠪	⠫	⠬	⠭	⠮	⠯

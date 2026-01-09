@@ -561,6 +561,10 @@ https://en.wikipedia.org/wiki/Old_Persian_(Unicode_block)
 𐏀	𐏁	𐏂	𐏃	𐏈	𐏉	𐏊	𐏋	𐏌	𐏍	𐏎	𐏏
 𐏐	𐏑	𐏒	𐏓	𐏔	𐏕
 
+# Old South Arabian
+https://en.wikipedia.org/wiki/Old_South_Arabian_(Unicode_block)
+𐩠	𐩡	𐩢	𐩣	𐩤	𐩥	𐩦	𐩧	𐩨	𐩩	𐩪	𐩫	𐩬	𐩭	𐩮	𐩯
+𐩰	𐩱	𐩲	𐩳	𐩴	𐩵	𐩶	𐩷	𐩸	𐩹	𐩺	𐩻	𐩼	𐩽	𐩾	𐩿
 
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812

@@ -72,6 +72,11 @@ https://en.wikipedia.org/wiki/Inscriptional_Pahlavi_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Inscriptional_Pahlavi
 𐭺
 
+# Kannada
+https://en.wikipedia.org/wiki/Kannada_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Kannada
+ಌ
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ

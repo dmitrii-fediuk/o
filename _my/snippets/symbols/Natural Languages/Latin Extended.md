@@ -52,7 +52,7 @@ https://en.wikipedia.org/wiki/Latin_Extended-A
 
 # Latin Extended-B
 https://en.wikipedia.org/wiki/Latin_Extended-B
-ƀ	Ɓ	Ƃ	ƃ	Ƅ	ƅ	Ɔ	Ƈ	ƈ	Ɖ	Ɗ	Ƌ	ƌ	ƍ	Ǝ	Ə
+ƀ	Ɓ	Ƃ	ƃ	Ƅ	ƅ 	Ɔ	Ƈ	ƈ Ɖ	Ɗ	Ƌ	ƌ	ƍ	Ǝ	Ə
 Ɛ	Ƒ	ƒ	Ɠ	Ɣ	ƕ	Ɩ	Ɨ	Ƙ	ƙ	ƚ	ƛ	Ɯ	Ɲ	ƞ	Ɵ
 Ơ	ơ	Ƣ	ƣ	Ƥ	ƥ	Ʀ	Ƨ	ƨ	Ʃ	ƪ	ƫ	Ƭ	ƭ	Ʈ	Ư
 ư	Ʊ	Ʋ	Ƴ	ƴ	Ƶ	ƶ	Ʒ	Ƹ	ƹ	ƺ	ƻ	Ƽ	ƽ	ƾ	ƿ
@@ -93,7 +93,7 @@ https://en.wikipedia.org/wiki/Latin_Extended-E
 
 # Latin-1 Supplement
 https://en.wikipedia.org/wiki/Latin-1_Supplement
-¡	¢	£	¤	¥	¦	§	¨	©	ª	«	¬	SHY	®	¯
+¡	¢	£	¤	¥	¦	§	¨	©	ª	«	¬	®	¯
 °	±	²	³	´	µ	¶	·	¸	¹	º	»	¼	½	¾	¿
 À	Á	Â	Ã	Ä	Å	Æ	Ç	È	É	Ê	Ë	Ì	Í	Î	Ï
 Ð	Ñ	Ò	Ó	Ô	Õ	Ö	×	Ø	Ù	Ú	Û	Ü	Ý	Þ	ß

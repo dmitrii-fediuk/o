@@ -20,3 +20,7 @@ https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols#Greek_letters_an
 # Latin_Extended_Additional
 https://en.wikipedia.org/wiki/Latin_Extended_Additional
 Ḿ	ḿ	Ṁ	ṁ	Ṃ	ṃ
+
+# Latin Extended-C
+https://en.wikipedia.org/wiki/Latin_Extended-C
+Ɱ

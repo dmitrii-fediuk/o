@@ -620,6 +620,11 @@ https://en.wikipedia.org/wiki/Sinhala_(Unicode_block)
 ව	ශ	ෂ	ස	හ	ළ	ෆ
 ෦	෧	෨	෩	෪	෫	෬	෭	෮	෯ ෴	
 
+## Archaic Numbers
+https://en.wikipedia.org/wiki/Sinhala_Archaic_Numbers
+𑇡	𑇢	𑇣	𑇤	𑇥	𑇦	𑇧	𑇨	𑇩	𑇪	𑇫	𑇬	𑇭	𑇮	𑇯
+𑇰	𑇱	𑇲	𑇳	𑇴
+
 # Ϯ
 https://gemini.google.com/share/e85e11e11e7c
 Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ Ⲕ Ⲗ Ⲙ Ⲛ Ⲝ Ⲟ Ⲡ Ⲣ Ⲥ Ⲧ Ⲩ Ⲫ Ⲭ Ⲯ Ⲱ Ϣ Ϥ Ϧ Ϩ Ϫ Ϭ Ϯ

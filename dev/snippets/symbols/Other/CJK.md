@@ -44,6 +44,11 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Enclosed_CJK_Letters_and_Mo
 ㋠	㋡	㋢	㋣	㋤	㋥	㋦	㋧	㋨	㋩	㋪	㋫	㋬	㋭	㋮	㋯
 ㋰	㋱	㋲	㋳	㋴	㋵	㋶	㋷	㋸	㋹	㋺	㋻	㋼	㋽	㋾	㋿
 
+# Ideographic Description Characters
+https://en.wikipedia.org/wiki/Ideographic_Description_Characters
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Ideographic_Description_Characters
+⿰	⿱	⿲	⿳	⿴	⿵	⿶	⿷	⿸	⿹	⿺	⿻	⿼	⿽	⿾	⿿
+
 # Radicals
 https://en.wikipedia.org/wiki/CJK_Radicals_Supplement
 https://en.wikipedia.org/wiki/Template:Unicode_chart_CJK_Radicals_Supplement

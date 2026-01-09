@@ -94,12 +94,6 @@ https://en.wikipedia.org/wiki/Braille_Patterns
 ⣠	⣡	⣢	⣣	⣤	⣥	⣦	⣧	⣨	⣩	⣪	⣫	⣬	⣭	⣮	⣯
 ⣰	⣱	⣲	⣳	⣴	⣵	⣶	⣷	⣸	⣹	⣺	⣻	⣼	⣽	⣾	⣿
 
-# Системы письма коренных народов Северной Америки
-https://gemini.google.com/share/313eeacd4fd2
-
-## Блэкфут (Siksiká)
-ᖳ ᖰ ᖱ ᖲ ᑫ ᑭ ᑯ ᑲ ᒣ ᒥ ᒧ ᒪ ᖿ ᖼ ᖽ ᖾ ᒉ ᒋ ᒍ ᒐ ᖻ ᖸ ᖹ ᖺ ᓭ ᓯ ᓱ ᓴ ᔦ ᔨ ᔪ ᔭ ᖷ ᖴ ᖵ ᖶ ᐤ ᐨ ᘁ ᐢ ᐡ ᔈ ᑊ ᐠ ᐦ ᖳᐤ ᖳᐨ ᖳᘁ ᖳᐢ ᖳᐡ ᖳᔈ
-
 # Cherokee
 ## Uppercase
 https://en.wikipedia.org/wiki/Cherokee_(Unicode_block)

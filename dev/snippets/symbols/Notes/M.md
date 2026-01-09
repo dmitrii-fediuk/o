@@ -97,6 +97,11 @@ https://en.wikipedia.org/wiki/Lycian_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Lycian
 𐊎
 
+# Lydian
+https://en.wikipedia.org/wiki/Lydian_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Lydian
+𐤵
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ

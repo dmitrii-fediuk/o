@@ -197,6 +197,109 @@ https://gemini.google.com/share/b410042e2f78
 ༶ ༷ ༸ ༹ ༺ ༻ ༼ ༽ ༾ ༿ ཀ ཁ ག གྷ ང ཅ ཆ ཇ ཉ ཊ ཋ ཌ ཌྷ ཎ ཏ ཐ ད དྷ ན པ ཕ བ བྷ མ ཙ ཚ ཛ ཛྷ ཝ ཞ ཟ འ ཡ ར ལ ཤ ཥ ས ཧ ཨ ཀྵ ཪ ཫ  ྅ ྆ ྇ ྈ ྉ 
 ྊ ྋ ྌ ྾ ྿ ࿀ ࿁ ࿂ ࿃ ࿄ ࿅ ࿆ ࿇ ࿈ ࿉ ࿊ ࿋ ࿌ ࿎ ࿏ ࿐ ࿑ ࿒ ࿓ ࿔  ࿙ ࿚
 
+# Armenian
+https://en.wikipedia.org/wiki/Armenian_(Unicode_block)
+Ա	Բ	Գ	Դ	Ե	Զ	Է	Ը	Թ	Ժ	Ի	Լ	Խ	Ծ	Կ
+Հ	Ձ	Ղ	Ճ	Մ	Յ	Ն	Շ	Ո	Չ	Պ	Ջ	Ռ	Ս	Վ	Տ
+Ր	Ց	Ւ	Փ	Ք	Օ	Ֆ	ՙ	՚	՛	՜	՝	՞	՟
+ա	բ	գ	դ	ե	զ	է	ը	թ	ժ	ի	լ	խ	ծ	կ
+հ	ձ	ղ	ճ	մ	յ	ն	շ	ո	չ	պ	ջ	ռ	ս	վ	տ
+ր	ց	ւ	փ	ք	օ	ֆ	և	ֈ	։	֊	֍	֎	֏
+
+# Ethiopic
+https://en.wikipedia.org/wiki/Ethiopic_(Unicode_block)
+ሀ	ሁ	ሂ	ሃ	ሄ	ህ	ሆ	ሇ	ለ	ሉ	ሊ	ላ	ሌ	ል	ሎ	ሏ
+ሐ	ሑ	ሒ	ሓ	ሔ	ሕ	ሖ	ሗ	መ	ሙ	ሚ	ማ	ሜ	ም	ሞ	ሟ
+ሠ	ሡ	ሢ	ሣ	ሤ	ሥ	ሦ	ሧ	ረ	ሩ	ሪ	ራ	ሬ	ር	ሮ	ሯ
+ሰ	ሱ	ሲ	ሳ	ሴ	ስ	ሶ	ሷ	ሸ	ሹ	ሺ	ሻ	ሼ	ሽ	ሾ	ሿ
+ቀ	ቁ	ቂ	ቃ	ቄ	ቅ	ቆ	ቇ	ቈ	ቊ	ቋ	ቌ	ቍ		
+ቐ	ቑ	ቒ	ቓ	ቔ	ቕ	ቖ	ቘ	ቚ	ቛ	ቜ	ቝ		
+በ	ቡ	ቢ	ባ	ቤ	ብ	ቦ	ቧ	ቨ	ቩ	ቪ	ቫ	ቬ	ቭ	ቮ	ቯ
+ተ	ቱ	ቲ	ታ	ቴ	ት	ቶ	ቷ	ቸ	ቹ	ቺ	ቻ	ቼ	ች	ቾ	ቿ
+ኀ	ኁ	ኂ	ኃ	ኄ	ኅ	ኆ	ኇ	ኈ	ኊ	ኋ	ኌ	ኍ		
+ነ	ኑ	ኒ	ና	ኔ	ን	ኖ	ኗ	ኘ	ኙ	ኚ	ኛ	ኜ	ኝ	ኞ	ኟ
+አ	ኡ	ኢ	ኣ	ኤ	እ	ኦ	ኧ	ከ	ኩ	ኪ	ካ	ኬ	ክ	ኮ	ኯ
+ኰ	ኲ	ኳ	ኴ	ኵ	ኸ	ኹ	ኺ	ኻ	ኼ	ኽ	ኾ	
+ዀ	ዂ	ዃ	ዄ	ዅ	ወ	ዉ	ዊ	ዋ	ዌ	ው	ዎ	ዏ
+ዐ	ዑ	ዒ	ዓ	ዔ	ዕ	ዖ		ዘ	ዙ	ዚ	ዛ	ዜ	ዝ	ዞ	ዟ
+ዠ	ዡ	ዢ	ዣ	ዤ	ዥ	ዦ	ዧ	የ	ዩ	ዪ	ያ	ዬ	ይ	ዮ	ዯ
+ደ	ዱ	ዲ	ዳ	ዴ	ድ	ዶ	ዷ	ዸ	ዹ	ዺ	ዻ	ዼ	ዽ	ዾ	ዿ
+ጀ	ጁ	ጂ	ጃ	ጄ	ጅ	ጆ	ጇ	ገ	ጉ	ጊ	ጋ	ጌ	ግ	ጎ	ጏ
+ጐ	ጒ	ጓ	ጔ	ጕ	ጘ	ጙ	ጚ	ጛ	ጜ	ጝ	ጞ	ጟ
+ጠ	ጡ	ጢ	ጣ	ጤ	ጥ	ጦ	ጧ	ጨ	ጩ	ጪ	ጫ	ጬ	ጭ	ጮ	ጯ
+ጰ	ጱ	ጲ	ጳ	ጴ	ጵ	ጶ	ጷ	ጸ	ጹ	ጺ	ጻ	ጼ	ጽ	ጾ	ጿ
+ፀ	ፁ	ፂ	ፃ	ፄ	ፅ	ፆ	ፇ	ፈ	ፉ	ፊ	ፋ	ፌ	ፍ	ፎ	ፏ
+ፐ	ፑ	ፒ	ፓ	ፔ	ፕ	ፖ	ፗ	ፘ	ፙ	ፚ			፝	፞	፟
+፠	፡	።	፣	፤	፥	፦	፧	፨	፩	፪	፫	፬	፭	፮	፯
+፰	፱	፲	፳	፴	፵	፶	፷	፸	፹	፺	፻	፼		
+
+# Ethiopic Extended
+https://en.wikipedia.org/wiki/Ethiopic_Extended
+ⶀ	ⶁ	ⶂ	ⶃ	ⶄ	ⶅ	ⶆ	ⶇ	ⶈ	ⶉ	ⶊ	ⶋ	ⶌ	ⶍ	ⶎ	ⶏ
+ⶐ	ⶑ	ⶒ	ⶓ	ⶔ	ⶕ	ⶖ									
+ⶠ	ⶡ	ⶢ	ⶣ	ⶤ	ⶥ	ⶦ	ⶨ	ⶩ	ⶪ	ⶫ	ⶬ	ⶭ	ⶮ	
+ⶰ	ⶱ	ⶲ	ⶳ	ⶴ	ⶵ	ⶶ	ⶸ	ⶹ	ⶺ	ⶻ	ⶼ	ⶽ	ⶾ	
+ⷀ	ⷁ	ⷂ	ⷃ	ⷄ	ⷅ	ⷆ	ⷈ	ⷉ	ⷊ	ⷋ	ⷌ	ⷍ	ⷎ	
+ⷐ	ⷑ	ⷒ	ⷓ	ⷔ	ⷕ	ⷖ	ⷘ	ⷙ	ⷚ	ⷛ	ⷜ	ⷝ	ⷞ
+
+# Ethiopic Extended-A
+https://en.wikipedia.org/wiki/Ethiopic_Extended-A
+ꬁ	ꬂ	ꬃ	ꬄ	ꬅ	ꬆ	ꬉ	ꬊ	ꬋ	ꬌ	ꬍ	ꬎ	
+ꬑ	ꬒ	ꬓ	ꬔ	ꬕ	ꬖ									
+ꬠ	ꬡ	ꬢ	ꬣ	ꬤ	ꬥ	ꬦ	ꬨ	ꬩ	ꬪ	ꬫ	ꬬ	ꬭ	ꬮ
+
+# Ethiopic Supplement
+https://en.wikipedia.org/wiki/Ethiopic_Supplement
+ᎀ	ᎁ	ᎂ	ᎃ	ᎄ	ᎅ	ᎆ	ᎇ	ᎈ	ᎉ	ᎊ	ᎋ	ᎌ	ᎍ	ᎎ	ᎏ
+᎐	᎑	᎒	᎓	᎔	᎕	᎖	᎗	᎘	᎙
+
+# General Punctuation
+https://en.wikipedia.org/wiki/General_Punctuation
+‖	‗	‘	’	‚	‛	“	”	„	‟
+†	‡	•	‣	․	‥	…	‧	L
+‰	‱	′	″	‴	‵	‶	‷	‸	‹	›	※	‼	‽	‾	‿
+⁀	⁁	⁂	⁃	⁄	⁅	⁆	⁇	⁈	⁉	⁊	⁋	⁌	⁍	⁎	⁏
+⁐	⁑	⁒	⁓	⁔	⁕	⁖	⁗	⁘	⁙	⁚	⁛	⁜	⁝	⁞
+
+# Geometric Shapes
+https://en.wikipedia.org/wiki/Geometric_Shapes_(Unicode_block)
+■	□	▢	▣	▤	▥	▦	▧	▨	▩	▪	▫	▬	▭	▮	▯
+▰	▱	▲	△	▴	▵	▶	▷	▸	▹	►	▻	▼	▽	▾	▿
+◀	◁	◂	◃	◄	◅	◆	◇	◈	◉	◊	○	◌	◍	◎	●
+◐	◑	◒	◓	◔	◕	◖	◗	◘	◙	◚	◛	◜	◝	◞	◟
+◠	◡	◢	◣	◤	◥	◦	◧	◨	◩	◪	◫	◬	◭	◮	◯
+◰	◱	◲	◳	◴	◵	◶	◷	◸	◹	◺	◻	◼	◽	◾	◿
+
+# Geometric Shapes Extended
+https://en.wikipedia.org/wiki/Geometric_Shapes_Extended
+🞀	🞁	🞂	🞃	🞄	🞅	🞇	🞉	🞌	🞍
+🞑	🞒	🞓	🞔	🞕	🞖	🞗	🞘	🞚	🞛	🞜	🞝	🞞
+🞠	🞡	🞢	🞣	🞤	🞥	🞦	🞧	🞨	🞩	🞪	🞫	🞬	🞭	🞮	🞯
+🞰	🞱	🞲	🞳	🞴	🞵	🞶	🞷	🞸	🞹	🞺	🞻	🞼	🞽	🞾	🞿
+🟀	🟂	🟃	🟄	🟆	🟇	🟈	🟉	🟊	🟌	🟍	🟎
+🟐	🟒	🟔
+
+# Georgian
+https://en.wikipedia.org/wiki/Georgian_(Unicode_block)
+Ⴀ	Ⴁ	Ⴂ	Ⴃ	Ⴄ	Ⴅ	Ⴆ	Ⴇ	Ⴈ	Ⴉ	Ⴊ	Ⴋ	Ⴌ	Ⴍ	Ⴎ	Ⴏ
+Ⴐ	Ⴑ	Ⴒ	Ⴓ	Ⴔ	Ⴕ	Ⴖ	Ⴗ	Ⴘ	Ⴙ	Ⴚ	Ⴛ	Ⴜ	Ⴝ	Ⴞ	Ⴟ
+Ⴠ	Ⴡ	Ⴢ	Ⴣ	Ⴤ	Ⴥ	Ⴧ	Ⴭ		
+ა	ბ	გ	დ	ე	ვ	ზ	თ	ი	კ	ლ	მ	ნ	ო	პ	ჟ
+რ	ს	ტ	უ	ფ	ქ	ღ	ყ	შ	ჩ	ც	ძ	წ	ჭ	ხ	ჯ
+ჰ	ჱ	ჲ	ჳ	ჴ	ჵ	ჶ	ჷ	ჸ	ჹ	ჺ	჻	ჼ	ჽ	ჾ	ჿ
+
+# Georgian Extended
+https://en.wikipedia.org/wiki/Georgian_Extended
+Ა	Ბ	Გ	Დ	Ე	Ვ	Ზ	Თ	Ი	Კ	Ლ	Მ	Ნ	Ო	Პ	Ჟ
+Რ	Ს	Ტ	Უ	Ფ	Ქ	Ღ	Ყ	Შ	Ჩ	Ც	Ძ	Წ	Ჭ	Ხ	Ჯ
+Ჰ	Ჱ	Ჲ	Ჳ	Ჴ	Ჵ	Ჶ	Ჷ	Ჸ	Ჹ	Ჺ	Ჽ	Ჾ	Ჿ
+
+# Georgian Supplement
+https://en.wikipedia.org/wiki/Georgian_Supplement
+ⴀ	ⴁ	ⴂ	ⴃ	ⴄ	ⴅ	ⴆ	ⴇ	ⴈ	ⴉ	ⴊ	ⴋ	ⴌ	ⴍ	ⴎ	ⴏ
+ⴐ	ⴑ	ⴒ	ⴓ	ⴔ	ⴕ	ⴖ	ⴗ	ⴘ	ⴙ	ⴚ	ⴛ	ⴜ	ⴝ	ⴞ	ⴟ
+ⴠ	ⴡ	ⴢ	ⴣ	ⴤ	ⴥ	ⴧ	ⴭ
+
 # Glagolitic
 https://en.wikipedia.org/wiki/Glagolitic_(Unicode_block)
 Ⰰ	Ⰱ	Ⰲ	Ⰳ	Ⰴ	Ⰵ	Ⰶ	Ⰷ	Ⰸ	Ⰹ	Ⰺ	Ⰻ	Ⰼ	Ⰽ	Ⰾ	Ⰿ
@@ -411,53 +514,6 @@ https://gemini.google.com/share/e85e11e11e7c
 https://gemini.google.com/share/271daa5f21d9
   ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ ᚊ ᚋ ᚌ ᚍ ᚎ ᚏ ᚐ ᚑ ᚒ ᚓ ᚔ ᚕ ᚖ ᚗ ᚘ ᚙ ᚚ ᚛ ᚜
 
-# General Punctuation
-https://en.wikipedia.org/wiki/General_Punctuation
-‖	‗	‘	’	‚	‛	“	”	„	‟
-†	‡	•	‣	․	‥	…	‧	L
-‰	‱	′	″	‴	‵	‶	‷	‸	‹	›	※	‼	‽	‾	‿
-⁀	⁁	⁂	⁃	⁄	⁅	⁆	⁇	⁈	⁉	⁊	⁋	⁌	⁍	⁎	⁏
-⁐	⁑	⁒	⁓	⁔	⁕	⁖	⁗	⁘	⁙	⁚	⁛	⁜	⁝	⁞
-
-# Geometric Shapes
-https://en.wikipedia.org/wiki/Geometric_Shapes_(Unicode_block)
-■	□	▢	▣	▤	▥	▦	▧	▨	▩	▪	▫	▬	▭	▮	▯
-▰	▱	▲	△	▴	▵	▶	▷	▸	▹	►	▻	▼	▽	▾	▿
-◀	◁	◂	◃	◄	◅	◆	◇	◈	◉	◊	○	◌	◍	◎	●
-◐	◑	◒	◓	◔	◕	◖	◗	◘	◙	◚	◛	◜	◝	◞	◟
-◠	◡	◢	◣	◤	◥	◦	◧	◨	◩	◪	◫	◬	◭	◮	◯
-◰	◱	◲	◳	◴	◵	◶	◷	◸	◹	◺	◻	◼	◽	◾	◿
-
-# Geometric Shapes Extended
-https://en.wikipedia.org/wiki/Geometric_Shapes_Extended
-🞀	🞁	🞂	🞃	🞄	🞅	🞇	🞉	🞌	🞍
-🞑	🞒	🞓	🞔	🞕	🞖	🞗	🞘	🞚	🞛	🞜	🞝	🞞
-🞠	🞡	🞢	🞣	🞤	🞥	🞦	🞧	🞨	🞩	🞪	🞫	🞬	🞭	🞮	🞯
-🞰	🞱	🞲	🞳	🞴	🞵	🞶	🞷	🞸	🞹	🞺	🞻	🞼	🞽	🞾	🞿
-🟀	🟂	🟃	🟄	🟆	🟇	🟈	🟉	🟊	🟌	🟍	🟎
-🟐	🟒	🟔
-
-# Georgian
-https://en.wikipedia.org/wiki/Georgian_(Unicode_block)
-Ⴀ	Ⴁ	Ⴂ	Ⴃ	Ⴄ	Ⴅ	Ⴆ	Ⴇ	Ⴈ	Ⴉ	Ⴊ	Ⴋ	Ⴌ	Ⴍ	Ⴎ	Ⴏ
-Ⴐ	Ⴑ	Ⴒ	Ⴓ	Ⴔ	Ⴕ	Ⴖ	Ⴗ	Ⴘ	Ⴙ	Ⴚ	Ⴛ	Ⴜ	Ⴝ	Ⴞ	Ⴟ
-Ⴠ	Ⴡ	Ⴢ	Ⴣ	Ⴤ	Ⴥ	Ⴧ	Ⴭ		
-ა	ბ	გ	დ	ე	ვ	ზ	თ	ი	კ	ლ	მ	ნ	ო	პ	ჟ
-რ	ს	ტ	უ	ფ	ქ	ღ	ყ	შ	ჩ	ც	ძ	წ	ჭ	ხ	ჯ
-ჰ	ჱ	ჲ	ჳ	ჴ	ჵ	ჶ	ჷ	ჸ	ჹ	ჺ	჻	ჼ	ჽ	ჾ	ჿ
-
-# Georgian Extended
-https://en.wikipedia.org/wiki/Georgian_Extended
-Ა	Ბ	Გ	Დ	Ე	Ვ	Ზ	Თ	Ი	Კ	Ლ	Მ	Ნ	Ო	Პ	Ჟ
-Რ	Ს	Ტ	Უ	Ფ	Ქ	Ღ	Ყ	Შ	Ჩ	Ც	Ძ	Წ	Ჭ	Ხ	Ჯ
-Ჰ	Ჱ	Ჲ	Ჳ	Ჴ	Ჵ	Ჶ	Ჷ	Ჸ	Ჹ	Ჺ	Ჽ	Ჾ	Ჿ
-
-# Georgian Supplement
-https://en.wikipedia.org/wiki/Georgian_Supplement
-ⴀ	ⴁ	ⴂ	ⴃ	ⴄ	ⴅ	ⴆ	ⴇ	ⴈ	ⴉ	ⴊ	ⴋ	ⴌ	ⴍ	ⴎ	ⴏ
-ⴐ	ⴑ	ⴒ	ⴓ	ⴔ	ⴕ	ⴖ	ⴗ	ⴘ	ⴙ	ⴚ	ⴛ	ⴜ	ⴝ	ⴞ	ⴟ
-ⴠ	ⴡ	ⴢ	ⴣ	ⴤ	ⴥ	ⴧ	ⴭ
-
 # ⦕, ⧉
 https://gemini.google.com/share/2aeaf109aaa4
 ⦀ ⦁ ⦂ ⦃ ⦄ ⦅ ⦆ ⦇ ⦈ ⦉ ⦊ ⦋ ⦌ ⦍ ⦎ ⦏ ⦐ ⦑ ⦒ ⦓ ⦔ ⦕ ⦖ ⦗ ⦘ ⦙ ⦚ ⦛ ⦜ ⦝ ⦞ ⦟ ⦠ ⦡ ⦢ ⦣ ⦤ ⦥ ⦦ ⦧ ⦨ ⦩ ⦪ ⦫ ⦬ ⦭ ⦮ ⦯ 
@@ -521,59 +577,5 @@ https://en.wikipedia.org/wiki/Adlam_(Unicode_block)
 𞤚 𞤛 𞤜 𞤝 𞤞 𞤟 𞤠 𞤡 𞤢 𞤣 𞤤 𞤥 𞤦 𞤧 𞤨 𞤩 𞤪 𞤫 𞤬 𞤭 𞤮 𞤯 𞤰 𞤱 𞤲 𞤳 𞤴 𞤵 
 𞤶 𞤷 𞤸 𞤹 𞤺 𞤻 𞤼 𞤽 𞤾 𞤿 𞥀 𞥁 𞥂 𞥃 𞥄 𞥅 𞥆 𞥇 𞥈 𞥉 𞥊 𞥋 𞥐 𞥑 𞥒 𞥓 𞥔 𞥕 𞥖 𞥗 𞥘 𞥙
 
-# Ethiopic
-https://en.wikipedia.org/wiki/Ethiopic_(Unicode_block)
-ሀ	ሁ	ሂ	ሃ	ሄ	ህ	ሆ	ሇ	ለ	ሉ	ሊ	ላ	ሌ	ል	ሎ	ሏ
-ሐ	ሑ	ሒ	ሓ	ሔ	ሕ	ሖ	ሗ	መ	ሙ	ሚ	ማ	ሜ	ም	ሞ	ሟ
-ሠ	ሡ	ሢ	ሣ	ሤ	ሥ	ሦ	ሧ	ረ	ሩ	ሪ	ራ	ሬ	ር	ሮ	ሯ
-ሰ	ሱ	ሲ	ሳ	ሴ	ስ	ሶ	ሷ	ሸ	ሹ	ሺ	ሻ	ሼ	ሽ	ሾ	ሿ
-ቀ	ቁ	ቂ	ቃ	ቄ	ቅ	ቆ	ቇ	ቈ	ቊ	ቋ	ቌ	ቍ		
-ቐ	ቑ	ቒ	ቓ	ቔ	ቕ	ቖ	ቘ	ቚ	ቛ	ቜ	ቝ		
-በ	ቡ	ቢ	ባ	ቤ	ብ	ቦ	ቧ	ቨ	ቩ	ቪ	ቫ	ቬ	ቭ	ቮ	ቯ
-ተ	ቱ	ቲ	ታ	ቴ	ት	ቶ	ቷ	ቸ	ቹ	ቺ	ቻ	ቼ	ች	ቾ	ቿ
-ኀ	ኁ	ኂ	ኃ	ኄ	ኅ	ኆ	ኇ	ኈ	ኊ	ኋ	ኌ	ኍ		
-ነ	ኑ	ኒ	ና	ኔ	ን	ኖ	ኗ	ኘ	ኙ	ኚ	ኛ	ኜ	ኝ	ኞ	ኟ
-አ	ኡ	ኢ	ኣ	ኤ	እ	ኦ	ኧ	ከ	ኩ	ኪ	ካ	ኬ	ክ	ኮ	ኯ
-ኰ	ኲ	ኳ	ኴ	ኵ	ኸ	ኹ	ኺ	ኻ	ኼ	ኽ	ኾ	
-ዀ	ዂ	ዃ	ዄ	ዅ	ወ	ዉ	ዊ	ዋ	ዌ	ው	ዎ	ዏ
-ዐ	ዑ	ዒ	ዓ	ዔ	ዕ	ዖ		ዘ	ዙ	ዚ	ዛ	ዜ	ዝ	ዞ	ዟ
-ዠ	ዡ	ዢ	ዣ	ዤ	ዥ	ዦ	ዧ	የ	ዩ	ዪ	ያ	ዬ	ይ	ዮ	ዯ
-ደ	ዱ	ዲ	ዳ	ዴ	ድ	ዶ	ዷ	ዸ	ዹ	ዺ	ዻ	ዼ	ዽ	ዾ	ዿ
-ጀ	ጁ	ጂ	ጃ	ጄ	ጅ	ጆ	ጇ	ገ	ጉ	ጊ	ጋ	ጌ	ግ	ጎ	ጏ
-ጐ	ጒ	ጓ	ጔ	ጕ	ጘ	ጙ	ጚ	ጛ	ጜ	ጝ	ጞ	ጟ
-ጠ	ጡ	ጢ	ጣ	ጤ	ጥ	ጦ	ጧ	ጨ	ጩ	ጪ	ጫ	ጬ	ጭ	ጮ	ጯ
-ጰ	ጱ	ጲ	ጳ	ጴ	ጵ	ጶ	ጷ	ጸ	ጹ	ጺ	ጻ	ጼ	ጽ	ጾ	ጿ
-ፀ	ፁ	ፂ	ፃ	ፄ	ፅ	ፆ	ፇ	ፈ	ፉ	ፊ	ፋ	ፌ	ፍ	ፎ	ፏ
-ፐ	ፑ	ፒ	ፓ	ፔ	ፕ	ፖ	ፗ	ፘ	ፙ	ፚ			፝	፞	፟
-፠	፡	።	፣	፤	፥	፦	፧	፨	፩	፪	፫	፬	፭	፮	፯
-፰	፱	፲	፳	፴	፵	፶	፷	፸	፹	፺	፻	፼		
 
-# Ethiopic Extended
-https://en.wikipedia.org/wiki/Ethiopic_Extended
-ⶀ	ⶁ	ⶂ	ⶃ	ⶄ	ⶅ	ⶆ	ⶇ	ⶈ	ⶉ	ⶊ	ⶋ	ⶌ	ⶍ	ⶎ	ⶏ
-ⶐ	ⶑ	ⶒ	ⶓ	ⶔ	ⶕ	ⶖ									
-ⶠ	ⶡ	ⶢ	ⶣ	ⶤ	ⶥ	ⶦ	ⶨ	ⶩ	ⶪ	ⶫ	ⶬ	ⶭ	ⶮ	
-ⶰ	ⶱ	ⶲ	ⶳ	ⶴ	ⶵ	ⶶ	ⶸ	ⶹ	ⶺ	ⶻ	ⶼ	ⶽ	ⶾ	
-ⷀ	ⷁ	ⷂ	ⷃ	ⷄ	ⷅ	ⷆ	ⷈ	ⷉ	ⷊ	ⷋ	ⷌ	ⷍ	ⷎ	
-ⷐ	ⷑ	ⷒ	ⷓ	ⷔ	ⷕ	ⷖ	ⷘ	ⷙ	ⷚ	ⷛ	ⷜ	ⷝ	ⷞ
-
-# Ethiopic Extended-A
-https://en.wikipedia.org/wiki/Ethiopic_Extended-A
-ꬁ	ꬂ	ꬃ	ꬄ	ꬅ	ꬆ	ꬉ	ꬊ	ꬋ	ꬌ	ꬍ	ꬎ	
-ꬑ	ꬒ	ꬓ	ꬔ	ꬕ	ꬖ									
-ꬠ	ꬡ	ꬢ	ꬣ	ꬤ	ꬥ	ꬦ	ꬨ	ꬩ	ꬪ	ꬫ	ꬬ	ꬭ	ꬮ
-
-# Ethiopic Supplement
-https://en.wikipedia.org/wiki/Ethiopic_Supplement
-ᎀ	ᎁ	ᎂ	ᎃ	ᎄ	ᎅ	ᎆ	ᎇ	ᎈ	ᎉ	ᎊ	ᎋ	ᎌ	ᎍ	ᎎ	ᎏ
-᎐	᎑	᎒	᎓	᎔	᎕	᎖	᎗	᎘	᎙
- 
-# Armenian
-https://en.wikipedia.org/wiki/Armenian_(Unicode_block)
-Ա	Բ	Գ	Դ	Ե	Զ	Է	Ը	Թ	Ժ	Ի	Լ	Խ	Ծ	Կ
-Հ	Ձ	Ղ	Ճ	Մ	Յ	Ն	Շ	Ո	Չ	Պ	Ջ	Ռ	Ս	Վ	Տ
-Ր	Ց	Ւ	Փ	Ք	Օ	Ֆ	ՙ	՚	՛	՜	՝	՞	՟
-ա	բ	գ	դ	ե	զ	է	ը	թ	ժ	ի	լ	խ	ծ	կ
-հ	ձ	ղ	ճ	մ	յ	ն	շ	ո	չ	պ	ջ	ռ	ս	վ	տ
-ր	ց	ւ	փ	ք	օ	ֆ	և	ֈ	։	֊	֍	֎	֏
 

@@ -39,6 +39,7 @@ https://en.wikipedia.org/wiki/Supplemental_Arrows-C
 
 ## Symbols and Arrows
 https://en.wikipedia.org/wiki/Miscellaneous_Symbols_and_Arrows
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Miscellaneous_Symbols_and_Arrows
 ⬀	⬁	⬂	⬃	⬄	⬅	⬆	⬇	⬈	⬉	⬊	⬋	⬌	⬍	⬎	⬏
 ⬐	⬑	⬒	⬓	⬔	⬕	⬖	⬗	⬘	⬙	⬚	⬛	⬜	⬝	⬞	⬟
 ⬠	⬡	⬢	⬣	⬤	⬥	⬦	⬧	⬨	⬩	⬪	⬫	⬬	⬭	⬮	⬯

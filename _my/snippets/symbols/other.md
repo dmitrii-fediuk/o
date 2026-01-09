@@ -526,6 +526,16 @@ https://en.wikipedia.org/wiki/Myanmar_Extended-B
 ꧠ	ꧡ	ꧢ	ꧣ	ꧤ	ꧥ	ꧦ	ꧧ	ꧨ	ꧩ	ꧪ	ꧫ	ꧬ	ꧭ	ꧮ	ꧯ
 ꧰	꧱	꧲	꧳	꧴	꧵	꧶	꧷	꧸	꧹	ꧺ	ꧻ	ꧼ	ꧽ	ꧾ
 
+# New Tai Lue
+https://en.wikipedia.org/wiki/New_Tai_Lue_(Unicode_block)
+ᦀ	ᦁ	ᦂ	ᦃ	ᦄ	ᦅ	ᦆ	ᦇ	ᦈ	ᦉ	ᦊ	ᦋ	ᦌ	ᦍ	ᦎ	ᦏ
+ᦐ	ᦑ	ᦒ	ᦓ	ᦔ	ᦕ	ᦖ	ᦗ	ᦘ	ᦙ	ᦚ	ᦛ	ᦜ	ᦝ	ᦞ	ᦟ
+ᦠ	ᦡ	ᦢ	ᦣ	ᦤ	ᦥ	ᦦ	ᦧ	ᦨ	ᦩ	ᦪ	ᦫ				
+ᦰ	ᦱ	ᦲ	ᦳ	ᦴ	ᦵ	ᦶ	ᦷ	ᦸ	ᦹ	ᦺ	ᦻ	ᦼ	ᦽ	ᦾ	ᦿ
+ᧀ	ᧁ	ᧂ	ᧃ	ᧄ	ᧅ	ᧆ	ᧇ	ᧈ	ᧉ						
+᧐	᧑	᧒	᧓	᧔	᧕	᧖	᧗	᧘	᧙	᧚	᧞	᧟
+
+
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812
 ᚠ ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ ᚫ ᚬ ᚭ ᚮ ᚯ ᚰ ᚱ ᚲ ᚳ ᚴ ᚵ ᚶ ᚷ ᚸ ᚹ ᚺ ᚻ ᚼ ᚽ ᚾ ᚿ ᛀ ᛁ ᛂ ᛃ ᛄ ᛅ ᛆ ᛇ ᛈ ᛉ ᛊ ᛋ ᛌ ᛍ ᛎ ᛏ ᛐ ᛑ 

@@ -132,7 +132,7 @@ https://en.wikipedia.org/wiki/Vertical_Forms
 
 # Technical
 https://en.wikipedia.org/wiki/Miscellaneous_Technical
-
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Miscellaneous_Technical
 ⌀	⌁	⌂	⌃	⌄	⌅	⌆	⌇	⌈	⌉	⌊	⌋	⌌	⌍	⌎	⌏
 ⌐	⌑	⌒	⌓	⌔	⌕	⌖	⌗	⌘	⌙	⌜	⌝	⌞	⌟
 ⌠	⌡	⌢	⌣	⌤	⌥	⌦	⌧	⌨	〈	〉	⌫	⌬	⌭	⌮	⌯

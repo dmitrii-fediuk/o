@@ -428,11 +428,13 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Lycian
 
 # Lydian
 https://en.wikipedia.org/wiki/Lydian_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Lydian
 𐤠	𐤡	𐤢	𐤣	𐤤	𐤥	𐤦	𐤧	𐤨	𐤩	𐤪	𐤫	𐤬	𐤭	𐤮	𐤯
 𐤰	𐤱	𐤲	𐤳	𐤴	𐤵	𐤶	𐤷	𐤸	𐤹	𐤿
 
 # Malayalam
 https://en.wikipedia.org/wiki/Malayalam_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Malayalam
 അ		ആ	ഇ	ഈ	ഉ	ഊ	ഋ	ഌ	എ	ഏ
 ഐ	ഒ	ഓ	ഔ	ക	ഖ	ഗ	ഘ	ങ	ച	ഛ	ജ	ഝ	ഞ	ട
 ഠ	ഡ	ഢ	ണ	ത	ഥ	ദ	ധ	ന	ഩ	പ	ഫ	ബ	ഭ	മ	യ

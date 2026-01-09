@@ -460,6 +460,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Meroitic_Cursive
 
 # Mongolian
 https://en.wikipedia.org/wiki/Mongolian_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Mongolian
 ᠀	᠁	᠂	᠃	᠄	᠅	᠆	᠇	᠈	᠉	᠊					
 ᠐	᠑	᠒	᠓	᠔	᠕	᠖	᠗	᠘	᠙						
 ᠠ	ᠡ	ᠢ	ᠣ	ᠤ	ᠥ	ᠦ	ᠧ	ᠨ	ᠩ	ᠪ	ᠫ	ᠬ	ᠭ	ᠮ	ᠯ

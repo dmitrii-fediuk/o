@@ -150,12 +150,6 @@ https://gemini.google.com/share/87d78c3112a1
 https://gemini.google.com/share/e44e172dbf3b
 ᨀ ᨁ ᨂ ᨃ ᨄ ᨅ ᨆ ᨇ ᨈ ᨉ ᨊ ᨋ ᨌ ᨍ ᨎ ᨏ ᨐ ᨑ ᨒ ᨓ ᨔ ᨕ ᨖ ◌ᨗ ◌ᨘ ᨙ◌ ◌ᨚ ◌ᨛ ᨞ ᨟
 
-# ༄
-https://gemini.google.com/share/b410042e2f78
-ༀ ༁ ༂ ༃ ༄ ༅ ༆ ༇ ༈ ༉ ༊ ་ ༌ ། ༎ ༏ ༐ ༑ ༒ ༓ ༔ ༕ ༖ ༗ ༘ ༙ ༚ ༛ ༜ ༝ ༞ ༟ ༠ ༡ ༢ ༣ ༤ ༥ ༦ ༧ ༨ ༩ ༪ ༫ ༬ ༭ ༮ ༯ ༰ ༱ ༲ ༳ ༴ ༵ 
-༶ ༷ ༸ ༹ ༺ ༻ ༼ ༽ ༾ ༿ ཀ ཁ ག གྷ ང ཅ ཆ ཇ ཉ ཊ ཋ ཌ ཌྷ ཎ ཏ ཐ ད དྷ ན པ ཕ བ བྷ མ ཙ ཚ ཛ ཛྷ ཝ ཞ ཟ འ ཡ ར ལ ཤ ཥ ས ཧ ཨ ཀྵ ཪ ཫ  ྅ ྆ ྇ ྈ ྉ 
-ྊ ྋ ྌ ྾ ྿ ࿀ ࿁ ࿂ ࿃ ࿄ ࿅ ࿆ ࿇ ࿈ ࿉ ࿊ ࿋ ࿌ ࿎ ࿏ ࿐ ࿑ ࿒ ࿓ ࿔  ࿙ ࿚
-
 # Armenian
 https://en.wikipedia.org/wiki/Armenian_(Unicode_block)
 Ա	Բ	Գ	Դ	Ե	Զ	Է	Ը	Թ	Ժ	Ի	Լ	Խ	Ծ	Կ
@@ -677,6 +671,20 @@ https://en.wikipedia.org/wiki/Thai_(Unicode_block)
 ะ	า	฿
 เ	แ	โ	ใ	ไ	ๅ	ๆ๏
 ๐	๑	๒	๓	๔	๕	๖	๗	๘	๙	๚	๛
+
+# Tibetan
+https://en.wikipedia.org/wiki/Tibetan_(Unicode_block)
+ༀ	༁	༂	༃	༄	༅	༆	༇	༈	༉	༊།	༎	༏													
+༐	༑	༒	༓	༔	༕	༖	༗	༘	༙	༚	༛	༜	༝	༞	༟
+༠	༡	༢	༣	༤	༥	༦	༧	༨	༩	༪	༫	༬	༭	༮	༯
+༰	༱	༲	༳	༴	༵	༶	༷	༸	༹	༺	༻	༼	༽	༾	༿
+ཀ	ཁ	ག	གྷ	ང	ཅ	ཆ	ཇ		ཉ	ཊ	ཋ	ཌ	ཌྷ	ཎ	ཏ
+ཐ	ད	དྷ	ན	པ	ཕ	བ	བྷ	མ	ཙ	ཚ	ཛ	ཛྷ	ཝ	ཞ	ཟ
+འ	ཡ	ར	ལ	ཤ	ཥ	ས	ཧ	ཨ	ཀྵ	ཪ	ཫ	ཬ			
+ཿ	ྈ	ྉ	ྊ	ྋ	ྌ	ྍ	ྎ	ྏ
+྾	྿	࿀	࿁	࿂	࿃	࿄	࿅	࿇	࿈	࿉	࿊	࿋	࿌	࿎	࿏
+࿐	࿑	࿒	࿓	࿔	࿙	࿚			
+
 
 # Ϯ
 https://gemini.google.com/share/e85e11e11e7c

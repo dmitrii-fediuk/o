@@ -152,12 +152,14 @@ UꚐ	ꚑ	Ꚓ	ꚓ	Ꚕ	ꚕ	Ꚗ	ꚗ	Ꚙ	ꚙ	Ꚛ	ꚛ	ꚜ	ꚝ	 ꚞ	 ꚟ
 
 ## Supplement
 https://en.wikipedia.org/wiki/Cyrillic_Supplement
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Cyrillic_Supplement
 Ԁ	ԁ	Ԃ	ԃ	Ԅ	ԅ	Ԇ	ԇ	Ԉ	ԉ	Ԋ	ԋ	Ԍ	ԍ	Ԏ	ԏ
 Ԑ	ԑ	Ԓ	ԓ	Ԕ	ԕ	Ԗ	ԗ	Ԙ	ԙ	Ԛ	ԛ	Ԝ	ԝ	Ԟ	ԟ
 Ԡ	ԡ	Ԣ	ԣ	Ԥ	ԥ	Ԧ	ԧ	Ԩ	ԩ	Ԫ	ԫ	Ԭ	ԭ	Ԯ	ԯ
 
 # Deseret
 https://en.wikipedia.org/wiki/Deseret_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Deseret
 𐐀	𐐁	𐐂	𐐃	𐐄	𐐅	𐐆	𐐇	𐐈	𐐉	𐐊	𐐋	𐐌	𐐍	𐐎	𐐏
 𐐐	𐐑	𐐒	𐐓	𐐔	𐐕	𐐖	𐐗	𐐘	𐐙	𐐚	𐐛	𐐜	𐐝	𐐞	𐐟
 𐐠	𐐡	𐐢	𐐣	𐐤	𐐥	𐐦	𐐧	𐐨	𐐩	𐐪	𐐫	𐐬	𐐭	𐐮	𐐯

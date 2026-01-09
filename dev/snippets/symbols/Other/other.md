@@ -116,6 +116,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Small_Form_Variants
 
 # Vertical_Forms
 https://en.wikipedia.org/wiki/Vertical_Forms
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Vertical_Forms
 ︐	︑	︒	︓	︔	︕	︖	︗	︘	︙
 
 # Technical

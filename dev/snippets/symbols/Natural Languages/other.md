@@ -304,7 +304,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Greek_Extended
 ῀	῁	ῂ	ῃ	ῄ	ῆ	ῇ	Ὲ	Έ	Ὴ	Ή	ῌ	῍	῎	῏
 ῐ	ῑ	ῒ	ΐ	ῖ	ῗ	Ῐ	Ῑ	Ὶ	Ί	῝	῞	῟
 ῠ	ῡ	ῢ	ΰ	ῤ	ῥ	ῦ	ῧ	Ῠ	Ῡ	Ὺ	Ύ	Ῥ	῭	΅	`
-ῲ	ῳ	ῴ		ῶ	ῷ	Ὸ	Ό	Ὼ	Ώ	ῼ	´	῾
+ῲ	ῳ	ῴ	ῶ	ῷ	Ὸ	Ό	Ὼ	Ώ	ῼ	´	῾
 
 # Gujarati
 https://en.wikipedia.org/wiki/Gujarati_(Unicode_block)

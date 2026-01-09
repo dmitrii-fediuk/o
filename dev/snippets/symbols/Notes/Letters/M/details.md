@@ -152,6 +152,11 @@ https://en.wikipedia.org/wiki/Runic_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Runic
 ᛖ	ᛗ
 
+# Unified Canadian Aboriginal Syllabics
+https://en.wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Unified_Canadian_Aboriginal_Syllabics
+ᗰ	ᗶ	ᗼ	ᘻ	ᙏ	ᙕ	ᙜ	ᙢ
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ

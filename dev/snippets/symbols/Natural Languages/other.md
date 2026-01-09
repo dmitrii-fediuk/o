@@ -318,6 +318,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Gujarati
 
 # Gurmukhi
 https://en.wikipedia.org/wiki/Gurmukhi_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Gurmukhi
 ਅ	ਆ	ਇ	ਈ	ਉ	ਊ ਏ
 ਐ	ਓ	ਔ	ਕ	ਖ	ਗ	ਘ	ਙ	ਚ	ਛ	ਜ	ਝ	ਞ	ਟ
 ਠ	ਡ	ਢ	ਣ	ਤ	ਥ	ਦ	ਧ	ਨ	ਪ	ਫ	ਬ	ਭ	ਮ	ਯ

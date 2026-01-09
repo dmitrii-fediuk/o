@@ -1,9 +1,9 @@
-# `ꑌ𐓩J`
-`ꑌ𐓩J` ≔ 
+# `ꑌℒJ`
+`ꑌℒJ` ≔ 
 ```markdown
 - Ⱳ Jargon 
 - Ⱳ Slang 
 ```
 
-# `ꑌ𐓩O`
-`ꑌ𐓩O` ≔ Ⱳ Wikipedia:Official_names∷⟨ official name ⟩
+# `ꑌℒO`
+`ꑌℒO` ≔ Ⱳ Wikipedia:Official_names∷⟨ official name ⟩

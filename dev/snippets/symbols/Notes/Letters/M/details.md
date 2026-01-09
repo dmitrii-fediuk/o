@@ -132,6 +132,11 @@ https://en.wikipedia.org/wiki/Old_Turkic_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Old_Turkic
 𐰡
 
+# Osmanya
+https://en.wikipedia.org/wiki/Osmanya_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Osmanya
+𐒄
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ

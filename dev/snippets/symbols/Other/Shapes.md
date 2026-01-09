@@ -6,6 +6,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Block_Elements
 
 # Box Drawing
 https://en.wikipedia.org/wiki/Box_Drawing
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Box_Drawing
 ─	━	│	┃	┄	┅	┆	┇	┈	┉	┊	┋
 ┐	┑	┒	┓	└	┕	┖	┗	┘	┙	┚	┛
 ┠	┡	┢	┣	┤	┥	┦	┧	┨	┩	┪	┫

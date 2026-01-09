@@ -37,6 +37,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Bopomofo
 
 ## Extended
 https://en.wikipedia.org/wiki/Bopomofo_Extended
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Bopomofo_Extended
 ㆠ	ㆡ	ㆢ	ㆣ	ㆤ	ㆥ	ㆦ	ㆧ	ㆨ	ㆩ	ㆪ	ㆫ	ㆬ	ㆭ	ㆮ	ㆯ
 ㆰ	ㆱ	ㆲ	ㆳ	ㆴ	ㆵ	ㆶ	ㆷ
 

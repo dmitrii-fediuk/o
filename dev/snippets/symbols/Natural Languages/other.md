@@ -96,6 +96,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Cherokee_Supplement
 
 # Coptic
 https://en.wikipedia.org/wiki/Coptic_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Coptic
 Ⲁ	ⲁ	Ⲃ	ⲃ	Ⲅ	ⲅ	Ⲇ	ⲇ	Ⲉ	ⲉ	Ⲋ	ⲋ	Ⲍ	ⲍ	Ⲏ	ⲏ
 Ⲑ	ⲑ	Ⲓ	ⲓ	Ⲕ	ⲕ	Ⲗ	ⲗ	Ⲙ	ⲙ	Ⲛ	ⲛ	Ⲝ	ⲝ	Ⲟ	ⲟ
 Ⲡ	ⲡ	Ⲣ	ⲣ	Ⲥ	ⲥ	Ⲧ	ⲧ	Ⲩ	ⲩ	Ⲫ	ⲫ	Ⲭ	ⲭ	Ⲯ	ⲯ

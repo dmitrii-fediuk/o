@@ -116,6 +116,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Cypriot_Syllabary
 
 # Cyrillic
 https://en.wikipedia.org/wiki/Cyrillic_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Cyrillic
 Ѐ	Ё	Ђ	Ѓ	Є	Ѕ	І	Ї	Ј	Љ	Њ	Ћ	Ќ	Ѝ	Ў	Џ
 А	Б	В	Г	Д	Е	Ж	З	И	Й	К	Л	М	Н	О	П
 Р	С	Т	У	Ф	Х	Ц	Ч	Ш	Щ	Ъ	Ы	Ь	Э	Ю	Я
@@ -135,6 +136,7 @@ https://en.wikipedia.org/wiki/Cyrillic_(Unicode_block)
 
 ## Extended-A
 https://en.wikipedia.org/wiki/Cyrillic_Extended-A
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Cyrillic_Extended-A
  ⷠ	 ⷡ	 ⷢ	 ⷣ	 ⷤ	 ⷥ	 ⷦ	 ⷧ	 ⷨ	 ⷩ	 ⷪ	 ⷫ	 ⷬ	 ⷭ	 ⷮ	 ⷯ
  ⷰ	 ⷱ	 ⷲ	 ⷳ	 ⷴ	 ⷵ	 ⷶ	 ⷷ	 ⷸ	 ⷹ	 ⷺ	 ⷻ	 ⷼ	 ⷽ	 ⷾ	 ⷿ
 

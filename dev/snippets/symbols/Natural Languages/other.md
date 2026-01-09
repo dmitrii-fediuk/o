@@ -77,6 +77,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Chakma
 # Cherokee
 ## Uppercase
 https://en.wikipedia.org/wiki/Cherokee_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Cherokee
 Ꭰ	Ꭱ	Ꭲ	Ꭳ	Ꭴ	Ꭵ	Ꭶ	Ꭷ	Ꭸ	Ꭹ	Ꭺ	Ꭻ	Ꭼ	Ꭽ	Ꭾ	Ꭿ
 Ꮀ	Ꮁ	Ꮂ	Ꮃ	Ꮄ	Ꮅ	Ꮆ	Ꮇ	Ꮈ	Ꮉ	Ꮊ	Ꮋ	Ꮌ	Ꮍ	Ꮎ	Ꮏ
 Ꮐ	Ꮑ	Ꮒ	Ꮓ	Ꮔ	Ꮕ	Ꮖ	Ꮗ	Ꮘ	Ꮙ	Ꮚ	Ꮛ	Ꮜ	Ꮝ	Ꮞ	Ꮟ
@@ -86,6 +87,7 @@ https://en.wikipedia.org/wiki/Cherokee_(Unicode_block)
 
 ## Lowercase
 https://en.wikipedia.org/wiki/Cherokee_Supplement
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Cherokee_Supplement
 ꭰ	ꭱ	ꭲ	ꭳ	ꭴ	ꭵ	ꭶ	ꭷ	ꭸ	ꭹ	ꭺ	ꭻ	ꭼ	ꭽ	ꭾ	ꭿ
 ꮀ	ꮁ	ꮂ	ꮃ	ꮄ	ꮅ	ꮆ	ꮇ	ꮈ	ꮉ	ꮊ	ꮋ	ꮌ	ꮍ	ꮎ	ꮏ
 ꮐ	ꮑ	ꮒ	ꮓ	ꮔ	ꮕ	ꮖ	ꮗ	ꮘ	ꮙ	ꮚ	ꮛ	ꮜ	ꮝ	ꮞ	ꮟ

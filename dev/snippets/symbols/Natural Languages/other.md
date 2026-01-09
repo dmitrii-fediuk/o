@@ -690,6 +690,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Telugu
 
 # Thaana
 https://en.wikipedia.org/wiki/Thaana_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Thaana
 ހ	ށ	ނ	ރ	ބ	ޅ	ކ	އ	ވ	މ	ފ	ދ	ތ	ލ	ގ	ޏ
 ސ	ޑ	ޒ	ޓ	ޔ	ޕ	ޖ	ޗ	ޘ	ޙ	ޚ	ޛ	ޜ	ޝ	ޞ	ޟ
 ޠ	ޡ	ޢ	ޣ	ޤ	ޥ	ަ	ާ	ި	ީ	ު	ޫ	ެ	ޭ	ޮ	ޯ

@@ -685,6 +685,13 @@ https://en.wikipedia.org/wiki/Tibetan_(Unicode_block)
 ྾	྿	࿀	࿁	࿂	࿃	࿄	࿅	࿇	࿈	࿉	࿊	࿋	࿌	࿎	࿏
 ࿐	࿑	࿒	࿓	࿔	࿙	࿚			
 
+# Tifinagh
+https://en.wikipedia.org/wiki/Tifinagh_(Unicode_block)
+ⴰ	ⴱ	ⴲ	ⴳ	ⴴ	ⴵ	ⴶ	ⴷ	ⴸ	ⴹ	ⴺ	ⴻ	ⴼ	ⴽ	ⴾ	ⴿ
+ⵀ	ⵁ	ⵂ	ⵃ	ⵄ	ⵅ	ⵆ	ⵇ	ⵈ	ⵉ	ⵊ	ⵋ	ⵌ	ⵍ	ⵎ	ⵏ
+ⵐ	ⵑ	ⵒ	ⵓ	ⵔ	ⵕ	ⵖ	ⵗ	ⵘ	ⵙ	ⵚ	ⵛ	ⵜ	ⵝ	ⵞ	ⵟ
+ⵠ	ⵡ	ⵢ	ⵣ	ⵤ	ⵥ	ⵦ	ⵧ								ⵯ
+⵰
 
 # Ϯ
 https://gemini.google.com/share/e85e11e11e7c
@@ -717,12 +724,6 @@ https://gemini.google.com/share/35a1642563b2
 https://gemini.google.com/share/b9d07b8c805f
 А Б В Г Д Е Ж Ѕ Ꙃ З И І К Л М Н О П Р С Т ОУ Ꙋ Ф Х Ѡ Ѿ Ц Ч Ш Щ Ъ Ꙑ Ь Ѣ 
 Ꙗ Ѥ Ю Ѧ Ѩ Ѫ Ѭ Ѯ Ѱ Ѳ Ѵ Ҁ Ꙇ Ꙉ Ꙍ Ꙏ Ꙓ Ꙕ Ꙙ Ꙛ Ꙝ Ꙡ Ꙣ Ꙥ Ꙧ Ꙩ Ꙫ Ꙭ ꙮ ꙳ ҂ ҃ ҇
-
-# Языки Африки с нелатинским письмом
-https://gemini.google.com/share/fb5fd707582f
-## Тифинаг
-ⴰ ⴱ ⴲ ⴳ ⴴ ⴵ ⴶ ⴷ ⴸ ⴹ ⴺ ⴻ ⴼ ⴽ ⴾ ⴿ ⵀ ⵁ ⵂ ⵃ ⵄ ⵅ ⵆ ⵇ ⵈ ⵉ ⵊ ⵋ ⵌ ⵍ ⵎ ⵏ ⵐ ⵑ ⵒ ⵓ ⵔ ⵕ ⵖ ⵗ ⵘ 
-ⵙ ⵚ ⵛ ⵜ ⵝ ⵞ ⵟ ⵠ ⵡ ⵢ ⵣ ⵤ ⵥ ⵦ ⵧ ⵯ ⵰ 
 
 ## Фула (Адлам)
 https://en.wikipedia.org/wiki/Adlam_(Unicode_block)

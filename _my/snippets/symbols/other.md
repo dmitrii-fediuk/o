@@ -19,11 +19,11 @@ https://en.wikipedia.org/wiki/Arrows_(Unicode_block)
 ⇠	⇡	⇢	⇣	⇤	⇥	⇦	⇧	⇨	⇩	⇪	⇫	⇬	⇭	⇮	⇯
 ⇰	⇱	⇲	⇳	⇴	⇵	⇶	⇷	⇸	⇹	⇺	⇻	⇼	⇽	⇾	⇿
 
-# Supplemental Arrows-A
+## Supplemental A
 https://en.wikipedia.org/wiki/Supplemental_Arrows-A
 ⟰	⟱	⟲	⟳	⟴	⟵	⟶	⟷	⟸	⟹	⟺	⟻	⟼	⟽	⟾	⟿
 
-# Supplemental Arrows-B
+## Supplemental B
 https://en.wikipedia.org/wiki/Supplemental_Arrows-B
 ⤀	⤁	⤂	⤃	⤄	⤅	⤆	⤇	⤈	⤉	⤊	⤋	⤌	⤍	⤎	⤏
 ⤐	⤑	⤒	⤓	⤔	⤕	⤖	⤗	⤘	⤙	⤚	⤛	⤜	⤝	⤞	⤟
@@ -34,7 +34,7 @@ https://en.wikipedia.org/wiki/Supplemental_Arrows-B
 ⥠	⥡	⥢	⥣	⥤	⥥	⥦	⥧	⥨	⥩	⥪	⥫	⥬	⥭	⥮	⥯
 ⥰	⥱	⥲	⥳	⥴	⥵	⥶	⥷	⥸	⥹	⥺	⥻	⥼	⥽	⥾	⥿
 
-# Supplemental Arrows-C
+## Supplemental C
 https://en.wikipedia.org/wiki/Supplemental_Arrows-C
 🠐	🠑	🠒	🠓	🠔	🠕	🠖	🠗	🠘	🠙	🠚	🠛
 🠠	🠡	🠢	🠣	🠤	🠥	🠦	🠧	🠨	🠩	🠪	🠫
@@ -47,7 +47,7 @@ https://en.wikipedia.org/wiki/Supplemental_Arrows-C
 🢐	🢑	🢒	🢓	🢔	🢕	🢖	🢗	🢘	🢙	🢚	🢛
 🢠	🢡	🢢	🢣	🢤	🢥	🢦	🢧	🢨	🢩	🢪	🢫
 
-# Symbols and Arrows
+## Symbols and Arrows
 https://en.wikipedia.org/wiki/Miscellaneous_Symbols_and_Arrows
 ⬀	⬁	⬂	⬃	⬄	⬅	⬆	⬇	⬈	⬉	⬊	⬋	⬌	⬍	⬎	⬏
 ⬐	⬑	⬒	⬓	⬔	⬕	⬖	⬗	⬘	⬙	⬚	⬛	⬜	⬝	⬞	⬟
@@ -154,18 +154,27 @@ https://en.wikipedia.org/wiki/Phonetic_Extensions_Supplement
 ᶠ	ᶡ	ᶢ	ᶣ	ᶤ	ᶥ	ᶦ	ᶧ	ᶨ	ᶩ	ᶪ	ᶫ	ᶬ	ᶭ	ᶮ	ᶯ
 ᶰ	ᶱ	ᶲ	ᶳ	ᶴ	ᶵ	ᶶ	ᶷ	ᶸ	ᶹ	ᶺ	ᶻ	ᶼ	ᶽ	ᶾ	ᶿ
 
-# Small Form Variants
-https://en.wikipedia.org/wiki/Small_Form_Variants
-﹐	﹑	﹒		﹔	﹕	﹖	﹗	﹘	﹙	﹚	﹛	﹜	﹝	﹞	﹟
-﹠	﹡	﹢	﹣	﹤	﹥	﹦	﹨	﹩	﹪	﹫
+# Punctuation
+## General
+https://en.wikipedia.org/wiki/General_Punctuation
+‖	‗	‘	’	‚	‛	“	”	„	‟
+†	‡	•	‣	․	‥	…	‧	L
+‰	‱	′	″	‴	‵	‶	‷	‸	‹	›	※	‼	‽	‾	‿
+⁀	⁁	⁂	⁃	⁄	⁅	⁆	⁇	⁈	⁉	⁊	⁋	⁌	⁍	⁎	⁏
+⁐	⁑	⁒	⁓	⁔	⁕	⁖	⁗	⁘	⁙	⁚	⁛	⁜	⁝	⁞
 
-# Supplemental Punctuation
+## Supplemental
 https://en.wikipedia.org/wiki/Supplemental_Punctuation
 ⸀	⸁	⸂	⸃	⸄	⸅	⸆	⸇	⸈	⸉	⸊	⸋	⸌	⸍	⸎	⸏
 ⸐	⸑	⸒	⸓	⸔	⸕	⸖	⸗	⸘	⸙	⸚	⸛	⸜	⸝	⸞	⸟
 ⸠	⸡	⸢	⸣	⸤	⸥	⸦	⸧	⸨	⸩	⸪	⸫	⸬	⸭	⸮	ⸯ
 ⸰	⸱	⸲	⸳	⸴	⸵	⸶	⸷	⸸	⸹	⸼	⸽	⸾	⸿
 ⹀	⹁	⹂	⹃	⹄
+
+# Small Form Variants
+https://en.wikipedia.org/wiki/Small_Form_Variants
+﹐	﹑	﹒		﹔	﹕	﹖	﹗	﹘	﹙	﹚	﹛	﹜	﹝	﹞	﹟
+﹠	﹡	﹢	﹣	﹤	﹥	﹦	﹨	﹩	﹪	﹫
 
 # Vertical_Forms
 https://en.wikipedia.org/wiki/Vertical_Forms

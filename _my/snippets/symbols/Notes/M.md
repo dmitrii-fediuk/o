@@ -24,3 +24,32 @@ https://en.wikipedia.org/wiki/Latin_Extended_Additional
 # Latin Extended-C
 https://en.wikipedia.org/wiki/Latin_Extended-C
 Ɱ
+
+# Adlam
+https://en.wikipedia.org/wiki/Adlam_(Unicode_block)
+𞤶
+
+# Cherokee
+https://en.wikipedia.org/wiki/Cherokee_(Unicode_block)
+Ꮇ
+
+# Coptic
+https://en.wikipedia.org/wiki/Coptic_(Unicode_block)
+Ⲙ
+
+# Cyrillic
+https://en.wikipedia.org/wiki/Cyrillic_(Unicode_block)
+М	Ӎ 
+
+## Extended-B
+https://en.wikipedia.org/wiki/Cyrillic_Extended-B
+Ꙧ
+
+# Ethiopic
+https://en.wikipedia.org/wiki/Ethiopic_(Unicode_block)
+ጠ	ጡ	ጢ	ጣ	ጤ	ጥ	ጦ	ጧ
+
+
+
+
+

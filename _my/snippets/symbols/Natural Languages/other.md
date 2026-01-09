@@ -162,14 +162,6 @@ https://en.wikipedia.org/wiki/Ethiopic_Supplement
 ᎀ	ᎁ	ᎂ	ᎃ	ᎄ	ᎅ	ᎆ	ᎇ	ᎈ	ᎉ	ᎊ	ᎋ	ᎌ	ᎍ	ᎎ	ᎏ
 ᎐	᎑	᎒	᎓	᎔	᎕	᎖	᎗	᎘	᎙
 
-# General Punctuation
-https://en.wikipedia.org/wiki/General_Punctuation
-‖	‗	‘	’	‚	‛	“	”	„	‟
-†	‡	•	‣	․	‥	…	‧	L
-‰	‱	′	″	‴	‵	‶	‷	‸	‹	›	※	‼	‽	‾	‿
-⁀	⁁	⁂	⁃	⁄	⁅	⁆	⁇	⁈	⁉	⁊	⁋	⁌	⁍	⁎	⁏
-⁐	⁑	⁒	⁓	⁔	⁕	⁖	⁗	⁘	⁙	⁚	⁛	⁜	⁝	⁞
-
 # Geometric Shapes
 https://en.wikipedia.org/wiki/Geometric_Shapes_(Unicode_block)
 ■	□	▢	▣	▤	▥	▦	▧	▨	▩	▪	▫	▬	▭	▮	▯

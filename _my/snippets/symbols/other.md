@@ -516,6 +516,15 @@ https://en.wikipedia.org/wiki/Myanmar_(Unicode_block)
 ႀ	ႁ	ႎ
 ႐	႑	႒	႓	႔	႕	႖	႗	႘	႙	႞	႟
 
+## Extended A
+https://en.wikipedia.org/wiki/Myanmar_Extended-A
+ꩠ	ꩡ	ꩢ	ꩣ	ꩤ	ꩥ	ꩦ	ꩧ	ꩨ	ꩩ	ꩪ	ꩫ	ꩬ	ꩭ	ꩮ	ꩯ
+ꩰ	ꩱ	ꩲ	ꩳ	ꩴ	ꩵ	ꩶ	꩷	꩸	꩹	ꩺ	ꩾ	ꩿ
+
+## Extended B
+https://en.wikipedia.org/wiki/Myanmar_Extended-B
+ꧠ	ꧡ	ꧢ	ꧣ	ꧤ	ꧥ	ꧦ	ꧧ	ꧨ	ꧩ	ꧪ	ꧫ	ꧬ	ꧭ	ꧮ	ꧯ
+꧰	꧱	꧲	꧳	꧴	꧵	꧶	꧷	꧸	꧹	ꧺ	ꧻ	ꧼ	ꧽ	ꧾ
 
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812

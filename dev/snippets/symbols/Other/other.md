@@ -114,6 +114,11 @@ https://en.wikipedia.org/wiki/Phonetic_Extensions_Supplement
 ᶠ	ᶡ	ᶢ	ᶣ	ᶤ	ᶥ	ᶦ	ᶧ	ᶨ	ᶩ	ᶪ	ᶫ	ᶬ	ᶭ	ᶮ	ᶯ
 ᶰ	ᶱ	ᶲ	ᶳ	ᶴ	ᶵ	ᶶ	ᶷ	ᶸ	ᶹ	ᶺ	ᶻ	ᶼ	ᶽ	ᶾ	ᶿ
 
+# Optical_Character_Recognition
+https://en.wikipedia.org/wiki/Optical_Character_Recognition_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Optical_Character_Recognition
+⑀	⑁	⑂	⑃	⑄	⑅	⑆	⑇	⑈	⑉	⑊
+
 # Pictographs
 https://en.wikipedia.org/wiki/Miscellaneous_Symbols_and_Pictographs
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Miscellaneous_Symbols_and_Pictographs

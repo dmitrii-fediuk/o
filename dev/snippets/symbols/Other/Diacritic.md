@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Modifier_Tone_Letters
 
 # Spacing Modifier Letters
 https://en.wikipedia.org/wiki/Spacing_Modifier_Letters
-
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Spacing_Modifier_Letters
 ʰ	ʱ	ʲ	ʳ	ʴ	ʵ	ʶ	ʷ	ʸ	ʹ	ʺ	ʻ	ʼ	ʽ	ʾ	ʿ
 ˀ	ˁ	˂	˃	˄	˅	ˆ	ˇ	ˈ	ˉ	ˊ	ˋ	ˌ	ˍ	ˎ	ˏ
 ː	ˑ	˒	˓	˔	˕	˖	˗	˘	˙	˚	˛	˜	˝	˞	˟

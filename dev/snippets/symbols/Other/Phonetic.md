@@ -27,3 +27,4 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Phonetic_Extensions_Supplem
 ᶐ	ᶑ	ᶒ	ᶓ	ᶔ	ᶕ	ᶖ	ᶗ	ᶘ	ᶙ	ᶚ	ᶛ	ᶜ	ᶝ	ᶞ	ᶟ
 ᶠ	ᶡ	ᶢ	ᶣ	ᶤ	ᶥ	ᶦ	ᶧ	ᶨ	ᶩ	ᶪ	ᶫ	ᶬ	ᶭ	ᶮ	ᶯ
 ᶰ	ᶱ	ᶲ	ᶳ	ᶴ	ᶵ	ᶶ	ᶷ	ᶸ	ᶹ	ᶺ	ᶻ	ᶼ	ᶽ	ᶾ	ᶿ
+

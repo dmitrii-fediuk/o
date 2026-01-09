@@ -306,6 +306,16 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Greek_Extended
 ῠ	ῡ	ῢ	ΰ	ῤ	ῥ	ῦ	ῧ	Ῠ	Ῡ	Ὺ	Ύ	Ῥ	῭	΅	`
 ῲ	ῳ	ῴ		ῶ	ῷ	Ὸ	Ό	Ὼ	Ώ	ῼ	´	῾
 
+# Gujarati
+https://en.wikipedia.org/wiki/Gujarati_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Gujarati
+અ	આ	ઇ	ઈ	ઉ	ઊ	ઋ	ઌ	ઍ	એ
+ઐ	ઑ	ઓ	ઔ	ક	ખ	ગ	ઘ	ઙ	ચ	છ	જ	ઝ	ઞ	ટ
+ઠ	ડ	ઢ	ણ	ત	થ	દ	ધ	ન	પ	ફ	બ	ભ	મ	ય
+ર	લ	ળ	વ	શ	ષ	સ	હ	ઽ
+ૐ	ૠ	ૡ	૦	૧	૨	૩	૪	૫	૬	૭	૮	૯
+૰	૱	ૹ
+
 # Gurmukhi
 https://en.wikipedia.org/wiki/Gurmukhi_(Unicode_block)
 ਅ	ਆ	ਇ	ਈ	ਉ	ਊ ਏ

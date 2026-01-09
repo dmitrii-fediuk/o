@@ -16,6 +16,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Dingbats
 
 # Ornamental
 https://en.wikipedia.org/wiki/Ornamental_Dingbats
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Ornamental_Dingbats
 🙐	🙑	🙒	🙓	🙔	🙕	🙖	🙗	🙘	🙙	🙚	🙛	🙜	🙝	🙞	🙟
 🙠	🙡	🙢	🙣	🙤	🙥	🙦	🙧	🙨	🙩	🙪	🙫	🙬	🙭	🙮	🙯
 🙰	🙱	🙲	🙳	🙴	🙵	🙶	🙷	🙸	🙹	🙺	🙻	🙼	🙽	🙾	🙿

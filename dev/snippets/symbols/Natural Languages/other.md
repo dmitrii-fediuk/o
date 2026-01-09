@@ -177,6 +177,11 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Devanagari
 ॠ	ॡ	।	॥	०	१	२	३	४	५	६	७	८	९
 ॰	ॱ	ॲ	ॳ	ॴ	ॵ	ॶ	ॷ	ॸ	ॹ	ॺ	ॻ	ॼ	ॽ	ॾ	ॿ
 
+## Extended
+https://en.wikipedia.org/wiki/Devanagari_Extended
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Devanagari_Extended
+ꣲ	ꣳ	ꣴ	ꣵ	ꣶ	ꣷ	꣸	꣹	꣺	ꣻ	꣼	ꣽ	ꣾ
+
 # Ethiopic
 https://en.wikipedia.org/wiki/Ethiopic_(Unicode_block)
 ሀ	ሁ	ሂ	ሃ	ሄ	ህ	ሆ	ሇ	ለ	ሉ	ሊ	ላ	ሌ	ል	ሎ	ሏ

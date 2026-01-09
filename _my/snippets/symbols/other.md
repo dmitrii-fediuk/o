@@ -653,6 +653,15 @@ https://en.wikipedia.org/wiki/Taixuanjing#Unicode
 𝍀	𝍁	𝍂	𝍃	𝍄	𝍅	𝍆	𝍇	𝍈	𝍉	𝍊	𝍋	𝍌	𝍍	𝍎	𝍏
 𝍐	𝍑	𝍒	𝍓	𝍔	𝍕	𝍖
 
+https://en.wikipedia.org/wiki/Telugu_(Unicode_block)
+అ	ఆ	ఇ	ఈ	ఉ	ఊ	ఋ	ఌ	ఎ	ఏ
+ఐ	ఒ	ఓ	ఔ	క	ఖ	గ	ఘ	ఙ	చ	ఛ	జ	ఝ	ఞ	ట
+ఠ	డ	ఢ	ణ	త	థ	ద	ధ	న	ప	ఫ	బ	భ	మ	య
+ర	ఱ	ల	ళ	ఴ	వ	శ	ష	స	హ	ఽ
+ౘ	ౙ	ౚ		
+ౠ	ౡ	౦	౧	౨	౩	౪	౫	౬	౭	౮	౯
+౹	౺	౻	౼	౽	౾	౿
+
 # Ϯ
 https://gemini.google.com/share/e85e11e11e7c
 Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ Ⲕ Ⲗ Ⲙ Ⲛ Ⲝ Ⲟ Ⲡ Ⲣ Ⲥ Ⲧ Ⲩ Ⲫ Ⲭ Ⲯ Ⲱ Ϣ Ϥ Ϧ Ϩ Ϫ Ϭ Ϯ

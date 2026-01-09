@@ -1,5 +1,6 @@
 # Alchemical Symbols
 https://en.wikipedia.org/wiki/Alchemical_Symbols_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Alchemical_Symbols
 🜀	🜁	🜂	🜃	🜄	🜅	🜆	🜇	🜈	🜉	🜊	🜋	🜌	🜍	🜎	🜏
 🜐	🜑	🜒	🜓	🜔	🜕	🜖	🜗	🜘	🜙	🜚	🜛	🜜	🜝	🜞	🜟
 🜠	🜡	🜢	🜣	🜤	🜥	🜦	🜧	🜨	🜩	🜪	🜫	🜬	🜭	🜮	🜯

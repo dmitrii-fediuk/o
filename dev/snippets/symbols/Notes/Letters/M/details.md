@@ -192,6 +192,11 @@ https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols#Greek_letters_an
 # Mathematical_Alphanumeric_Symbols#Glyph_variants
 ℳ	ℳ︀	ℳ︁
 
+# Halfwidth and Fullwidth Forms
+https://en.wikipedia.org/wiki/Halfwidth_and_Fullwidth_Forms_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Halfwidth_and_Fullwidth_Forms
+Ｍ
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ

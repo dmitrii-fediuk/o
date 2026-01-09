@@ -719,6 +719,13 @@ https://en.wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics_Extended
 ᣠ	ᣡ	ᣢ	ᣣ	ᣤ	ᣥ	ᣦ	ᣧ	ᣨ	ᣩ	ᣪ	ᣫ	ᣬ	ᣭ	ᣮ	ᣯ
 ᣰ	ᣱ	ᣲ	ᣳ	ᣴ	ᣵ
 
+# Yijing Hexagram Symbols
+https://en.wikipedia.org/wiki/Yijing_Hexagram_Symbols
+䷀	䷁	䷂	䷃	䷄	䷅	䷆	䷇	䷈	䷉	䷊	䷋	䷌	䷍	䷎	䷏
+䷐	䷑	䷒	䷓	䷔	䷕	䷖	䷗	䷘	䷙	䷚	䷛	䷜	䷝	䷞	䷟
+䷠	䷡	䷢	䷣	䷤	䷥	䷦	䷧	䷨	䷩	䷪	䷫	䷬	䷭	䷮	䷯
+䷰	䷱	䷲	䷳	䷴	䷵	䷶	䷷	䷸	䷹	䷺	䷻	䷼	䷽	䷾	䷿
+
 # Ϯ
 https://gemini.google.com/share/e85e11e11e7c
 Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ Ⲕ Ⲗ Ⲙ Ⲛ Ⲝ Ⲟ Ⲡ Ⲣ Ⲥ Ⲧ Ⲩ Ⲫ Ⲭ Ⲯ Ⲱ Ϣ Ϥ Ϧ Ϩ Ϫ Ϭ Ϯ

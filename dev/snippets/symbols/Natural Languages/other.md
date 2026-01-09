@@ -288,6 +288,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Greek_and_Coptic
 
 # Greek Extended
 https://en.wikipedia.org/wiki/Greek_Extended
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Greek_Extended
 ἀ	ἁ	ἂ	ἃ	ἄ	ἅ	ἆ	ἇ	Ἀ	Ἁ	Ἂ	Ἃ	Ἄ	Ἅ	Ἆ	Ἇ
 ἐ	ἑ	ἒ	ἓ	ἔ	ἕ	Ἐ	Ἑ	Ἒ	Ἓ	Ἔ	Ἕ		
 ἠ	ἡ	ἢ	ἣ	ἤ	ἥ	ἦ	ἧ	Ἠ	Ἡ	Ἢ	Ἣ	Ἤ	Ἥ	Ἦ	Ἧ

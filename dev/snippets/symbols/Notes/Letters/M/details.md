@@ -137,6 +137,11 @@ https://en.wikipedia.org/wiki/Osmanya_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Osmanya
 𐒄
 
+# Phags-pa
+https://en.wikipedia.org/wiki/Phags-pa_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Phags-pa
+ꡕ
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ

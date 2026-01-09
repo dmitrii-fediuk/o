@@ -259,6 +259,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Georgian_Supplement
 
 # Glagolitic
 https://en.wikipedia.org/wiki/Glagolitic_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Glagolitic 
 Ⰰ	Ⰱ	Ⰲ	Ⰳ	Ⰴ	Ⰵ	Ⰶ	Ⰷ	Ⰸ	Ⰹ	Ⰺ	Ⰻ	Ⰼ	Ⰽ	Ⰾ	Ⰿ
 Ⱀ	Ⱁ	Ⱂ	Ⱃ	Ⱄ	Ⱅ	Ⱆ	Ⱇ	Ⱈ	Ⱉ	Ⱊ	Ⱋ	Ⱌ	Ⱍ	Ⱎ	Ⱏ
 Ⱐ	Ⱑ	Ⱒ	Ⱓ	Ⱔ	Ⱕ	Ⱖ	Ⱗ	Ⱘ	Ⱙ	Ⱚ	Ⱛ	Ⱜ	Ⱝ	Ⱞ	Ⱟ

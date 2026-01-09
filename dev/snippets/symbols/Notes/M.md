@@ -117,7 +117,10 @@ https://en.wikipedia.org/wiki/Ol_Chiki_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Ol_Chiki
 ᱬ
 
-
+# Old Italic
+https://en.wikipedia.org/wiki/Old_Italic_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Old_Italic
+𐌑
 
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols

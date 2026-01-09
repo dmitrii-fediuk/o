@@ -573,6 +573,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Oriya
 
 # Osage
 https://en.wikipedia.org/wiki/Osage_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Osage
 ## Uppercase
 𐒰	𐒱	𐒲	𐒳	𐒴	𐒵	𐒶	𐒷	𐒸	𐒹	𐒺	𐒻	𐒼	𐒽	𐒾	𐒿
 𐓀	𐓁	𐓂	𐓃	𐓄	𐓅	𐓆	𐓇	𐓈	𐓉	𐓊	𐓋	𐓌	𐓍	𐓎	𐓏

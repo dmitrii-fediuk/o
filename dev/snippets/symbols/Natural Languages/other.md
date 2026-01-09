@@ -348,7 +348,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Hiragana
 https://en.wikipedia.org/wiki/Imperial_Aramaic_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Imperial_Aramaic
 𐡀	𐡁	𐡂	𐡃	𐡄	𐡅	𐡆	𐡇	𐡈	𐡉	𐡊	𐡋	𐡌	𐡍	𐡎	𐡏
-𐡐	𐡑	𐡒	𐡓	𐡔	𐡕		𐡗	𐡘	𐡙	𐡚	𐡛	𐡜	𐡝	𐡞	𐡟
+𐡐	𐡑	𐡒	𐡓	𐡔	𐡕	𐡗	𐡘	𐡙	𐡚	𐡛	𐡜	𐡝	𐡞	𐡟
 
 # Inscriptional Pahlavi
 https://en.wikipedia.org/wiki/Inscriptional_Pahlavi_(Unicode_block)

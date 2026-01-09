@@ -30,6 +30,7 @@ https://en.wikipedia.org/wiki/Latin_Extended_Additional
 
 # Latin Extended-A
 https://en.wikipedia.org/wiki/Latin_Extended-A
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Latin_Extended-A
 Ā	ā	Ă	ă	Ą	ą	
 Ć	ć	Ĉ	ĉ	Ċ	ċ	Č	č	
 Ď	ď 	Đ	đ	

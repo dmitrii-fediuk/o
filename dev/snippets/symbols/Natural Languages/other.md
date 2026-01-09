@@ -454,6 +454,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Meetei_Mayek
 
 # Meroitic Cursive
 https://en.wikipedia.org/wiki/Meroitic_Cursive_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Meroitic_Cursive
 𐦠	𐦡	𐦢	𐦣	𐦤	𐦥	𐦦	𐦧	𐦨	𐦩	𐦪	𐦫	𐦬	𐦭	𐦮	𐦯
 𐦰	𐦱	𐦲	𐦳	𐦴	𐦵	𐦶	𐦷	𐦾	𐦿
 

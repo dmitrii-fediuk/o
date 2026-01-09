@@ -1,5 +1,6 @@
 # Adlam
 https://en.wikipedia.org/wiki/Adlam_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Adlam
 𞤀	𞤁	𞤂	𞤃	𞤄	𞤅	𞤆	𞤇	𞤈	𞤉	𞤊	𞤋	𞤌	𞤍	𞤎	𞤏
 𞤐	𞤑	𞤒	𞤓	𞤔	𞤕	𞤖	𞤗	𞤘	𞤙	𞤚	𞤛	𞤜	𞤝	𞤞	𞤟
 𞤠	𞤡	𞤢	𞤣	𞤤	𞤥	𞤦	𞤧	𞤨	𞤩	𞤪	𞤫	𞤬	𞤭	𞤮	𞤯

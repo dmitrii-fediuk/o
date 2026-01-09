@@ -669,6 +669,15 @@ https://en.wikipedia.org/wiki/Thaana_(Unicode_block)
 ޠ	ޡ	ޢ	ޣ	ޤ	ޥ	ަ	ާ	ި	ީ	ު	ޫ	ެ	ޭ	ޮ	ޯ
 ް	ޱ
 
+# Thai
+https://en.wikipedia.org/wiki/Thai_(Unicode_block)
+ก	ข	ฃ	ค	ฅ	ฆ	ง	จ	ฉ	ช	ซ	ฌ	ญ	ฎ	ฏ
+ฐ	ฑ	ฒ	ณ	ด	ต	ถ	ท	ธ	น	บ	ป	ผ	ฝ	พ	ฟ
+ภ	ม	ย	ร	ฤ	ล	ฦ	ว	ศ	ษ	ส	ห	ฬ	อ	ฮ	ฯ
+ะ	า	฿
+เ	แ	โ	ใ	ไ	ๅ	ๆ๏
+๐	๑	๒	๓	๔	๕	๖	๗	๘	๙	๚	๛
+
 # Ϯ
 https://gemini.google.com/share/e85e11e11e7c
 Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ Ⲕ Ⲗ Ⲙ Ⲛ Ⲝ Ⲟ Ⲡ Ⲣ Ⲥ Ⲧ Ⲩ Ⲫ Ⲭ Ⲯ Ⲱ Ϣ Ϥ Ϧ Ϩ Ϫ Ϭ Ϯ

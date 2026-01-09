@@ -8,6 +8,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Yi_Radicals
 
 # Syllables
 https://en.wikipedia.org/wiki/Yi_Syllables
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Yi_Syllables
 ꀀ	ꀁ	ꀂ	ꀃ	ꀄ	ꀅ	ꀆ	ꀇ	ꀈ	ꀉ	ꀊ	ꀋ	ꀌ	ꀍ	ꀎ	ꀏ
 ꀐ	ꀑ	ꀒ	ꀓ	ꀔ	ꀕ	ꀖ	ꀗ	ꀘ	ꀙ	ꀚ	ꀛ	ꀜ	ꀝ	ꀞ	ꀟ
 ꀠ	ꀡ	ꀢ	ꀣ	ꀤ	ꀥ	ꀦ	ꀧ	ꀨ	ꀩ	ꀪ	ꀫ	ꀬ	ꀭ	ꀮ	ꀯ

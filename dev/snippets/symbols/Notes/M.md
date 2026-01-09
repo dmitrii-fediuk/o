@@ -62,6 +62,11 @@ https://en.wikipedia.org/wiki/Gujarati_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Gujarati
 ઌ
 
+# Gurmukhi
+https://en.wikipedia.org/wiki/Gurmukhi_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Gurmukhi
+ਅ	ਆ	ਐ	ਔ
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ

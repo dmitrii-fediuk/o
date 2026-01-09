@@ -1,3 +1,9 @@
+# Modifier Tone Letters
+https://en.wikipedia.org/wiki/Modifier_Tone_Letters
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Modifier_Tone_Letters
+꜀	꜁	꜂	꜃	꜄	꜅	꜆	꜇	꜈	꜉	꜊	꜋	꜌	꜍	꜎	꜏
+꜐	꜑	꜒	꜓	꜔	꜕	꜖	ꜗ	ꜘ	ꜙ	ꜚ	ꜛ	ꜜ	ꜝ	ꜞ	ꜟ
+
 # Spacing Modifier Letters
 https://en.wikipedia.org/wiki/Spacing_Modifier_Letters
 

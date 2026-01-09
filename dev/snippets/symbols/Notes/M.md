@@ -127,6 +127,11 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Old_Persian
 https://en.wikipedia.org/wiki/Old_Persian_(Unicode_block)
 𐎠
 
+# Old Turkic
+https://en.wikipedia.org/wiki/Old_Turkic_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Old_Turkic
+𐰡
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ

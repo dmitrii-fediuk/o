@@ -415,6 +415,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Lao
 
 # Lisu
 https://en.wikipedia.org/wiki/Lisu_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Lisu
 ꓐ	ꓑ	ꓒ	ꓓ	ꓔ	ꓕ	ꓖ	ꓗ	ꓘ	ꓙ	ꓚ	ꓛ	ꓜ	ꓝ	ꓞ	ꓟ
 ꓠ	ꓡ	ꓢ	ꓣ	ꓤ	ꓥ	ꓦ	ꓧ	ꓨ	ꓩ	ꓪ	ꓫ	ꓬ	ꓭ	ꓮ	ꓯ
 ꓰ	ꓱ	ꓲ	ꓳ	ꓴ	ꓵ	ꓶ	ꓷ	ꓸ	ꓹ	ꓺ	ꓻ	ꓼ	ꓽ	꓾	꓿

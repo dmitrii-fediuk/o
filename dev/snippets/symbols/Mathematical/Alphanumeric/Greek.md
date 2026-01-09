@@ -1,4 +1,5 @@
 https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols#Greek_letters_and_symbols
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Mathematical_Alphanumeric_Symbols
 
 # Greek capital letters
 Α	𝚨	𝛢	𝜜	𝝖	𝞐

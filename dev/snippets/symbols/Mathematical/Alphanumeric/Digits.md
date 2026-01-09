@@ -1,4 +1,5 @@
 https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols#Digits
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Mathematical_Alphanumeric_Symbols
 
 0	0	𝟎	𝟘	𝟢	𝟬	𝟶
 1	1	𝟏	𝟙	𝟣	𝟭	𝟷

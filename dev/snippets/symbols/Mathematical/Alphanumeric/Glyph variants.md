@@ -1,4 +1,5 @@
 https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols#Glyph_variants
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Mathematical_Alphanumeric_Symbols
 
 𝒜	𝒜︀	𝒜︁
 ℬ	ℬ︀	ℬ︁

@@ -1,5 +1,6 @@
 #
 https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Mathematical_Alphanumeric_Symbols
 
 # Latin letters
 https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols#Latin_letters

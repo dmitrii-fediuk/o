@@ -1,4 +1,4 @@
-# `ꑌꮑ_EN`
+# ꑌꮑ_EN
 `ꑌꮑ_EN` ≔ ⟨ Ⱳ English_language ⟩
 
 # ꑌꮑ_Jargon

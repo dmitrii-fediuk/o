@@ -1,3 +1,9 @@
+# Block Elements
+https://en.wikipedia.org/wiki/Block_Elements
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Block_Elements
+▀	▁	▂	▃	▄	▅	▆	▇	█	▉	▊	▋	▌	▍	▎	▏
+▐	░	▒	▓	▔	▕	▖	▗	▘	▙	▚	▛	▜	▝	▞	▟
+
 # Box Drawing
 https://en.wikipedia.org/wiki/Box_Drawing
 ─	━	│	┃	┄	┅	┆	┇	┈	┉	┊	┋

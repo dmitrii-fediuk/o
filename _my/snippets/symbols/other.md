@@ -535,6 +535,11 @@ https://en.wikipedia.org/wiki/New_Tai_Lue_(Unicode_block)
 ᧀ	ᧁ	ᧂ	ᧃ	ᧄ	ᧅ	ᧆ	ᧇ	ᧈ	ᧉ						
 ᧐	᧑	᧒	᧓	᧔	᧕	᧖	᧗	᧘	᧙	᧚	᧞	᧟
 
+# NKo
+߀	߁	߂	߃	߄	߅	߆	߇	߈	߉	ߊ	ߋ	ߌ	ߍ	ߎ	ߏ
+ߐ	ߑ	ߒ	ߓ	ߔ	ߕ	ߖ	ߗ	ߘ	ߙ	ߚ	ߛ	ߜ	ߝ	ߞ	ߟ
+ߠ	ߡ	ߢ	ߣ	ߤ	ߥ	ߦ	ߧ	ߨ	ߩ	ߪ
+ߴ	ߵ	߶	߷	߸	߹	ߺ	߾	߿
 
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812
@@ -592,11 +597,6 @@ https://gemini.google.com/share/35a1642563b2
 https://gemini.google.com/share/b9d07b8c805f
 А Б В Г Д Е Ж Ѕ Ꙃ З И І К Л М Н О П Р С Т ОУ Ꙋ Ф Х Ѡ Ѿ Ц Ч Ш Щ Ъ Ꙑ Ь Ѣ 
 Ꙗ Ѥ Ю Ѧ Ѩ Ѫ Ѭ Ѯ Ѱ Ѳ Ѵ Ҁ Ꙇ Ꙉ Ꙍ Ꙏ Ꙓ Ꙕ Ꙙ Ꙛ Ꙝ Ꙡ Ꙣ Ꙥ Ꙧ Ꙩ Ꙫ Ꙭ ꙮ ꙳ ҂ ҃ ҇
-
-# ߷: Манден (Нко)
-https://gemini.google.com/share/fb5fd707582f
-߀ ߁ ߂ ߃ ߄ ߅ ߆ ߇ ߈ ߉ ߊ 
-ߋ ߌ ߍ ߎ ߏ ߐ ߑ ߒ ߓ ߔ ߕ ߖ ߗ ߘ ߙ ߚ ߛ ߜ ߝ ߞ ߟ ߠ ߡ ߢ ߣ ߤ ߥ ߦ ߧ ߨ ߩ ߪ ߫ ߬ ߭ ߮ ߯ ߰ ߱ ߲ ߳ ߴ ߵ ߶ ߷ ߸ ߹ ߺ ߽ ߾ ߿
 
 # Языки Африки с нелатинским письмом
 https://gemini.google.com/share/fb5fd707582f

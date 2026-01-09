@@ -71,6 +71,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Latin_Extended-B
 
 # Latin Extended-C
 https://en.wikipedia.org/wiki/Latin_Extended-C
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Latin_Extended-C
 Ⱡ	ⱡ	Ɫ	Ᵽ	Ɽ	ⱥ	ⱦ	Ⱨ	ⱨ	Ⱪ	ⱪ	Ⱬ	ⱬ	Ɑ	Ɱ	Ɐ
 Ɒ	ⱱ	Ⱳ	ⱳ	ⱴ	Ⱶ	ⱶ	ⱷ	ⱸ	ⱹ	ⱺ	ⱻ	ⱼ	ⱽ	Ȿ	Ɀ
 

@@ -731,11 +731,13 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Tifinagh
 
 # Ugaritic
 https://en.wikipedia.org/wiki/Ugaritic_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Ugaritic
 𐎀	𐎁	𐎂	𐎃	𐎄	𐎅	𐎆	𐎇	𐎈	𐎉	𐎊	𐎋	𐎌	𐎍	𐎎	𐎏
 𐎐	𐎑	𐎒	𐎓	𐎔	𐎕	𐎖	𐎗	𐎘	𐎙	𐎚	𐎛	𐎜	𐎝	𐎟
 
 # Unified Canadian Aboriginal Syllabics
 https://en.wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Unified_Canadian_Aboriginal_Syllabics
 ᐀	ᐁ	ᐂ	ᐃ	ᐄ	ᐅ	ᐆ	ᐇ	ᐈ	ᐉ	ᐊ	ᐋ	ᐌ	ᐍ	ᐎ	ᐏ
 ᐐ	ᐑ	ᐒ	ᐓ	ᐔ	ᐕ	ᐖ	ᐗ	ᐘ	ᐙ	ᐚ	ᐛ	ᐜ	ᐝ	ᐞ	ᐟ
 ᐠ	ᐡ	ᐢ	ᐣ	ᐤ	ᐥ	ᐦ	ᐧ	ᐨ	ᐩ	ᐪ	ᐫ	ᐬ	ᐭ	ᐮ	ᐯ

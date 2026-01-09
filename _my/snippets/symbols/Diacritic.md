@@ -1,6 +1,3 @@
-
-
-
 # Spacing Modifier Letters
 https://en.wikipedia.org/wiki/Spacing_Modifier_Letters
 
@@ -15,16 +12,3 @@ https://en.wikipedia.org/wiki/Superscripts_and_Subscripts
 ⁰	ⁱ			⁴	⁵	⁶	⁷	⁸	⁹	⁺	⁻	⁼	⁽	⁾	ⁿ
 ₀	₁	₂	₃	₄	₅	₆	₇	₈	₉	₊	₋	₌	₍	₎	
 ₐ	ₑ	ₒ	ₓ	ₔ	ₕ	ₖ	ₗ	ₘ	ₙ	ₚ	ₛ	ₜ	
-
-
-# Supplemental Punctuation
-https://en.wikipedia.org/wiki/Supplemental_Punctuation
-⸀	⸁	⸂	⸃	⸄	⸅	⸆	⸇	⸈	⸉	⸊	⸋	⸌	⸍	⸎	⸏
-⸐	⸑	⸒	⸓	⸔	⸕	⸖	⸗	⸘	⸙	⸚	⸛	⸜	⸝	⸞	⸟
-⸠	⸡	⸢	⸣	⸤	⸥	⸦	⸧	⸨	⸩	⸪	⸫	⸬	⸭	⸮	ⸯ
-⸰	⸱	⸲	⸳	⸴	⸵	⸶	⸷	⸸	⸹	⸼	⸽	⸾	⸿
-⹀	⹁	⹂	⹃	⹄
-
-# Vertical_Forms
-https://en.wikipedia.org/wiki/Vertical_Forms
-︐	︑	︒	︓	︔	︕	︖	︗	︘	︙

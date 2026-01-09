@@ -364,6 +364,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Inscriptional_Parthian
 
 # Kanbun
 https://en.wikipedia.org/wiki/Kanbun_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Kanbun
 ㆐	㆑	㆒	㆓	㆔	㆕	㆖	㆗	㆘	㆙	㆚	㆛	㆜	㆝	㆞	㆟
 
 # Kannada

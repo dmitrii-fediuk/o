@@ -538,6 +538,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Old_Italic
 𐌠	𐌡	𐌢	𐌣
 
 # Old Persian
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Old_Persian
 https://en.wikipedia.org/wiki/Old_Persian_(Unicode_block)
 𐎠	𐎡	𐎢	𐎣	𐎤	𐎥	𐎦	𐎧	𐎨	𐎩	𐎪	𐎫	𐎬	𐎭	𐎮	𐎯
 𐎰	𐎱	𐎲	𐎳	𐎴	𐎵	𐎶	𐎷	𐎸	𐎹	𐎺	𐎻	𐎼	𐎽	𐎾	𐎿

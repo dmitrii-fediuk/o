@@ -269,11 +269,13 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Glagolitic
 
 # Gothic
 https://en.wikipedia.org/wiki/Gothic_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Gothic
 𐌰	𐌱	𐌲	𐌳	𐌴	𐌵	𐌶	𐌷	𐌸	𐌹	𐌺	𐌻	𐌼	𐌽	𐌾	𐌿
 𐍀	𐍁	𐍂	𐍃	𐍄	𐍅	𐍆	𐍇	𐍈	𐍉	𐍊
 
 # Greek and Coptic
 https://en.wikipedia.org/wiki/Greek_and_Coptic
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Greek_and_Coptic
 Ͱ	ͱ	Ͳ	ͳ	ʹ	͵	Ͷ	ͷ	ͺ	ͻ	ͼ	ͽ	;	Ϳ
 ΄	΅	Ά	·	Έ	Ή	Ί	Ό	Ύ	Ώ
 ΐ	Α	Β	Γ	Δ	Ε	Ζ	Η	Θ	Ι	Κ	Λ	Μ	Ν	Ξ	Ο

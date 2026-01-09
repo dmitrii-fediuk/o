@@ -781,6 +781,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Unified_Canadian_Aboriginal
 
 ## Extended
 https://en.wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics_Extended
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Unified_Canadian_Aboriginal_Syllabics_Extended
 ᢰ	ᢱ	ᢲ	ᢳ	ᢴ	ᢵ	ᢶ	ᢷ	ᢸ	ᢹ	ᢺ	ᢻ	ᢼ	ᢽ	ᢾ	ᢿ
 ᣀ	ᣁ	ᣂ	ᣃ	ᣄ	ᣅ	ᣆ	ᣇ	ᣈ	ᣉ	ᣊ	ᣋ	ᣌ	ᣍ	ᣎ	ᣏ
 ᣐ	ᣑ	ᣒ	ᣓ	ᣔ	ᣕ	ᣖ	ᣗ	ᣘ	ᣙ	ᣚ	ᣛ	ᣜ	ᣝ	ᣞ	ᣟ

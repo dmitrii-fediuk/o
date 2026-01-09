@@ -102,6 +102,11 @@ https://en.wikipedia.org/wiki/Lydian_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Lydian
 𐤵
 
+# Malayalam
+https://en.wikipedia.org/wiki/Malayalam_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Malayalam
+ന	ഩ	൩	൱
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ

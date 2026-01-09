@@ -435,7 +435,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Lydian
 # Malayalam
 https://en.wikipedia.org/wiki/Malayalam_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Malayalam
-അ		ആ	ഇ	ഈ	ഉ	ഊ	ഋ	ഌ	എ	ഏ
+അ	ആ	ഇ	ഈ	ഉ	ഊ	ഋ	ഌ	എ	ഏ
 ഐ	ഒ	ഓ	ഔ	ക	ഖ	ഗ	ഘ	ങ	ച	ഛ	ജ	ഝ	ഞ	ട
 ഠ	ഡ	ഢ	ണ	ത	ഥ	ദ	ധ	ന	ഩ	പ	ഫ	ബ	ഭ	മ	യ
 ര	റ	ല	ള	ഴ	വ	ശ	ഷ	സ	ഹ	ഺ	഻	഼	ഽ

@@ -10,6 +10,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_IPA_Extensions
 
 # Phonetic_Extensions
 https://en.wikipedia.org/wiki/Phonetic_Extensions
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Phonetic_Extensions
 ᴀ	ᴁ	ᴂ	ᴃ	ᴄ	ᴅ	ᴆ	ᴇ	ᴈ	ᴉ	ᴊ	ᴋ	ᴌ	ᴍ	ᴎ	ᴏ
 ᴐ	ᴑ	ᴒ	ᴓ	ᴔ	ᴕ	ᴖ	ᴗ	ᴘ	ᴙ	ᴚ	ᴛ	ᴜ	ᴝ	ᴞ	ᴟ
 ᴠ	ᴡ	ᴢ	ᴣ	ᴤ	ᴥ	ᴦ	ᴧ	ᴨ	ᴩ	ᴪ	ᴫ	ᴬ	ᴭ	ᴮ	ᴯ

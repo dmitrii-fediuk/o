@@ -1,13 +1,6 @@
 
 
 
-
-
-# Small Form Variants
-https://en.wikipedia.org/wiki/Small_Form_Variants
-﹐	﹑	﹒		﹔	﹕	﹖	﹗	﹘	﹙	﹚	﹛	﹜	﹝	﹞	﹟
-﹠	﹡	﹢	﹣	﹤	﹥	﹦	﹨	﹩	﹪	﹫
-
 # Spacing Modifier Letters
 https://en.wikipedia.org/wiki/Spacing_Modifier_Letters
 

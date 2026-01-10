@@ -25,6 +25,8 @@ The reasoner also **informs** the reason maintenance system which are **the curr
 ## Reason Maintenance System
 The reason maintenance system **uses the information** to **compute the truth value** of the **stored derived facts** and to **restore consistency** **if an inconsistency is derived**.
 
+# Truth maintenance system
+https://en.wikipedia.org/wiki/Reason_maintenance#Truth_maintenance_system
 
 
 

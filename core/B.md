@@ -46,7 +46,12 @@
 `E.md` ∈ `᛭DL⠿`
 ###
 `E.md` описывает `᛭E`: изменения / уточнения / расширениe / обогащение `᛭O`, которые были получены в результате предшествующего анализа `᛭O` и `᛭T`.
+###
 https://en.wikipedia.org/wiki/Reason_maintenance
+####
+**Reason maintenance** is a **knowledge representation approach** to **efficient handling** of **inferred information** that is **explicitly stored**. 
+####
+Reason maintenance **distinguishes** between **base facts**, which **can be defeated**, and **derived facts**.
 ###
 `E.md` — факультативный файл. 
 `᛭E` отсутствует в запросах на ранних этапах анализа `᛭O` и `᛭T`.

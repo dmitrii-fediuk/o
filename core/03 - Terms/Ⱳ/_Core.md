@@ -13,6 +13,9 @@
 # ꑌO
 `ꑌO` ≔ Ⱳ Ontology_(information_science)
 
+# ꑌUO
+`ꑌUO` ≔ Ⱳ Upper_ontology
+
 
 
 

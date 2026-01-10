@@ -46,7 +46,7 @@
 `E.md` ∈ `᛭DL⠿`
 ###
 `E.md` описывает `᛭E`: изменения / уточнения / расширениe / обогащение `᛭O`, которые были получены в результате предшествующего анализа `᛭O` и `᛭T`.
-###
+### AI/dev/research/Terms/Wikipedia/Reason maintenance
 https://en.wikipedia.org/wiki/Reason_maintenance
 ####
 **Reason maintenance** is a **knowledge representation approach** to **efficient handling** of **inferred information** that is **explicitly stored**. 

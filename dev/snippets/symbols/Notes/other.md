@@ -1,7 +1,3 @@
-# W и M
-W Ⱳ Ꮃ ᙎ Ⲱ 𞤧
-M Ꮇ 𐒄 Ⰼ Ⲙ 𐊎 Ꙧ ጠ ᙢ
-
 # Подразделы W 
 ꑌꑄCM	ꑌ‡CM	ꑌ᠅CM	ꑌ⋕CM	ꑌ⫳CM	ꑌ⌭CM	ꑌꀊCM	
 ꑌ፨CM	ꑌꔹCM 	ꑌ𐏑CM 	ꑌⴰCM	ꑌߜCM	ꑌꀦCM	ꑌ⌭CM

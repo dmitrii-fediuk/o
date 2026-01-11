@@ -4,6 +4,9 @@
 # ꑌꮑ_Jargon
 `ꑌꮑ_Jargon` ≔ ⟨ Ⱳ Jargon ⟩ ∨ ⟨ Ⱳ Slang ⟩ 
 
+# ꑌꮑ_Literary_Language
+`ꑌꮑ_Literary_Language` ≔ Ⱳ Literary_language
+
 # ꑌꮑ_Meta
 `ꑌꮑ_Meta` ≔ Ⱳ Metalanguage
 

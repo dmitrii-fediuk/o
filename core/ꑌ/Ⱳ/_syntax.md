@@ -43,13 +43,13 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` `T` in the context of t
 ⟨ Ⱳ Theory_of_categories∷category ⟩
 ~~~
 ≡ 
-<code>
+<samp>
 	The `ꑌ𝔼` `category` in the context: 
 	<cite>
 		In ontology, the theory of categories concerns itself with the <mark>categories</mark> of being: the highest genera or kinds of entities.   
 		To investigate the categories of being, or simply <mark>categories</mark> <…> 
 	</cite>
-</code>
+</samp>
 
 ~~~~
 ## Rationale

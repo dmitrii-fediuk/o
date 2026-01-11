@@ -4,7 +4,7 @@
 Ⱳ T
 ~~~
 ## Meaning
-The `ꑌ𝔼`, которое соответствует the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T>`.  
+The `ꑌ𝔼` that corresponds to the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T>`.  
 `<T>` — the Last Path Segment of the `ꑌⱳ_Article`'s URL.
 ## Example
 ⟨ Ⱳ Ontology_(information_science) ⟩ ≡ ⟨ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities ⟩

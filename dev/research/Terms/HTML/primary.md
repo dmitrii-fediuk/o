@@ -44,6 +44,10 @@ The headingoffset content attribute allows authors to offset heading levels for 
 </body>
 ```
 
+# hr
+https://html.spec.whatwg.org/#the-hr-element
+The hr element represents a paragraph-level thematic break, e.g., a scene change in a story, or a transition to another topic within a section of a reference book; alternatively, it represents a separator between a set of options of a select element.
+
 # kbd
 https://html.spec.whatwg.org/#the-kbd-element
 The kbd element represents user input (typically keyboard input, although it may also be used to represent other input, such as voice commands).
@@ -61,6 +65,13 @@ Document metadata is expressed in terms of name-value pairs, the name attribute 
 # samp
 https://html.spec.whatwg.org/#the-samp-element
 The samp element represents sample or quoted output from another program or computing system.
+
+# section
+https://html.spec.whatwg.org/#the-section-element
+The section element represents a generic section of a document or application. 
+A section, in this context, is a thematic grouping of content, typically with a heading.
+
+A general rule is that the section element is appropriate only if the element's contents would be listed explicitly in the document's outline.
 
 # var
 https://html.spec.whatwg.org/#the-var-element

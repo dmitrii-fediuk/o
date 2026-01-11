@@ -62,6 +62,10 @@ The meta element represents various kinds of metadata that cannot be expressed u
 If a meta element has a name attribute, it sets document metadata.
 Document metadata is expressed in terms of name-value pairs, the name attribute on the meta element giving the name, and the content attribute on the same element giving the value. 
 
+# pre
+https://html.spec.whatwg.org/#the-pre-element
+The pre element represents a block of preformatted text, in which structure is represented by typographic conventions rather than by elements.
+
 # samp
 https://html.spec.whatwg.org/#the-samp-element
 The samp element represents sample or quoted output from another program or computing system.

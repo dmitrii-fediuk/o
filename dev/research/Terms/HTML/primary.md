@@ -2,6 +2,9 @@ https://html.spec.whatwg.org
 https://html.spec.whatwg.org/multipage#toc-semantics
 https://html.spec.whatwg.org/multipage
 
+# article
+https://html.spec.whatwg.org/#the-article-element
+
 # h1, h2, h3, h4, h5, h6
 https://html.spec.whatwg.org/#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements
 
@@ -18,6 +21,23 @@ The header element represents a group of introductory or navigational aids.
 https://html.spec.whatwg.org/#attr-headingoffset
 https://html.spec.whatwg.org/#heading-levels-&-offsets:attr-headingoffset
 The headingoffset content attribute allows authors to offset heading levels for descendants.
+```html
+<body>
+	<main>
+		<h1>This is a heading level 1</h1>
+		<article headingoffset="1">
+			<h1>This is a heading level 2</h1>
+			<section headingoffset="1">
+			<h1>This is a heading level 3</h1>
+				<dialog headingreset>
+					<h1>This is a heading level 1</h1>
+				</dialog>
+			</section>
+		</article>
+		<h1 aria-level="2">This is a heading level 2</h1>
+	</main>
+</body>
+```
 
 # kbd
 https://html.spec.whatwg.org/#the-kbd-element

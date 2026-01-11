@@ -21,7 +21,7 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the heading of
 - `T` — the `ꑌURI_Fragment_Identifier` of the section of the `ꑌⱳ_Article`.
 - `T₀` — the `ꑌURI_Last_Path_Segment` of the `ꑌURI` of the `ꑌⱳ_Article`.
 ## Example
-⟨ Ⱳ Partially_ordered_set#Intervals ⟩ ≡ ⟨ `ꑌ𝔼` «**interval**» in the context «an **interval** in a poset `P` is a subset that can be defined with interval notation <…>» ⟩
+⟨ Ⱳ Partially_ordered_set#Intervals ⟩ ≡ ⟨ The `ꑌ𝔼` «**interval**» in the context «an **interval** in a poset `P` is a subset that can be defined with interval notation <…>» ⟩
 ## Rationale
 I use this syntaxt then there is no a standalone `ꑌⱳ_Article` for the `ꑌ𝔼`. 
 

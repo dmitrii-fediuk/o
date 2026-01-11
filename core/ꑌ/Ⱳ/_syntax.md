@@ -42,11 +42,11 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` `T` in the context of t
 <code>Ⱳ Theory_of_categories∷category</code>  
 ≡   
 <samp>
-	The `ꑌ𝔼` `category` in the context:   
-	<blockquote>
-		In ontology, the theory of categories concerns itself with the <mark>categories</mark> of being: the highest genera or kinds of entities.  
-		To investigate the categories of being, or simply <mark>categories</mark> <…> 
-	</blockquote>
+The `ꑌ𝔼` `category` in the context:   
+<blockquote>
+In ontology, the theory of categories concerns itself with the <mark>categories</mark> of being: the highest genera or kinds of entities.  
+To investigate the categories of being, or simply <mark>categories</mark> <…> 
+</blockquote>
 </samp>
 ## Rationale
 Я использую этот синтаксис в тех случаях, когда для описываемого мной `ꑌ𝔼` отсутствует и standalone `ꑌⱳ_Article`, и даже standalone section (with a Fragment Identifier) of a `ꑌⱳ_Article`.

@@ -36,7 +36,7 @@ This syntax is used when there is no standalone `ꑌⱳ_Article` for the `ꑌ�
 ## Meaning
 The `ꑌ𝔼` `T` in the context of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T₀>`.  
 ## Example
-~~~
+~~~code
 ⟨ Ⱳ Theory_of_categories∷category ⟩
 ~~~
 ≡ 

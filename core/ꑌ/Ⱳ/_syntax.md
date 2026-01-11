@@ -39,8 +39,8 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` `T` in the context of t
 - <var>T</var> — the `ꑌ𐏕`.
 - <var>T₀</var> — the `ꑌURI_Last_Path_Segment` of the `ꑌURI` of the `ꑌⱳ_Article`.  
 ## Example
-<code>Ⱳ Theory_of_categories∷category</code>
-≡ 
+<code>Ⱳ Theory_of_categories∷category</code>  
+≡   
 <samp>
 	The `ꑌ𝔼` `category` in the context: 
 	<cite>

@@ -6,7 +6,7 @@
 ## Meaning
 The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T>`.
 ### Parameters   
-- `T` — the Last Path Segment of the `ꑌⱳ_Article`'s `ꑌURI`.
+- `T` — the `ꑌURI_Last_Path_Segment` of the `ꑌURI` of the `ꑌⱳ_Article`.
 ## Example
 ⟨ Ⱳ Ontology_(information_science) ⟩ ≡ ⟨ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities ⟩
 
@@ -18,12 +18,12 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_To
 ## Meaning
 The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the heading of a particular section of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T₀>#<T>`.
 ### Parameters    
-- `T` — the `ꑌURI_Fragment_Identifier` of the section.
-- `T₀` — the `ꑌURI_Last_Path_Segment` of the `ꑌⱳ_Article`'s `ꑌURI`.
+- `T` — the `ꑌURI_Fragment_Identifier` of the section of the `ꑌⱳ_Article`.
+- `T₀` — the `ꑌURI_Last_Path_Segment` of the `ꑌURI` of the `ꑌⱳ_Article`.
 ## Example
-⟨ Ⱳ Partially_ordered_set#Intervals ⟩ ≡ ⟨ `ꑌ𝔼` «**interval**» в контексте «an **interval** in a poset `P` is a subset that can be defined with interval notation <…>» ⟩
+⟨ Ⱳ Partially_ordered_set#Intervals ⟩ ≡ ⟨ `ꑌ𝔼` «**interval**» in the context «an **interval** in a poset `P` is a subset that can be defined with interval notation <…>» ⟩
 ## Rationale
-Я использую этот синтаксис, когда для описываемого мной `ꑌ𝔼` отсутствует a standalone `ꑌⱳ_Article`. 
+I use this syntaxt then there is no a standalone `ꑌⱳ_Article` for the `ꑌ𝔼`. 
 
 # Ⱳ T₀∷T
 ## Syntax

@@ -36,15 +36,15 @@ This syntax is used when there is no standalone `ꑌⱳ_Article` for the `ꑌ�
 ## Meaning
 The `ꑌ𝔼` `T` in the context of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T₀>`.  
 ## Example
-```
+~~~
 ⟨ Ⱳ Theory_of_categories∷category ⟩
-```
+~~~
 ≡ 
-```markdown
+~~~markdown
 The `ꑌ𝔼` `category` in the context: 
 > In ontology, the theory of categories concerns itself with the **categories** of being: the highest genera or kinds of entities.   
 > To investigate the categories of being, or simply **categories** <…> 
-```
+~~~
 ## Rationale
 Я использую этот синтаксис в тех случаях, когда для описываемого мной `ꑌ𝔼` отсутствует и standalone `ꑌⱳ_Article`, и даже standalone section (with a Fragment Identifier) of a `ꑌⱳ_Article`.
 

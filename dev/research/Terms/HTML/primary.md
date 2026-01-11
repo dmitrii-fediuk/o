@@ -67,7 +67,8 @@ https://html.spec.whatwg.org/#the-pre-element
 The pre element represents a block of preformatted text, in which structure is represented by typographic conventions rather than by elements.
 
 ##
-To represent a block of computer code, the pre element can be used with a code element; to represent a block of computer output the pre element can be used with a samp element. Similarly, the kbd element can be used within a pre element to indicate text that the user is to enter.
+To represent a block of computer code, the pre element can be used with a code element; to represent a block of computer output the pre element can be used with a samp element. 
+Similarly, the kbd element can be used within a pre element to indicate text that the user is to enter.
 
 # samp
 https://html.spec.whatwg.org/#the-samp-element

@@ -9,7 +9,7 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_To
 <kbd>Ⱳ Ontology_(information_science)</kbd>  
 ≡   
 <samp>
-	An <DFN>ontology</DFN>:   
+	An <mark>ontology</mark>:   
 	<blockquote>
 	a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities
 	</blockquote>

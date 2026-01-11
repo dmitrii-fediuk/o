@@ -4,7 +4,7 @@
 Ⱳ T
 ~~~
 ## Meaning
-The `ꑌ𝔼`, which corresponds to the `ꑌꕤ` of the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T>`.  
+The `ꑌ𝔼`, which has the `ꑌꕤ` of the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T>`.  
 `<T>` — the Last Path Segment of the `ꑌⱳ_Article`'s URL.
 ## Example
 ⟨ Ⱳ Ontology_(information_science) ⟩ ≡ ⟨ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities ⟩
@@ -20,12 +20,6 @@ The `ꑌ𝔼`, which corresponds to the `ꑌꕤ` of the `ꑌⱳ_Topic` of the `�
 
 # ꑌⱳ_Topic
 `ꑌⱳ_Topic` ≔ Ⱳ Wikipedia:Notability∷topic
-
-#
-`Fᨀ` ≔⌖ ⟦§1⟧ 
-```
-The `ꑌ𝔼`, which corresponds to the `ꑌꕤ` of the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T>`.
-```
 
 # ꑌꮑ_RU
 `ꑌꮑ_RU` ≔ ⟨ Ⱳ Russian_language ⟩
@@ -55,8 +49,16 @@ The `ꑌ𝔼`, which corresponds to the `ꑌꕤ` of the `ꑌⱳ_Topic` of the `�
 # `ꑌ¶-`
 `ꑌ¶-` ≔ Ⱳ Hyphen 
 
+#
+`Fᨀ` ≔⌖ ⟦§1⟧ 
+```
+The `ꑌ𝔼`, which has the `ꑌꕤ` of the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T>`. 
+```
+
 # `᛭T`
-Переведи `Fᨀ` на `ꑌꮑ_EN`.
+Проанализируй `Fᨀ`:
+1) Есть ли там языковые ошибки?
+2) Можно ли улучшить формулировки написанного там?
 
 #
 Значения внутри `ꑌ¶B` не меняй.

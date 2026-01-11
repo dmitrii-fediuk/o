@@ -2,7 +2,7 @@
 ## Syntax
 `Ⱳ T`
 ## Meaning
-The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/``T```.
+The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T>`.
 ### Parameters   
 - <var>T</var> — the `ꑌURI_Last_Path_Segment` of the `ꑌURI` of the `ꑌⱳ_Article`.
 ## Example

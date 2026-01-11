@@ -10,6 +10,10 @@ https://html.spec.whatwg.org/#the-hgroup-element
 The hgroup element represents a heading and related content. 
 The element may be used to group an h1–h6 element with one or more p elements containing content representing a subheading, alternative title, or tagline.
 
+# header
+https://html.spec.whatwg.org/#the-header-element
+The header element represents a group of introductory or navigational aids.
+
 # kbd
 https://html.spec.whatwg.org/#the-kbd-element
 The kbd element represents user input (typically keyboard input, although it may also be used to represent other input, such as voice commands).

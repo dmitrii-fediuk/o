@@ -4,8 +4,9 @@
 Ⱳ T
 ~~~
 ## Meaning
-The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T>`.   
-`<T>` — the Last Path Segment of the `ꑌⱳ_Article`'s URI.
+The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T>`.
+### Parameters   
+- `T` — the Last Path Segment of the `ꑌⱳ_Article`'s `ꑌURI`.
 ## Example
 ⟨ Ⱳ Ontology_(information_science) ⟩ ≡ ⟨ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities ⟩
 
@@ -15,9 +16,11 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌⱳ_Topic` of the `ꑌⱳ_Art
 Ⱳ T₀#T
 ~~~
 ## Meaning
-The `ꑌ𝔼` representing the `ꑌꕤ` of the section of the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at`https://en.wikipedia.org/wiki/<T₀>#<T>`.   
-`<T₀>` — the Last Path Segment of the `ꑌⱲA`'s URL.
-`<T>` — is the Fragment Identifier of the section.
+The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the heading of a particular section of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T₀>#<T>`.
+### Parameters    
+- `T` — the `ꑌURI_Fragment_Identifier` of the section.
+- `T₀` — the Last Path Segment of the `ꑌⱳ_Article`'s `ꑌURI`.
+
 ## Example
 ⟨ Ⱳ Partially_ordered_set#Intervals ⟩ ≡ ⟨ `ꑌ𝔼` «**interval**» в контексте «an **interval** in a poset `P` is a subset that can be defined with interval notation <…>» ⟩
 ## Rationale

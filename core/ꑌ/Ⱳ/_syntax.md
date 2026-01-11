@@ -1,6 +1,6 @@
 # Ⱳ T
 ## Syntax
-`Ⱳ T`
+<kbd>Ⱳ T</kbd> 
 ## Meaning
 The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T>`.
 ### Parameters   
@@ -17,9 +17,7 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_To
 
 # Ⱳ T₀#T
 ## Syntax
-~~~code
-Ⱳ T₀#T
-~~~
+<kbd>T₀#T</kbd> 
 ## Meaning
 The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the heading of a particular section of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T₀>#<T>`.
 ### Parameters    

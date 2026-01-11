@@ -23,7 +23,7 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the heading of
 ## Example
 ⟨ Ⱳ Partially_ordered_set#Intervals ⟩ ≡ ⟨ The `ꑌ𝔼` «**interval**» in the context «an **interval** in a poset `P` is a subset that can be defined with interval notation <…>» ⟩
 ## Rationale
-I use this syntaxt then there is no a standalone `ꑌⱳ_Article` for the `ꑌ𝔼`. 
+This syntax is used when there is no standalone `ꑌⱳ_Article` for the `ꑌ𝔼`. 
 
 # Ⱳ T₀∷T
 ## Syntax

@@ -12,6 +12,3 @@
 
 # ꑌURI_Path_Segment
 `ꑌURI_Path_Segment` ≔ `ꑌURI`∷⟨ path segment ⟩
-
-# ꑌURL
-`ꑌURL` ≔ Ⱳ URL

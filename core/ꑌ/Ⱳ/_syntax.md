@@ -24,10 +24,14 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the heading of
 - <var>T</var> — the `ꑌURI_Fragment_Identifier` of the section of the `ꑌⱳ_Article`.
 - <var>T₀</var> — the `ꑌURI_Last_Path_Segment` of the `ꑌURI` of the `ꑌⱳ_Article`.
 ## Example
-⟨ Ⱳ Partially_ordered_set#Intervals ⟩ ≡ ⟨   
-	The `ꑌ𝔼` `interval` in the context:   
-		«an **interval** in a poset `P` is a subset that can be defined with interval notation <…>»   
-⟩
+<kbd>Ⱳ <var>Partially_ordered_set</var>#<var>Intervals</var></kbd>  
+≡  
+<samp>
+	The `ꑌ𝔼` **interval** in the context:   
+	<blockquote>
+	an <mark>interval</mark> in a poset `P` is a subset that can be defined with interval notation
+	</blockquote>
+</samp>
 ## Rationale
 This syntax is used when there is no standalone `ꑌⱳ_Article` for the `ꑌ𝔼`. 
 

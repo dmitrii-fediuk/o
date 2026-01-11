@@ -1,4 +1,4 @@
-# Ⱳ T
+# Ⱳ <var>T</var>
 ## Syntax
 <kbd>Ⱳ <var>T</var></kbd> 
 ## Meaning

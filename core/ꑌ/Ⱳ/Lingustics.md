@@ -19,6 +19,9 @@
 # ꑌꮑ_RU
 `ꑌꮑ_RU` ≔ Ⱳ Russian_language
 
+# ꑌꮑ_Register
+`ꑌꮑ_Register` ≔ Ⱳ Register_(sociolinguistics)
+
 # ꑌꮑ_Standard_Language
 `ꑌꮑ_Standard_Language` ≔ Ⱳ Standard_language
 

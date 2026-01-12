@@ -1,8 +1,6 @@
 # ∷
 ## Syntax
-~~~code
-A∷B
-~~~
+<code><var>A</var>∷<var>B</var></code> 
 ## Meaning 
 The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` `B` in the context `A`.
 ## Example

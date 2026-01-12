@@ -6,7 +6,7 @@ test
 $\overrightarrow{ꕤ}$
 $\breve{ꕤ}$
 $\widehat{ꕤ}$
-\stackrel\frown{ꕤ}$
+$\stackrel\frown{ꕤ}$
 $\tilde{ꕤ}$
 $\bar{ꕤ}$
 $\acute{ꕤ}$

@@ -7,6 +7,13 @@
 ```
 
 #
+\[
+\begin{equation} 
+	f(x)=(x+a)(x+b)
+\end{equation}
+\]
+
+#
 $$
 \begin{equation} 
 	f(x)=(x+a)(x+b)

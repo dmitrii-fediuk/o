@@ -20,6 +20,9 @@ $$
 \end{equation}
 $$
 
+#
+$k_{n+1}$
+
 # ∷
 ## Syntax
 ~~~code

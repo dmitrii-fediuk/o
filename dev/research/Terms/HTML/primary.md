@@ -146,6 +146,7 @@ Similarly, the kbd element can be used within a pre element to indicate text tha
 
 # samp
 https://html.spec.whatwg.org/#the-samp-element
+https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-samp-element
 The samp element represents sample or quoted output from another program or computing system.
 
 # section

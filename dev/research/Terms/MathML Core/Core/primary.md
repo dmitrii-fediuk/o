@@ -1,4 +1,4 @@
-https://en.wikipedia.org/wiki/MathML
+https://en.wikipedia.org/wiki/MathML#MathML_Core
 https://html.spec.whatwg.org/multipage/embedded-content-other.html#mathml
 https://w3c.github.io/mathml-core
 https://www.w3.org/standards/history/mathml-core

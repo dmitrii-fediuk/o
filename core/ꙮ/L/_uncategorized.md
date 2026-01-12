@@ -1,11 +1,20 @@
 # 1
 test
 
-# 1
-ꕤ̊
 
 # 2
 $\overrightarrow{ꕤ}$
+$\breve{ꕤ}$
+$\widehat{ꕤ}$
+\stackrel\frown{ꕤ}$
+$\tilde{ꕤ}$
+$\bar{ꕤ}$
+$\acute{ꕤ}$
+$\ddot{ꕤ}$
+$\mathring{ꕤ}$
+$\check{ꕤ}$
+$\vec{ꕤ}$
+$\underline{ꕤ}$
 
 # 3
 $k_{n+1}$

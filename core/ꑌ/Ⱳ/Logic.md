@@ -14,6 +14,7 @@
 	∨ ⟨ Ⱳ Proposition∷statement∷⟨ 
 		declarative sentences themselves rather than their meanings 
 	⟩⟩ 
+	∨ `ꑌHypothesis`
 
 # ꑌꘙ
 `ꑌꘙ` ≔ ⟨ Причина (источник) беспокойства ⟩
@@ -32,3 +33,6 @@
 
 # ꑌAxiom
 `ꑌAxiom` ≔ Ⱳ Axiom
+
+# ꑌHypothesis
+`ꑌHypothesis` ≔ Ⱳ Hypothesis

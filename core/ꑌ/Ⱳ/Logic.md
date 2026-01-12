@@ -4,6 +4,9 @@
 # ꑌ∨
 `ꑌ∨` ≔ Ⱳ Logical_disjunction
 
+# ꑌ≡
+`ꑌ≡` ≔ Ⱳ Logical_biconditional
+
 # ꑌꖿ
 `ꑌꖿ` ≔ 
 	⟨ Ⱳ Proposition ⟩

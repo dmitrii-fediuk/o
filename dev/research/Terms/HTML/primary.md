@@ -6,6 +6,7 @@ https://github.com/whatwg/html
 https://wiki.whatwg.org/wiki/Rationale
 https://wiki.whatwg.org/wiki/Rationale#Versioning_the_spec
 https://wiki.whatwg.org
+https://whatwg.org/style-guide
 
 #
 **HTML 5.1**, **HTML 5.2** and **HTML 5.3** were **all retired** on 28 January 2021, in favour of the **HTML living standard**.

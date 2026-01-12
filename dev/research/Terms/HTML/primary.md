@@ -162,3 +162,8 @@ The summary element represents a summary, caption, or legend for the rest of the
 # var
 https://html.spec.whatwg.org/#the-var-element
 https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-var-element
+The var element represents a variable. 
+This could be an actual variable in a mathematical expression or programming context, an identifier representing a constant, a symbol identifying a physical quantity, a function parameter, or just be a term used as a placeholder in prose.
+##
+For mathematics, in particular for anything beyond the simplest of expressions, MathML is more appropriate. 
+However, the var element can still be used to refer to specific variables that are then mentioned in MathML expressions.

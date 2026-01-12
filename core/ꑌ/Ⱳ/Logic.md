@@ -9,12 +9,14 @@
 
 # ꑌꖿ
 `ꑌꖿ` ≔ 
+<code>
 	⟨ Ⱳ Proposition ⟩  
 	∨ ⟨ Ⱳ Claim_(philosophy)∷⟨ a substantive statement about a thing ⟩⟩  
 	∨ ⟨ Ⱳ Proposition∷statement∷⟨   
 		declarative sentences themselves rather than their meanings   
 	⟩⟩  
 	∨ `ꑌHypothesis`
+</code>
 
 # ꑌꘙ
 `ꑌꘙ` ≔ ⟨ Причина (источник) беспокойства ⟩

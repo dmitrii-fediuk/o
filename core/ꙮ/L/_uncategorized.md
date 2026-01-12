@@ -8,21 +8,8 @@
 
 #
 $$
-\STATE <text>
-\IF{<condition>} \STATE {<text>} \ELSE \STATE{<text>} \ENDIF
-\IF{<condition>} \STATE {<text>} \ELSIF{<condition>} \STATE{<text>} \ENDIF
-\FOR{<condition>} \STATE {<text>} \ENDFOR
-\FOR{<condition> \TO <condition> } \STATE {<text>} \ENDFOR
-\FORALL{<condition>} \STATE{<text>} \ENDFOR
-\WHILE{<condition>} \STATE{<text>} \ENDWHILE
-\REPEAT \STATE{<text>} \UNTIL{<condition>}
-\LOOP \STATE{<text>} \ENDLOOP
-\REQUIRE <text>
-\ENSURE <text>
-\RETURN <text>
-\PRINT <text>
-\COMMENT{<text>}
-\AND, \OR, \XOR, \NOT, \TO, \TRUE, \FALSE
+\usepackage{amsthm}
+\newtheorem{name}{Printed output}
 $$
 
 # ∷

@@ -6,6 +6,16 @@
 \left( \sum_{k=1}^n b_k^2 \right)
 ```
 
+#
+```math
+\begin{proof}
+Here is my proof:
+\[
+a^2 + b^2 = c^2 \qedhere
+\]
+\end{proof}
+```
+
 # ∷
 ## Syntax
 ~~~code

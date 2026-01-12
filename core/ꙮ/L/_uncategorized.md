@@ -2,6 +2,14 @@
 $A_1,A_2,\dotsc,$
 
 #
+$$
+z = \overbrace{
+	\underbrace{x}_\text{real} + i
+	\underbrace{y}_\text{imaginary}
+}^\text{complex number}
+$$
+
+#
 $\overrightarrow{ꕤ}$
 $\breve{ꕤ}$
 $\widehat{ꕤ}$

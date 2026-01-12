@@ -32,3 +32,5 @@ $\check{ꕤ}$
 $\vec{ꕤ}$
 $\underline{ꕤ}$
 
+# Dots
+https://en.wikibooks.org/wiki/LaTeX/Mathematics#Dots

@@ -7,11 +7,11 @@
 ```
 
 #
-```math
+$$
 \begin{theorem}
   If $A$ is positive definite symmetric, 
 \end{theorem}
-```
+$$
 
 # ∷
 ## Syntax

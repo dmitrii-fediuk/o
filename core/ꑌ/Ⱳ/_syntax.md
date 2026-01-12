@@ -22,6 +22,8 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_To
 <kbd>⟨ Ⱳ <var>T₀</var> ⟩∷<var>T</var></kbd>
 ### Clarification
 Это — частный случай применения оператора `∷`. 
+## Rationale
+This syntax is used when there is no standalone `ꑌⱳ_Article` for the `ꑌ𝔼`. 
 ## Examples
 ### 1.
 <kbd>Ⱳ <var>Theory_of_categories</var>∷<var>category</var></kbd>  
@@ -51,6 +53,5 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_To
 	A path component, consisting of a sequence of <mark>path segments</mark> separated by a slash (`/`).
 	</blockquote>
 </samp>
-## Rationale
-This syntax is used when there is no standalone `ꑌⱳ_Article` for the `ꑌ𝔼`. 
+
 

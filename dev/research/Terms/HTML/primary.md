@@ -3,6 +3,8 @@ https://html.spec.whatwg.org/multipage#toc-semantics
 https://html.spec.whatwg.org/multipage
 https://en.wikipedia.org/wiki/HTML5
 
+**HTML 5.1**, **HTML 5.2** and **HTML 5.3** were **all retired** on 28 January 2021, in favour of the **HTML living standard**.
+
 # article
 https://html.spec.whatwg.org/#the-article-element
 The article element represents a complete, or self-contained, composition in a document, page, application, or site and that is, in principle, independently distributable or reusable, e.g. in syndication. 

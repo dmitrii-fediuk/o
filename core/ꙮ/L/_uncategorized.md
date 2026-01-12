@@ -16,6 +16,9 @@ $\check{ꕤ}$
 $\vec{ꕤ}$
 $\underline{ꕤ}$
 
+#
+$k = {\color{red}x} \mathbin{\color{blue}-} 2$
+
 # 3
 $k_{n+1}$
 

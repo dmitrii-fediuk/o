@@ -10,6 +10,10 @@
 $$
 \usepackage{amsthm}
 \newtheorem{name}{Printed output}
+\newtheorem{mydef}{Definition}
+\begin{mydef}
+Here is a new definition
+\end{mydef}
 $$
 
 # ∷

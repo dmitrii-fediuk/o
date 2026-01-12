@@ -7,6 +7,11 @@
 ```
 
 #
+$$
+\begin{array}1 & 2\end{array}
+$$
+
+#
 $k_{n+1}$
 
 #

@@ -43,3 +43,58 @@ $\underline{ꕤ}$
 
 # Dots
 https://en.wikibooks.org/wiki/LaTeX/Mathematics#Dots
+
+#
+$A_1,A_2,\dotsc,$
+
+#
+$$
+z = \overbrace{
+	\underbrace{x}_\text{real} + i
+	\underbrace{y}_\text{imaginary}
+}^\text{complex number}
+$$
+
+#
+$$
+\operatorname{\Ⱳ} f(c)
+$$
+
+#
+$\overrightarrow{ꕤ}$
+$\breve{ꕤ}$
+$\widehat{ꕤ}$
+$\stackrel\frown{ꕤ}$
+$\tilde{ꕤ}$
+$\bar{ꕤ}$
+$\acute{ꕤ}$
+$\ddot{ꕤ}$
+$\mathring{ꕤ}$
+$\check{ꕤ}$
+$\vec{ꕤ}$
+$\underline{ꕤ}$
+
+#
+$k = {\color{red}x} \mathbin{\color{blue}-} 2$
+
+#
+$k_{n+1}$
+
+#
+$$
+f(n) = n^5 + 4n^2 + 2 |_{n=17}
+$$
+
+#
+```math
+\begin{equation} 
+	f(x)=(x+a)(x+b)
+\end{equation}
+```
+
+#
+$$
+\begin{equation} 
+	f(x)=(x+a)(x+b)
+\end{equation}
+$$

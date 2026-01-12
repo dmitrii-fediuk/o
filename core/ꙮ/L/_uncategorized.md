@@ -11,8 +11,7 @@ $$
 
 #
 $$
-\DeclareMathOperator*{\Ⱳ}{Ⱳ}
-\Ⱳ f(c)
+ \operatorname{\Ⱳ} f(c)
 $$
 
 #

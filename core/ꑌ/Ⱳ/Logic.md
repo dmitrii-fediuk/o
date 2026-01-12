@@ -7,12 +7,6 @@
 # ꑌ≡
 `ꑌ≡` ≔ Ⱳ Logical_biconditional
 
-# ꑌꖿ
-`ꑌꖿ` ≔ `ꑌProposition` ∨ `ꑌProposition`∷statement  ∨ `ꑌHypothesis` ∨ `ꑌClaim`
-
-# ꑌꘙ
-`ꑌꘙ` ≔ ⟨ Причина (источник) беспокойства ⟩
-
 # ꑌ𝒞
 `ꑌ𝒞` ≔ Ⱳ Theory_of_categories∷category 
  

@@ -15,21 +15,6 @@
 `ꖿ` `ꕤꖿᵢ⧙T⧘`
 
 
-# 3. ≔
-## Syntax
-~~~code
-A ≔ B
-~~~
-## Meaning
-`B`: некое понятие.  
-`A`: краткое обозначение для `B`.  
-(`A ≔ B`) ≡ (`A` denotes `B`) ≡ (`A` ≡ `B`).
-## Example
-### Code
-`DOR` ≔ Florida Department of Revenue
-### Explanation
-`DOR` — краткое обозначение для «Florida Department of Revenue».
-
 # 4. ⟨ … ⟩
 ## Syntax
 ~~~code

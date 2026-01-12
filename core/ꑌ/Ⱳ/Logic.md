@@ -1,3 +1,9 @@
+# ꑌ∧
+`ꑌ∧` ≔ Ⱳ Logical_conjunction
+
+# ꑌ∨
+`ꑌ∨` ≔ Ⱳ Logical_disjunction
+
 # ꑌꖿ
 `ꑌꖿ` ≔ 
 	⟨ Ⱳ Proposition ⟩
@@ -20,3 +26,6 @@
 	⟨ Ⱳ Predicate_(logic) ⟩ 
 	∨ ⟨ Ⱳ First-order_logic∷predicate ⟩ 
 	∨ ⟨ Ⱳ Function_symbol∷predicate ⟩ 
+
+# ꑌAxiom
+`ꑌAxiom` ≔ Ⱳ Axiom

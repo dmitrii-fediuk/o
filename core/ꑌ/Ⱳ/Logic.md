@@ -16,6 +16,15 @@
 	∨ `ꑌHypothesis`
 </pre>
 
+# ꑌꖿ
+`ꑌꖿ` ≔ 
+```markdown
+	`ꑌProposition`
+	∨ ⟨ Ⱳ Claim_(philosophy)∷⟨ a substantive statement about a thing ⟩⟩  
+	∨ `ꑌProposition`∷statement∷⟨declarative sentences themselves rather than their meanings  
+	∨ `ꑌHypothesis`
+```
+
 # ꑌꘙ
 `ꑌꘙ` ≔ ⟨ Причина (источник) беспокойства ⟩
 

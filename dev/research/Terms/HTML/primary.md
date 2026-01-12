@@ -17,6 +17,9 @@ https://github.com/whatwg/html/blob/main/FAQ.md#why-are-there-no-stable-snapshot
 # What does “Living Standard” mean?
 https://whatwg.org/faq#living-standard
 
+# HTML should support a way for anyone to invent new elements!
+https://github.com/whatwg/html/blob/main/FAQ.md#html-should-support-a-way-for-anyone-to-invent-new-elements
+
 # article
 https://html.spec.whatwg.org/#the-article-element
 The article element represents a complete, or self-contained, composition in a document, page, application, or site and that is, in principle, independently distributable or reusable, e.g. in syndication. 
@@ -24,6 +27,11 @@ This could be a forum post, a magazine or newspaper article, a blog entry, a use
 
 When article elements are nested, the inner article elements represent articles that are in principle related to the contents of the outer article. 
 For instance, a blog entry on a site that accepts user-submitted comments could represent the comments as article elements nested within the article element for the blog entry.
+
+# dl
+https://html.spec.whatwg.org/multipage/grouping-content.html#the-dl-element
+In order to annotate groups with microdata attributes, or other global attributes that apply to whole groups, or just for styling purposes, each group in a dl element can be wrapped in a div element. 
+This does not change the semantics of the dl element.
 
 # h1, h2, h3, h4, h5, h6
 https://html.spec.whatwg.org/#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements

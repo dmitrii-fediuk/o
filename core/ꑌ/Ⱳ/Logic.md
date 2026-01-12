@@ -11,8 +11,8 @@
 `ꑌꖿ` ≔ 
 <pre>
 	`ꑌProposition`
-	∨ ⟨ Ⱳ Claim_(philosophy)∷⟨ a substantive statement about a thing ⟩⟩  
-	∨ `ꑌProposition`∷statement∷⟨declarative sentences themselves rather than their meanings  
+	∨ ⟨ Ⱳ Claim_(philosophy) 
+	∨ `ꑌProposition`∷statement  
 	∨ `ꑌHypothesis`
 </pre>
 
@@ -20,8 +20,8 @@
 `ꑌꖿ` ≔ 
 ```markdown
 	`ꑌProposition`
-	∨ ⟨ Ⱳ Claim_(philosophy)∷⟨ a substantive statement about a thing ⟩⟩  
-	∨ `ꑌProposition`∷statement∷⟨declarative sentences themselves rather than their meanings  
+	∨ ⟨ Ⱳ Claim_(philosophy) 
+	∨ `ꑌProposition`∷statement  
 	∨ `ꑌHypothesis`
 ```
 

@@ -2,7 +2,7 @@
 $A_1,A_2,\dotsc,$
 
 #
-The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at <code>https://en.wikipedia.org/wiki/$\underbrace{x}_\text{real}$</code>.  
+The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at <code>https://en.wikipedia.org/wiki/<var>T</var></code>.  
 The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/$\underbrace{x}_\text{real}$`.  
 The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at  
 ```math

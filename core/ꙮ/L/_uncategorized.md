@@ -1,55 +1,10 @@
 #
-$\binom{n}{m}$
-#
 ```math
 \left( \sum_{k=1}^n a_k b_k \right)^2 
 \leq 
 \left( \sum_{k=1}^n a_k^2 \right) 
 \left( \sum_{k=1}^n b_k^2 \right)
 ```
-#
-$$
-	\left( \sum_{k=1}^n a_k b_k \right)^2 
-	\leq 
-	\left( \sum_{k=1}^n a_k^2 \right) 
-	\left( \sum_{k=1}^n b_k^2 \right)
-$$
-#
-<math title="x/y" xmlns="http://www.w3.org/1998/Math/MathML">
-	<mstyle 
-		mathcolor="#000" 
-		fontsize="1.2em" 
-		mathsize="1.2em" 
-		fontfamily="serif" 
-		mathvariant="serif" 
-		displaystyle="true"
-	>
-		<mfrac>
-			<mi>x</mi>
-			<mi>y</mi>
-		</mfrac>
-	</mstyle>
-</math>
-
-#
-<math xmlns="http://www.w3.org/1998/Math/MathML">
-	<msub>
-		<mi>f</mi>
-		<mn>1</mn>
-	</msub>
-	<mo>,</mo>
-	<msub>
-		<mi>f</mi>
-		<mn>2</mn>
-	</msub>
-	<mo>,</mo> 
-	<mo>…</mo>
-	<mo>,</mo>
-	<msub>
-		<mi>f</mi>
-		<mi>n</mi>
-	</msub>
-</math>
 
 # ∷
 ## Syntax

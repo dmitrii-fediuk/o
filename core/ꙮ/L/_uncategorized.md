@@ -1,4 +1,7 @@
 #
+$A_1,A_2,\dotsc,$
+
+#
 $\overrightarrow{ꕤ}$
 $\breve{ꕤ}$
 $\widehat{ꕤ}$

@@ -43,12 +43,12 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_To
 	</blockquote>
 </samp>
 ### 3.
-<kbd>Ⱳ <var>Wikipedia:Official_names</var>∷⟨ <var>official name</var> ⟩</kbd>  
+<kbd>Ⱳ <var>Uniform_Resource_Identifier</var>∷⟨ <var>path segment</var> ⟩</kbd>  
 ≡  
 <samp>
-	The `ꑌ𝔼` **official name** in the context:   
+	The `ꑌ𝔼` **path segment** in the context:   
 	<blockquote>
-	This definition generalizes the definition of <mark>intervals</mark> of real numbers.
+	A path component, consisting of a sequence of <mark>path segments</mark> separated by a slash (`/`).
 	</blockquote>
 </samp>
 ## Rationale

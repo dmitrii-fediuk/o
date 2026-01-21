@@ -1,9 +1,6 @@
 # `ꑌ𝔼`
 `ꑌ𝔼` ≔ Ⱳ Entity
 
-# ꑌ†
-`ꑌ†` ≔ Ⱳ Problem_solving∷problem
-
 # ꑌꕤ
 `ꑌꕤ` ≔ Ⱳ Meaning_(philosophy)
 

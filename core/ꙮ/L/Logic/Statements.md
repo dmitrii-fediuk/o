@@ -14,3 +14,9 @@
 <code>Ꙅ <var>A</var></code> 
 ## Meaning
 <var>`A`</var> is a `ꑌꙄ`.
+
+# †
+## Syntax
+<code>† <var>A</var></code> 
+## Meaning
+<var>`A`</var> is a `ꑌ†`.

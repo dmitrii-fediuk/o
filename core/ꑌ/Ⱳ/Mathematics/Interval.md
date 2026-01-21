@@ -2,4 +2,7 @@
 `ꑌ𝕀` ≔ Ⱳ Partially_ordered_set∷interval   
 
 # ꑌʍ_Open_Interval
-`ꑌʍ_Open_Interval` ≔ Ⱳ /Interval_(mathematics)∷⟨ open interval ⟩ 
+`ꑌʍ_Open_Interval` ≔ Ⱳ Interval_(mathematics)∷⟨ open interval ⟩ 
+
+# ꑌʍ_Half_Open_Interval
+`ꑌʍ_Half_Open_Interval` ≔ Ⱳ Interval_(mathematics)∷⟨  half-open interval ⟩ 

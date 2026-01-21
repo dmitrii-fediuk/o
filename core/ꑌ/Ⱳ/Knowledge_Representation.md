@@ -1,2 +1,0 @@
-# ꑌMetadata
-`ꑌMetadata` ≔ Ⱳ Metadata

@@ -1,6 +1,9 @@
 # ꑌւ_Formula
 `ꑌւ_Formula` ≔ `ꑌւ_Propositional_Formula` ∨ `ꑌւ_Well_Formed_Formula`
 
+# ꑌւ_Predicate_Variable
+`ꑌւ_Predicate_Variable` ≔ Ⱳ Predicate_variable
+
 # ꑌւ_Propositional_Formula
 `ꑌւ_Propositional_Formula` ≔ Ⱳ Propositional_formula
 

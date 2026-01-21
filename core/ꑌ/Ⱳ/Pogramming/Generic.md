@@ -6,3 +6,6 @@
 
 # ꑌᴘ_Formal_Generic_Parameter
 `ꑌᴘ_Formal_Generic_Parameter` ≔ Ⱳ Parameter_(computer_programming)∷⟨ formal generic parameter ⟩
+
+# ꑌᴘ_Template_Metaprogramming
+`ꑌᴘ_Template_Metaprogramming` ≔ Ⱳ Template_metaprogramming

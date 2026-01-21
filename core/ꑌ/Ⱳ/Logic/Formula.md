@@ -4,6 +4,9 @@
 # ꑌւ_Propositional_Formula
 `ꑌւ_Propositional_Formula` ≔ Ⱳ Propositional_formula
 
+# ꑌւ_Propositional_Variable
+`ꑌւ_Propositional_Variable` ≔ Ⱳ Propositional_variable
+
 # ꑌւ_Substitution
 `ꑌւ_Substitution` ≔ Ⱳ Substitution_(logic)
 

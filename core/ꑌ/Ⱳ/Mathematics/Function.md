@@ -1,3 +1,6 @@
+# ꑌʍ_Apply
+`ꑌʍ_Apply` ≔ Ⱳ Apply
+
 # ꑌʍ_Codomain
 `ꑌʍ_Codomain` ≔ Ⱳ Codomain
 

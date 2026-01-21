@@ -1,5 +1,5 @@
-# ꑌꖿ
-`ꑌꖿ` ≔ `ꑌProposition` ∨ `ꑌProposition`∷statement  ∨ `ꑌHypothesis` ∨ `ꑌClaim`
+# ꑌꙄ
+`ꑌꙄ` ≔ `ꑌProposition` ∨ `ꑌProposition`∷statement  ∨ `ꑌHypothesis` ∨ `ꑌClaim`
 
 # ꑌꘙ
 `ꑌꘙ` ≔ ⟨ Причина (источник) беспокойства ⟩

@@ -13,9 +13,6 @@
 #
 `ꑌ𐏕` ≔ Ⱳ Terminology∷term
 
-# ꑌAttribute_Domain
-`ꑌAttribute_Domain` ≔ Ⱳ Attribute_domain
-
 # ꑌMetadata
 `ꑌMetadata` ≔ Ⱳ Metadata
 

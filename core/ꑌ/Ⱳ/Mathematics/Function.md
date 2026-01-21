@@ -7,6 +7,9 @@
 # ꑌʍ_Function
 `ꑌʍ_Function` ≔ Ⱳ Function_(mathematics)
 
+# ꑌʍ_Function_Application
+`ꑌʍ_Function_Application` ≔ Ⱳ Function_application
+
 # ꑌʍ_Functor
 `ꑌʍ_Functor` ≔ Ⱳ Functor
 

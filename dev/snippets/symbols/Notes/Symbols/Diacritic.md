@@ -1,4 +1,4 @@
-A꙳	𞥋A	A՛	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A
+A꙳	𞥋A	A՛	A՜	A՝	A՞	A։	A৽	A৲	Aㆴ	Aㆵ	Aㆶ	Aㆷ	A	A	A	A	A	A	A	A	A	A	A
 A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A
 A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A
 A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A

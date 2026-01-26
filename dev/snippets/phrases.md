@@ -1,5 +1,5 @@
 #
-`STUB` ≔ ⟨ STUB ⟩ 
+`STUB` ≔ ⟪ STUB ⟫ ⟨ STUB ⟩ 
 
 #
 `STUB` ≔ ⟨ Ⱳ STUB ⟩ 
@@ -88,15 +88,15 @@ Key challenges
 
 # `Q1ᨀ`
 `Q1ᨀ` ≔ ⟪ My initial question to you ⟫
-```
+~~~markdown
 STUB
-```
+~~~
 
 # `A1ᨀ`
 `A1ᨀ` ≔ ⟪ Your answer to `Q1ᨀ` ⟫
-```
+~~~markdown
 STUB
-```
+~~~
 
 # Содержание `A1ᚖ⠿-T`
 

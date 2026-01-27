@@ -86,7 +86,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Latin_Extended-D
 ꝰ	ꝱ	ꝲ	ꝳ	ꝴ	ꝵ	ꝶ	ꝷ	ꝸ	Ꝺ	ꝺ	Ꝼ	ꝼ	Ᵹ	Ꝿ	ꝿ
 Ꞁ	ꞁ	Ꞃ	ꞃ	Ꞅ	ꞅ	Ꞇ	ꞇ	ꞈ	꞉	꞊	Ꞌ	ꞌ	Ɥ	ꞎ	ꞏ
 Ꞑ	ꞑ	Ꞓ	ꞓ	ꞔ	ꞕ	Ꞗ	ꞗ	Ꞙ	ꞙ	Ꞛ	ꞛ	Ꞝ	ꞝ	Ꞟ	ꞟ
-Ꞡ	ꞡ	Ꞣ	ꞣ	Ꞥ	ꞥ	Ꞧ	ꞧ	Ꞩ	ꞩ	Ɦ	Ɜ	Ɡ	Ɬ	Ɪ	ꞯ
+Ꞡ	ꞡ	Ꞣ	ꞣ	Ꞥ	ꞥ	Ꞧ	ꞧ	Ꞩ	ꞩ	Ɦ	Ɜ	Ɡ	Ɬ	Ɪ	
 Ʞ	Ʇ	Ʝ	Ꭓ	Ꞵ	ꞵ	Ꞷ	ꞷ	ꟹ	ꟸ	ꟹ	ꟺ	ꟻ	ꟼ	ꟽ	ꟾ	ꟿ
 
 # Latin Extended-E

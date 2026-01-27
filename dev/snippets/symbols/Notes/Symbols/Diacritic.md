@@ -1,6 +1,6 @@
 A꙳	𞥋A	A՛	A՜	A՝	A՞	A։	A৽	A৲	Aㆴ	Aㆵ	Aㆶ	Aㆷ	A𑁊	A𑁉	A𑁦	Aᨀ	Aᨔ	Aꮀ	Aꮣ	Aꮧ	AⲲ	Aⳗ	A⳾
 A𐠯	A𐠒	A ⷾ	A ⷲ	A ⷯ	A𐑌	A𐐮	A॰	Aॱ	A።	A፧	Aⰽ	Aⰳ	Aⱖ	Aʹ	A͵	Aϟ	A૰	A״	Aײ	A𐡉	Aಀ	A𐩑	A៙	
-Aະ	Aາ	A𐤲	A᠐	Aᠬ	Aᠯ	Aᡪ	A။	A၊	Aꧦ	Aߪ	A᱿	A᱾	A	A	A	A	A	A	A	A	A	A	A
+Aະ	Aາ	A𐤲	A᠐	Aᠬ	Aᠯ	Aᡪ	A။	A၊	Aꧦ	Aߪ	A᱿	A᱾	A𐏔	A𐩲	A𐩯	A𐰼	A𐓷	A	A	A	A	A	A
 A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A
 A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A
 A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A

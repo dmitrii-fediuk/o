@@ -398,7 +398,6 @@ https://en.wikipedia.org/wiki/Executive_functions
 https://en.wikipedia.org/wiki/Existence
 https://en.wikipedia.org/wiki/Existential_quantification
 https://en.wikipedia.org/wiki/Expected_utility_hypothesis
-https://en.wikipedia.org/wiki/Expected_utility_hypothesis
 https://en.wikipedia.org/wiki/Expected_value
 https://en.wikipedia.org/wiki/Experience
 https://en.wikipedia.org/wiki/Explainable_artificial_intelligence

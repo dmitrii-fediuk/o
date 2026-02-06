@@ -947,7 +947,6 @@ https://en.wikipedia.org/wiki/Purposivism
 https://en.wikipedia.org/wiki/Pyrrhic_victory
 https://en.wikipedia.org/wiki/Qualification_problem
 https://en.wikipedia.org/wiki/Quantifier_(logic)
-https://en.wikipedia.org/wiki/Quantifier_(logic)
 https://en.wikipedia.org/wiki/Quasi-experiment
 https://en.wikipedia.org/wiki/Question
 https://en.wikipedia.org/wiki/Questionable_cause

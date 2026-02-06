@@ -111,8 +111,6 @@ https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation
 https://en.wikipedia.org/wiki/Bag-of-words_model
 https://en.wikipedia.org/wiki/Bargaining_model_of_war
 https://en.wikipedia.org/wiki/Base_rate_fallacy
-https://en.wikipedia.org/wiki/Base_rate_fallacy
-https://en.wikipedia.org/wiki/Base_rate_fallacy
 https://en.wikipedia.org/wiki/Baudot_code
 https://en.wikipedia.org/wiki/Begging_the_question
 https://en.wikipedia.org/wiki/Behavioral_subtyping

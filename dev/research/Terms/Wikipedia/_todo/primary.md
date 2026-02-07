@@ -1013,6 +1013,7 @@ https://en.wikipedia.org/wiki/Retraining
 https://en.wikipedia.org/wiki/Revenue_equivalence
 https://en.wikipedia.org/wiki/Reversal_theory
 https://en.wikipedia.org/wiki/Rewrite_rule
+https://en.wikipedia.org/wiki/Ringelmann_effect
 https://en.wikipedia.org/wiki/Right_to_quote
 https://en.wikipedia.org/wiki/Rigid_designator
 https://en.wikipedia.org/wiki/Rigidity_(psychology)

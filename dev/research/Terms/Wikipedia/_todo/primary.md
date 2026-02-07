@@ -1307,5 +1307,6 @@ https://en.wikipedia.org/wiki/Word_embedding
 https://en.wikipedia.org/wiki/Word_problem_(mathematics)
 https://en.wikipedia.org/wiki/Work_method_statement
 https://en.wikipedia.org/wiki/Writing_system
+https://en.wikipedia.org/wiki/X-inefficiency
 https://en.wikipedia.org/wiki/Yale_shooting_problem
 https://en.wikipedia.org/wiki/Z_notation

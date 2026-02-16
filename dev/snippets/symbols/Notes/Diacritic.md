@@ -1,5 +1,5 @@
 # Primary
-A᛭	A༄	Aᨀ	A꙳	A𐏐
+A᛭	A༄	Aᨀ	A꙳	A𐏐 Aⱑ
 
 # Other
 A	A՛	A՜	A՝	A՞	A։	A৽	A৲	Aㆴ	Aㆵ	Aㆶ	Aㆷ	A𑁊	A𑁉	A𑁦	Aᨔ	Aꮀ	Aꮣ	Aꮧ	AⲲ	Aⳗ	A⳾	A⸸	A⸼

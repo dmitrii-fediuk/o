@@ -45,6 +45,12 @@ STUB
 Key definitions
 Key challenges
 
+#
+Есть ли здесь языковые ошибки?
+```
+STUB
+```
+
 ## `𐒌⫳STUB⠿`
 `𐒌⫳STUB⠿` ≔ ⠿~ ⟨ недостатки `A⫳STUB` ⟩ 
 ```markdown

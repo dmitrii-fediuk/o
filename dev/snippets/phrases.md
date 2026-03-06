@@ -81,6 +81,7 @@ STUB
 ```
 
 ⵂSTUBⵂ
+Pro
 # STUB. Анализ `ꘙ⠿` №STUB (выполнен Gemini Deep Think)
 # STUB. Анализ `꘨ⵂPDⵂ⠿` (выполнен Gemini Deep Think)
 # STUB. Анализ `ꘙ⠿` (анализ экземпляром №STUB Gemini Deep Research)

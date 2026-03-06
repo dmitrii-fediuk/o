@@ -88,6 +88,7 @@ Pro
 # STUB. Анализ `ꕘⵂG༄ⵂ⠿` (выполнен Gemini Deep Think)
 # STUB. Анализ `С⁎` и `S༄` (выполнен экземпляром №STUB Gemini Deep Research)
 # STUB. Анализ `ꘁ⠿` №STUB (выполнен Gemini Deep Think)
+# STUB. Перечень `𐊑⠿` (выявлен Gemini Pro)
 # STUB. Анализ `𐊑⠿` №STUB (выполнен Gemini Deep Think)
 # STUB. Анализ `𐊑⠿` (выполнен экземпляром №STUB Gemini Deep Research)
 # STUB. Анализ `Mᚖ⠿` (выполнен Gemini Deep Think)

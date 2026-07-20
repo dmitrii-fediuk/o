@@ -1,4 +1,4 @@
-# STUB. Моя переписка с клиентом
+# STUB. Переписка с клиентом // Часть STUB
 ## STUB.STUB. Моё письмо №STUB, 2026-STUB
 ~~~~~~markdown
 STUB

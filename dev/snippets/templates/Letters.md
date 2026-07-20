@@ -4,7 +4,7 @@
 STUB
 ~~~~~~
 
-## 2.STUB. Письмо клиента №STUB, 2026-STUB
+## STUB.STUB. Письмо клиента №STUB, 2026-STUB
 ~~~~~~markdown
 STUB
 ~~~~~~

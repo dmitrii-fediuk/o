@@ -1,0 +1,1 @@
+document.querySelectorAll('style, svg').forEach(e => e.remove());

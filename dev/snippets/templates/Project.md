@@ -40,6 +40,36 @@ STUB
 STUB
 ~~~
 
+### 1.3.3
+~~~markdown
+STUB
+~~~
+
+### 1.3.4
+~~~markdown
+STUB
+~~~
+
+### 1.3.5
+~~~markdown
+STUB
+~~~
+
+### 1.3.6
+~~~markdown
+STUB
+~~~
+
+### 1.3.7
+~~~markdown
+STUB
+~~~
+
+### 1.3.8
+~~~markdown
+STUB
+~~~
+
 # 2. Анализ
 ## 2.1 
 ### Мой вопрос

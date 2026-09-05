@@ -8,3 +8,8 @@ document.querySelectorAll('style, svg').forEach(e => e.remove());
 facebook.com
 google-analytics.com
 ```
+
+#
+```javascript
+JSON.stringify(window.google_tag_data);
+```

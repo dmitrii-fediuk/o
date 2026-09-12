@@ -13,3 +13,8 @@ google-analytics.com
 ```javascript
 JSON.stringify(window.google_tag_data);
 ```
+
+#
+```javascript
+window.addEventListener('message', console.log);
+```

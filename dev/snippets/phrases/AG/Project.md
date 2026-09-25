@@ -1,8 +1,12 @@
 #
-Заполни §1.2 здесь: C:\work\upwork\code\proposals\daily\2026\09\25\2 - Google Shopping\ꙮ\0 - Context/.md
-https://www.upwork.com/jobs/~022102807834387250886 открыто в Chrome.
+Заполни §1.2 и §1.3 здесь: C:\work\upwork\code\proposals\daily\2026\09\25\4 - glg.com\ꙮ\0 - Context/.md
+https://www.upwork.com/jobs/~022102404533740443799 открыто в Chrome.
 
-Пример смотри здесь: C:\work\upwork\code\proposals/daily/2026/09/25/1 - GoHighLevel/ꙮ/0 - Context/.md
+#
+Примеры смотри в соседних папках: 
+C:\work\upwork\code\proposals\daily\2026\09\25\1 - GoHighLevel
+C:\work\upwork\code\proposals\daily\2026\09\25\2 - Google Shopping
+C:\work\upwork\code\proposals\daily\2026\09\25\3 - GoHighLevel
 
 #
 Что беспокоит клиента в текущем проекте?

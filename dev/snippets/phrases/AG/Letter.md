@@ -10,3 +10,11 @@
 Дополнительные правила форматирования — в §2 здесь: C:\work\research\provision\code\AI/dev/snippets/phrases/Analysis.md
 
 Ну и мои примеры из `*/result/EN/final.md` (с июня) смотри — там правильное всё: и форматирование, и перевод, и язык.
+
+#
+```
+An in-depth technical audit of your production websites (`glg.com` and `glginc.cn`) reveals that while OneTrust geolocation and visual banner rendering appear functional, your tracking infrastructure currently violates GDPR, CCPA, and China PIPL due to a critical timing flaw and hardcoded scripts bypassing the consent management platform (CMP).
+```
+
+Так не пиши. Пиши максимально коротко, конкретно и прямолинейно.
+Ещё раз посмотри, как я сам пишу: ни одного лишнего слова.

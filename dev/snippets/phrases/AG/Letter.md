@@ -31,4 +31,4 @@ An in-depth technical audit of your production websites (`glg.com` and `glginc.c
 Backticks вокруг ссылок убери: я их использую только в портфолио (где ссылки не отображаются), но не в proposals.
 
 #
-Ссылки давай с точностью до anchor: посмотри, как я сам это делал в других proposals
+Ссылки на документацию давай с точностью до anchor: посмотри, как я сам это делал в других proposals.

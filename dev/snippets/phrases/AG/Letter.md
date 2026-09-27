@@ -34,6 +34,18 @@
 Для экспериментов используй своё отдельное окно браузера на мониторе, который Windows обозначает как 3 (самый правый).
 
 #
+Ссылки на документацию всегда записывай как можно более коротко (только проверяй работоспособность):
+
+##
+`https://help.gohighlevel.com/support/solutions/articles/48001236281-how-to-set-up-a-funnel-event-pixel-for-facebook-conversion-api` → `https://help.gohighlevel.com/support/solutions/articles/48001236281`
+
+##
+Убирай `.www`.
+
+##
+Убирай `/` на конце.
+
+#
 `https://cdn.intellimize.co/snippet/117279289.js`
 такие технические ссылки-доказательства бери в backticks: клиент по ним ходить не будет, они же не для людей, а для программ.
 

@@ -1,13 +1,13 @@
 #
 Ну всё, пора писать отчёт.
-Помести его в STUB\result\EN\draft.md
+Помести его в `result/EN/draft.md`.
 
-В качестве примера посмотри мои отчёты `*/result/EN/final.md` за июнь, июль, август и сентябрь этого года внутри C:\work\upwork\code\proposals\daily\2026
+В качестве примера посмотри мои отчёты `*/result/EN/final.md` за июнь, июль, август и сентябрь этого года внутри `C:/work/upwork/code/proposals/daily/2026`
 
-Правила перевода — в §3 здесь: C:\work\research\provision\code\AI/dev/snippets/phrases/Translation.md
+Правила перевода — в §3 здесь: `C:/work/research/provision/code/AI/dev/snippets/phrases/Translation.md`
 Только клиент из США, поэтому нужен English (US).
 
-Дополнительные правила форматирования — в §2 здесь: C:\work\research\provision\code\AI/dev/snippets/phrases/Analysis.md
+Дополнительные правила форматирования — в §2 здесь: `C:/work/research/provision/code/AI/dev/snippets/phrases/Analysis.md`
 
 Ну и мои примеры из `*/result/EN/final.md` (с июня) смотри — там правильное всё: и форматирование, и перевод, и язык.
 
@@ -25,6 +25,13 @@
 
 #
 Ссылки на документацию давай с точностью до anchor: посмотри, как я сам это делал в других proposals.
+
+#
+Все ссылки всегда проверяй на работоспособность.
+Работоспособность anchor проверяй в моём браузере, не через curl.
+
+#
+Для экспериментов используй своё отдельное окно браузера на мониторе, который Windows обозначает как 3 (самый правый).
 
 #
 `https://cdn.intellimize.co/snippet/117279289.js`

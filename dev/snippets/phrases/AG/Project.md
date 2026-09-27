@@ -4,7 +4,7 @@ https://www.upwork.com/jobs/~022102404533740443799 открыто в Chrome.
 
 #
 Примеры смотри в соседних папках: 
-`C:/work/upwork/code/proposals/daily/2026/09/25/<Project>/ꙮ/0 - Context/.md`
+`C:/work/upwork/code/proposals/daily/2026/09/<25…26>/<Project>/ꙮ/0 - Context/.md`
 
 #
 Что беспокоит клиента в текущем проекте?

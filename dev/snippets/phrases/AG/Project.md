@@ -11,5 +11,4 @@ https://www.upwork.com/jobs/~022102404533740443799 открыто в Chrome.
 Какие из своих источников беспокойств клиент намерен закрыть этим проектом?
 
 
-Мои вопросы и твои ответы добавляй в `C:/work/upwork/code/proposals/daily/2026/09/STUB/STUB/ꙮ/0 - Context/.md`
-А также в `C:/work/upwork/code/proposals/daily/2026/09/STUB/STUB/ꙮ/1 - Анализ`
+Мои вопросы и твои ответы добавляй в `ꙮ/0 - Context/.md` и в `ꙮ/1 - Анализ`

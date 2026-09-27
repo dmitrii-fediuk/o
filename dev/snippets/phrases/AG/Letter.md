@@ -68,3 +68,19 @@ on your $47 guide page (`/client-magnet`)
 ```
 `fullybooked-pro.com/client-magnet` ($47 low-ticket offer)
 ```
+
+#
+Каждое предложение начинай с новой строки.
+Так во всех моих текстах, кстати.
+
+#
+Никогда не повторяй одно и то же утверждение несколько раз.
+Если тебе нужно — ссылайся на него.
+Такие повторы не пиши:
+##
+```
+1. On `wayse.pt`, organic search collapse is caused by 100% Client-Side Rendering with mass Soft 404 client-side redirects
+<...>
+2. Organic traffic collapse and indexing failure:
+2.1. `wayse.pt` is built as a 100% Client-Side Rendered (CSR) React Single-Page Application...
+```

@@ -12,11 +12,7 @@
 Ну и мои примеры из `*/result/EN/final.md` (с июня) смотри — там правильное всё: и форматирование, и перевод, и язык.
 
 #
-```
-An in-depth technical audit of your production websites (`glg.com` and `glginc.cn`) reveals that while OneTrust geolocation and visual banner rendering appear functional, your tracking infrastructure currently violates GDPR, CCPA, and China PIPL due to a critical timing flaw and hardcoded scripts bypassing the consent management platform (CMP).
-```
-
-Так не пиши. Пиши максимально коротко, конкретно и прямолинейно.
+Пиши максимально коротко, конкретно и прямолинейно.
 Ещё раз посмотри, как я сам пишу: ни одного лишнего слова.
 
 #
@@ -24,11 +20,8 @@ An in-depth technical audit of your production websites (`glg.com` and `glginc.c
 Изначально клиент видит только примерно первые 200 символов моего письма, и важно максимально зацепить его, без пустых слов.
 
 #
-Я отредактировал твой ответ.
-Перед каждым шагом всегда проверяй, что я сделал: не затирай мои правки.
-
-#
-Backticks вокруг ссылок убери: я их использую только в портфолио (где ссылки не отображаются), но не в proposals.
+Я могу вручную редактировать `draft.md`.
+Перед каждой своей правкой всегда проверяй, что я сделал: не затирай мои правки.
 
 #
 Ссылки на документацию давай с точностью до anchor: посмотри, как я сам это делал в других proposals.
@@ -36,3 +29,7 @@ Backticks вокруг ссылок убери: я их использую то�
 #
 `https://cdn.intellimize.co/snippet/117279289.js`
 такие технические ссылки-доказательства бери в backticks: клиент по ним ходить не будет, они же не для людей, а для программ.
+
+#
+Backticks вокруг остальных ссылок не ставь: я их использую только в портфолио (где ссылки не отображаются), но не в proposals.
+

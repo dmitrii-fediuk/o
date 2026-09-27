@@ -35,3 +35,14 @@ Backticks вокруг остальных ссылок не ставь: я их 
 
 #
 Не указывай язык для блоков в backticks: Upwork это не поддерживает.
+
+#
+Во всём анализе используй единую терминологию.
+Не пиши так:
+```
+on your $47 guide page (`/client-magnet`)
+```
+
+```
+`fullybooked-pro.com/client-magnet` ($47 low-ticket offer)
+```

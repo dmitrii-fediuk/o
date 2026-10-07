@@ -20,12 +20,17 @@
 При `Bash-Pi-С` каждый `Bash-Pi-Ai` должен располагаться на новой строке.
 
 # 6.
-Если `Bash-Pi-С` использует `Bash-Pi-As`, то передача `Bash-Pi-As` в `Bash-Pi` должна осуществляться объявлением массива следующим образом:
+## 6.1.
+Если `Bash-Pi-С` использует менее 3 `Bash-Pi-As`, то синтаксис с `o` не используй.
+
+## 6.2.
+Если `Bash-Pi-С` использует 3 или более `Bash-Pi-As`, то передача `Bash-Pi-As` в `Bash-Pi` должна осуществляться объявлением массива следующим образом:
 ```bash
 f1='code'
 f2='code-2'
 o=(
 	--brief
+	--ignore-case
 	--recursive
 )
 diff "${o[@]}" $f2 $f1
@@ -47,6 +52,7 @@ diff "${o[@]}" $f2 $f1
         # 1) -q
         # 2) «report only when files differ»
         --brief
+        --ignore-case
         --recursive
     )
     diff "${o[@]}" $f2 $f1

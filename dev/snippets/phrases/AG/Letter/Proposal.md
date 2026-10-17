@@ -1,4 +1,7 @@
-Ну вот теперь напиши `result/EN/draft.md`.
+#
+Ну вот теперь на основе §§1-4 ответа 2 напиши `result/EN/draft.md`.
+
+#
 В качестве примера посмотри, как я сам подобные proposal пишу:
 
 - `C:/work/upwork/code/clients/2026/09/1 - wayse.pt/Contracts/2026/1 - 44587093/Public/Letters/my/2026/09/27 - Proposal/result/EN/Full.md`
@@ -9,3 +12,7 @@
 - `C:/work/upwork/code/proposals/daily/2026/07/10/1 - GA & _gl/result/EN/raw.md`
 
 И т.п.
+
+#
+Проблемы излагай в порядке важности.
+
